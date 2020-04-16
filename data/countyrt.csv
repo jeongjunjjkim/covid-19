@@ -217,8 +217,8 @@ fips,state,county,date,ML
 1019,Alabama,Cherokee,2020-04-10,0.0
 1019,Alabama,Cherokee,2020-04-11,0.0
 1019,Alabama,Cherokee,2020-04-12,0.0
-1019,Alabama,Cherokee,2020-04-13,11.85
-1019,Alabama,Cherokee,2020-04-14,11.85
+1019,Alabama,Cherokee,2020-04-13,0.0
+1019,Alabama,Cherokee,2020-04-14,0.0
 1021,Alabama,Chilton,2020-03-25,2.0
 1021,Alabama,Chilton,2020-03-26,1.8
 1021,Alabama,Chilton,2020-03-27,1.69
@@ -254,7 +254,7 @@ fips,state,county,date,ML
 1023,Alabama,Choctaw,2020-04-06,0.0
 1023,Alabama,Choctaw,2020-04-07,0.0
 1023,Alabama,Choctaw,2020-04-08,0.0
-1023,Alabama,Choctaw,2020-04-09,11.94
+1023,Alabama,Choctaw,2020-04-09,0.0
 1023,Alabama,Choctaw,2020-04-10,1.0
 1023,Alabama,Choctaw,2020-04-11,1.0
 1023,Alabama,Choctaw,2020-04-12,1.0
@@ -344,9 +344,9 @@ fips,state,county,date,ML
 1033,Alabama,Colbert,2020-04-06,0.0
 1033,Alabama,Colbert,2020-04-07,0.0
 1033,Alabama,Colbert,2020-04-08,0.0
-1033,Alabama,Colbert,2020-04-09,11.950000000000001
-1033,Alabama,Colbert,2020-04-10,11.950000000000001
-1033,Alabama,Colbert,2020-04-11,11.950000000000001
+1033,Alabama,Colbert,2020-04-09,0.0
+1033,Alabama,Colbert,2020-04-10,0.0
+1033,Alabama,Colbert,2020-04-11,0.0
 1033,Alabama,Colbert,2020-04-12,1.0
 1033,Alabama,Colbert,2020-04-13,1.0
 1033,Alabama,Colbert,2020-04-14,1.0
@@ -603,7 +603,7 @@ fips,state,county,date,ML
 1059,Alabama,Franklin,2020-03-30,0.0
 1059,Alabama,Franklin,2020-03-31,0.0
 1059,Alabama,Franklin,2020-04-01,0.0
-1059,Alabama,Franklin,2020-04-02,11.94
+1059,Alabama,Franklin,2020-04-02,0.0
 1059,Alabama,Franklin,2020-04-03,1.0
 1059,Alabama,Franklin,2020-04-04,1.0
 1059,Alabama,Franklin,2020-04-05,1.0
@@ -810,7 +810,7 @@ fips,state,county,date,ML
 1079,Alabama,Lawrence,2020-03-31,1.52
 1079,Alabama,Lawrence,2020-04-01,0.0
 1079,Alabama,Lawrence,2020-04-02,0.0
-1079,Alabama,Lawrence,2020-04-03,10.09
+1079,Alabama,Lawrence,2020-04-03,0.0
 1079,Alabama,Lawrence,2020-04-04,1.0
 1079,Alabama,Lawrence,2020-04-05,1.0
 1079,Alabama,Lawrence,2020-04-06,1.0
@@ -1060,9 +1060,9 @@ fips,state,county,date,ML
 1099,Alabama,Monroe,2020-04-09,0.0
 1099,Alabama,Monroe,2020-04-10,0.0
 1099,Alabama,Monroe,2020-04-11,0.0
-1099,Alabama,Monroe,2020-04-12,11.950000000000001
-1099,Alabama,Monroe,2020-04-13,11.950000000000001
-1099,Alabama,Monroe,2020-04-14,11.950000000000001
+1099,Alabama,Monroe,2020-04-12,0.0
+1099,Alabama,Monroe,2020-04-13,0.0
+1099,Alabama,Monroe,2020-04-14,0.0
 1101,Alabama,Montgomery,2020-03-13,2.0
 1101,Alabama,Montgomery,2020-03-14,2.0
 1101,Alabama,Montgomery,2020-03-15,2.0
@@ -1584,7 +1584,7 @@ fips,state,county,date,ML
 2122,Alaska,Kenai Peninsula Borough,2020-04-11,0.0
 2122,Alaska,Kenai Peninsula Borough,2020-04-12,0.0
 2122,Alaska,Kenai Peninsula Borough,2020-04-13,0.0
-2122,Alaska,Kenai Peninsula Borough,2020-04-14,11.41
+2122,Alaska,Kenai Peninsula Borough,2020-04-14,0.0
 2130,Alaska,Ketchikan Gateway Borough,2020-03-17,2.0
 2130,Alaska,Ketchikan Gateway Borough,2020-03-18,1.8800000000000001
 2130,Alaska,Ketchikan Gateway Borough,2020-03-19,1.8
@@ -1604,16 +1604,16 @@ fips,state,county,date,ML
 2130,Alaska,Ketchikan Gateway Borough,2020-04-02,0.0
 2130,Alaska,Ketchikan Gateway Borough,2020-04-03,0.0
 2130,Alaska,Ketchikan Gateway Borough,2020-04-04,0.0
-2130,Alaska,Ketchikan Gateway Borough,2020-04-05,11.02
-2130,Alaska,Ketchikan Gateway Borough,2020-04-06,11.02
-2130,Alaska,Ketchikan Gateway Borough,2020-04-07,11.02
-2130,Alaska,Ketchikan Gateway Borough,2020-04-08,11.02
-2130,Alaska,Ketchikan Gateway Borough,2020-04-09,11.02
-2130,Alaska,Ketchikan Gateway Borough,2020-04-10,11.02
-2130,Alaska,Ketchikan Gateway Borough,2020-04-11,11.02
-2130,Alaska,Ketchikan Gateway Borough,2020-04-12,11.02
-2130,Alaska,Ketchikan Gateway Borough,2020-04-13,11.02
-2130,Alaska,Ketchikan Gateway Borough,2020-04-14,11.02
+2130,Alaska,Ketchikan Gateway Borough,2020-04-05,0.0
+2130,Alaska,Ketchikan Gateway Borough,2020-04-06,0.0
+2130,Alaska,Ketchikan Gateway Borough,2020-04-07,0.0
+2130,Alaska,Ketchikan Gateway Borough,2020-04-08,0.0
+2130,Alaska,Ketchikan Gateway Borough,2020-04-09,0.0
+2130,Alaska,Ketchikan Gateway Borough,2020-04-10,0.0
+2130,Alaska,Ketchikan Gateway Borough,2020-04-11,0.0
+2130,Alaska,Ketchikan Gateway Borough,2020-04-12,0.0
+2130,Alaska,Ketchikan Gateway Borough,2020-04-13,0.0
+2130,Alaska,Ketchikan Gateway Borough,2020-04-14,0.0
 2170,Alaska,Matanuska-Susitna Borough,2020-03-23,2.0
 2170,Alaska,Matanuska-Susitna Borough,2020-03-24,2.0
 2170,Alaska,Matanuska-Susitna Borough,2020-03-25,2.0
@@ -2121,12 +2121,12 @@ fips,state,county,date,ML
 4027,Arizona,Yuma,2020-04-06,0.0
 4027,Arizona,Yuma,2020-04-07,0.0
 4027,Arizona,Yuma,2020-04-08,0.0
-4027,Arizona,Yuma,2020-04-09,11.82
-4027,Arizona,Yuma,2020-04-10,11.82
-4027,Arizona,Yuma,2020-04-11,11.82
-4027,Arizona,Yuma,2020-04-12,11.82
-4027,Arizona,Yuma,2020-04-13,11.82
-4027,Arizona,Yuma,2020-04-14,11.82
+4027,Arizona,Yuma,2020-04-09,0.0
+4027,Arizona,Yuma,2020-04-10,0.0
+4027,Arizona,Yuma,2020-04-11,0.0
+4027,Arizona,Yuma,2020-04-12,0.0
+4027,Arizona,Yuma,2020-04-13,0.0
+4027,Arizona,Yuma,2020-04-14,0.0
 5001,Arkansas,Arkansas,2020-03-29,2.0
 5001,Arkansas,Arkansas,2020-03-30,2.0
 5001,Arkansas,Arkansas,2020-03-31,2.0
@@ -2249,12 +2249,12 @@ fips,state,county,date,ML
 5011,Arkansas,Bradley,2020-03-30,0.0
 5011,Arkansas,Bradley,2020-03-31,0.0
 5011,Arkansas,Bradley,2020-04-01,0.0
-5011,Arkansas,Bradley,2020-04-02,11.200000000000001
-5011,Arkansas,Bradley,2020-04-03,11.200000000000001
-5011,Arkansas,Bradley,2020-04-04,11.200000000000001
-5011,Arkansas,Bradley,2020-04-05,11.200000000000001
-5011,Arkansas,Bradley,2020-04-06,11.200000000000001
-5011,Arkansas,Bradley,2020-04-07,11.200000000000001
+5011,Arkansas,Bradley,2020-04-02,0.0
+5011,Arkansas,Bradley,2020-04-03,0.0
+5011,Arkansas,Bradley,2020-04-04,0.0
+5011,Arkansas,Bradley,2020-04-05,0.0
+5011,Arkansas,Bradley,2020-04-06,0.0
+5011,Arkansas,Bradley,2020-04-07,0.0
 5011,Arkansas,Bradley,2020-04-08,1.0
 5011,Arkansas,Bradley,2020-04-09,1.0
 5011,Arkansas,Bradley,2020-04-10,1.0
@@ -2318,11 +2318,11 @@ fips,state,county,date,ML
 5019,Arkansas,Clark,2020-04-07,0.0
 5019,Arkansas,Clark,2020-04-08,0.0
 5019,Arkansas,Clark,2020-04-09,0.0
-5019,Arkansas,Clark,2020-04-10,11.58
-5019,Arkansas,Clark,2020-04-11,11.58
-5019,Arkansas,Clark,2020-04-12,11.58
-5019,Arkansas,Clark,2020-04-13,11.58
-5019,Arkansas,Clark,2020-04-14,11.58
+5019,Arkansas,Clark,2020-04-10,0.0
+5019,Arkansas,Clark,2020-04-11,0.0
+5019,Arkansas,Clark,2020-04-12,0.0
+5019,Arkansas,Clark,2020-04-13,0.0
+5019,Arkansas,Clark,2020-04-14,0.0
 5021,Arkansas,Clay,2020-04-06,2.0
 5021,Arkansas,Clay,2020-04-07,2.0
 5021,Arkansas,Clay,2020-04-08,2.0
@@ -2380,9 +2380,9 @@ fips,state,county,date,ML
 5025,Arkansas,Cleveland,2020-03-31,0.0
 5025,Arkansas,Cleveland,2020-04-01,0.0
 5025,Arkansas,Cleveland,2020-04-02,0.0
-5025,Arkansas,Cleveland,2020-04-03,11.53
-5025,Arkansas,Cleveland,2020-04-04,11.53
-5025,Arkansas,Cleveland,2020-04-05,11.53
+5025,Arkansas,Cleveland,2020-04-03,0.0
+5025,Arkansas,Cleveland,2020-04-04,0.0
+5025,Arkansas,Cleveland,2020-04-05,0.0
 5025,Arkansas,Cleveland,2020-04-06,1.0
 5025,Arkansas,Cleveland,2020-04-07,1.0
 5025,Arkansas,Cleveland,2020-04-08,0.0
@@ -2531,9 +2531,9 @@ fips,state,county,date,ML
 5037,Arkansas,Cross,2020-04-09,0.0
 5037,Arkansas,Cross,2020-04-10,0.0
 5037,Arkansas,Cross,2020-04-11,0.0
-5037,Arkansas,Cross,2020-04-12,11.32
-5037,Arkansas,Cross,2020-04-13,11.32
-5037,Arkansas,Cross,2020-04-14,11.32
+5037,Arkansas,Cross,2020-04-12,0.0
+5037,Arkansas,Cross,2020-04-13,0.0
+5037,Arkansas,Cross,2020-04-14,0.0
 5039,Arkansas,Dallas,2020-04-04,2.0
 5039,Arkansas,Dallas,2020-04-05,2.0
 5039,Arkansas,Dallas,2020-04-06,2.0
@@ -2572,9 +2572,9 @@ fips,state,county,date,ML
 5041,Arkansas,Desha,2020-04-09,0.0
 5041,Arkansas,Desha,2020-04-10,0.0
 5041,Arkansas,Desha,2020-04-11,0.0
-5041,Arkansas,Desha,2020-04-12,9.370000000000001
-5041,Arkansas,Desha,2020-04-13,9.370000000000001
-5041,Arkansas,Desha,2020-04-14,9.370000000000001
+5041,Arkansas,Desha,2020-04-12,0.0
+5041,Arkansas,Desha,2020-04-13,0.0
+5041,Arkansas,Desha,2020-04-14,0.0
 5043,Arkansas,Drew,2020-03-25,2.0
 5043,Arkansas,Drew,2020-03-26,2.0
 5043,Arkansas,Drew,2020-03-27,2.0
@@ -2759,8 +2759,8 @@ fips,state,county,date,ML
 5059,Arkansas,Hot Spring,2020-04-10,0.0
 5059,Arkansas,Hot Spring,2020-04-11,0.0
 5059,Arkansas,Hot Spring,2020-04-12,0.0
-5059,Arkansas,Hot Spring,2020-04-13,10.71
-5059,Arkansas,Hot Spring,2020-04-14,10.71
+5059,Arkansas,Hot Spring,2020-04-13,0.0
+5059,Arkansas,Hot Spring,2020-04-14,0.0
 5061,Arkansas,Howard,2020-03-26,2.0
 5061,Arkansas,Howard,2020-03-27,2.0
 5061,Arkansas,Howard,2020-03-28,2.0
@@ -2892,12 +2892,12 @@ fips,state,county,date,ML
 5075,Arkansas,Lawrence,2020-03-29,1.55
 5075,Arkansas,Lawrence,2020-03-30,1.55
 5075,Arkansas,Lawrence,2020-03-31,0.0
-5075,Arkansas,Lawrence,2020-04-01,9.33
-5075,Arkansas,Lawrence,2020-04-02,9.33
-5075,Arkansas,Lawrence,2020-04-03,9.33
-5075,Arkansas,Lawrence,2020-04-04,9.33
-5075,Arkansas,Lawrence,2020-04-05,9.33
-5075,Arkansas,Lawrence,2020-04-06,9.33
+5075,Arkansas,Lawrence,2020-04-01,0.0
+5075,Arkansas,Lawrence,2020-04-02,0.0
+5075,Arkansas,Lawrence,2020-04-03,0.0
+5075,Arkansas,Lawrence,2020-04-04,0.0
+5075,Arkansas,Lawrence,2020-04-05,0.0
+5075,Arkansas,Lawrence,2020-04-06,0.0
 5075,Arkansas,Lawrence,2020-04-07,1.0
 5075,Arkansas,Lawrence,2020-04-08,1.0
 5075,Arkansas,Lawrence,2020-04-09,1.0
@@ -2939,7 +2939,7 @@ fips,state,county,date,ML
 5079,Arkansas,Lincoln,2020-04-01,0.0
 5079,Arkansas,Lincoln,2020-04-02,0.0
 5079,Arkansas,Lincoln,2020-04-03,0.0
-5079,Arkansas,Lincoln,2020-04-04,11.85
+5079,Arkansas,Lincoln,2020-04-04,0.0
 5079,Arkansas,Lincoln,2020-04-05,1.0
 5079,Arkansas,Lincoln,2020-04-06,1.0
 5079,Arkansas,Lincoln,2020-04-07,1.0
@@ -3175,12 +3175,12 @@ fips,state,county,date,ML
 5113,Arkansas,Polk,2020-04-06,0.0
 5113,Arkansas,Polk,2020-04-07,0.0
 5113,Arkansas,Polk,2020-04-08,0.0
-5113,Arkansas,Polk,2020-04-09,11.32
-5113,Arkansas,Polk,2020-04-10,11.32
-5113,Arkansas,Polk,2020-04-11,11.32
-5113,Arkansas,Polk,2020-04-12,11.32
-5113,Arkansas,Polk,2020-04-13,11.32
-5113,Arkansas,Polk,2020-04-14,11.32
+5113,Arkansas,Polk,2020-04-09,0.0
+5113,Arkansas,Polk,2020-04-10,0.0
+5113,Arkansas,Polk,2020-04-11,0.0
+5113,Arkansas,Polk,2020-04-12,0.0
+5113,Arkansas,Polk,2020-04-13,0.0
+5113,Arkansas,Polk,2020-04-14,0.0
 5115,Arkansas,Pope,2020-03-19,2.0
 5115,Arkansas,Pope,2020-03-20,2.0
 5115,Arkansas,Pope,2020-03-21,2.0
@@ -3351,18 +3351,18 @@ fips,state,county,date,ML
 5129,Arkansas,Searcy,2020-03-31,0.0
 5129,Arkansas,Searcy,2020-04-01,0.0
 5129,Arkansas,Searcy,2020-04-02,0.0
-5129,Arkansas,Searcy,2020-04-03,10.75
-5129,Arkansas,Searcy,2020-04-04,10.75
-5129,Arkansas,Searcy,2020-04-05,10.75
-5129,Arkansas,Searcy,2020-04-06,10.75
-5129,Arkansas,Searcy,2020-04-07,10.75
-5129,Arkansas,Searcy,2020-04-08,10.75
-5129,Arkansas,Searcy,2020-04-09,10.75
-5129,Arkansas,Searcy,2020-04-10,10.75
-5129,Arkansas,Searcy,2020-04-11,10.75
-5129,Arkansas,Searcy,2020-04-12,10.75
-5129,Arkansas,Searcy,2020-04-13,10.75
-5129,Arkansas,Searcy,2020-04-14,10.75
+5129,Arkansas,Searcy,2020-04-03,0.0
+5129,Arkansas,Searcy,2020-04-04,0.0
+5129,Arkansas,Searcy,2020-04-05,0.0
+5129,Arkansas,Searcy,2020-04-06,0.0
+5129,Arkansas,Searcy,2020-04-07,0.0
+5129,Arkansas,Searcy,2020-04-08,0.0
+5129,Arkansas,Searcy,2020-04-09,0.0
+5129,Arkansas,Searcy,2020-04-10,0.0
+5129,Arkansas,Searcy,2020-04-11,0.0
+5129,Arkansas,Searcy,2020-04-12,0.0
+5129,Arkansas,Searcy,2020-04-13,0.0
+5129,Arkansas,Searcy,2020-04-14,0.0
 5131,Arkansas,Sebastian,2020-03-19,2.0
 5131,Arkansas,Sebastian,2020-03-20,2.0
 5131,Arkansas,Sebastian,2020-03-21,2.0
@@ -3384,12 +3384,12 @@ fips,state,county,date,ML
 5131,Arkansas,Sebastian,2020-04-06,0.0
 5131,Arkansas,Sebastian,2020-04-07,0.0
 5131,Arkansas,Sebastian,2020-04-08,0.0
-5131,Arkansas,Sebastian,2020-04-09,11.870000000000001
-5131,Arkansas,Sebastian,2020-04-10,11.870000000000001
-5131,Arkansas,Sebastian,2020-04-11,11.870000000000001
-5131,Arkansas,Sebastian,2020-04-12,11.870000000000001
-5131,Arkansas,Sebastian,2020-04-13,11.870000000000001
-5131,Arkansas,Sebastian,2020-04-14,11.870000000000001
+5131,Arkansas,Sebastian,2020-04-09,0.0
+5131,Arkansas,Sebastian,2020-04-10,0.0
+5131,Arkansas,Sebastian,2020-04-11,0.0
+5131,Arkansas,Sebastian,2020-04-12,0.0
+5131,Arkansas,Sebastian,2020-04-13,0.0
+5131,Arkansas,Sebastian,2020-04-14,0.0
 5133,Arkansas,Sevier,2020-03-19,2.0
 5133,Arkansas,Sevier,2020-03-20,2.0
 5133,Arkansas,Sevier,2020-03-21,2.0
@@ -3416,7 +3416,7 @@ fips,state,county,date,ML
 5133,Arkansas,Sevier,2020-04-11,0.0
 5133,Arkansas,Sevier,2020-04-12,0.0
 5133,Arkansas,Sevier,2020-04-13,0.0
-5133,Arkansas,Sevier,2020-04-14,11.53
+5133,Arkansas,Sevier,2020-04-14,0.0
 5135,Arkansas,Sharp,2020-04-02,2.0
 5135,Arkansas,Sharp,2020-04-03,2.0
 5135,Arkansas,Sharp,2020-04-04,2.0
@@ -3440,18 +3440,18 @@ fips,state,county,date,ML
 5137,Arkansas,Stone,2020-03-31,0.0
 5137,Arkansas,Stone,2020-04-01,0.0
 5137,Arkansas,Stone,2020-04-02,0.0
-5137,Arkansas,Stone,2020-04-03,11.94
-5137,Arkansas,Stone,2020-04-04,11.94
-5137,Arkansas,Stone,2020-04-05,11.94
-5137,Arkansas,Stone,2020-04-06,11.94
-5137,Arkansas,Stone,2020-04-07,11.94
-5137,Arkansas,Stone,2020-04-08,11.94
-5137,Arkansas,Stone,2020-04-09,11.94
-5137,Arkansas,Stone,2020-04-10,11.94
-5137,Arkansas,Stone,2020-04-11,11.94
-5137,Arkansas,Stone,2020-04-12,11.94
-5137,Arkansas,Stone,2020-04-13,11.94
-5137,Arkansas,Stone,2020-04-14,11.94
+5137,Arkansas,Stone,2020-04-03,0.0
+5137,Arkansas,Stone,2020-04-04,0.0
+5137,Arkansas,Stone,2020-04-05,0.0
+5137,Arkansas,Stone,2020-04-06,0.0
+5137,Arkansas,Stone,2020-04-07,0.0
+5137,Arkansas,Stone,2020-04-08,0.0
+5137,Arkansas,Stone,2020-04-09,0.0
+5137,Arkansas,Stone,2020-04-10,0.0
+5137,Arkansas,Stone,2020-04-11,0.0
+5137,Arkansas,Stone,2020-04-12,0.0
+5137,Arkansas,Stone,2020-04-13,0.0
+5137,Arkansas,Stone,2020-04-14,0.0
 5139,Arkansas,Union,2020-03-24,2.0
 5139,Arkansas,Union,2020-03-25,2.0
 5139,Arkansas,Union,2020-03-26,1.8800000000000001
@@ -3693,7 +3693,7 @@ fips,state,county,date,ML
 6007,California,Butte,2020-04-10,0.0
 6007,California,Butte,2020-04-11,0.0
 6007,California,Butte,2020-04-12,0.0
-6007,California,Butte,2020-04-13,11.41
+6007,California,Butte,2020-04-13,0.0
 6007,California,Butte,2020-04-14,1.0
 6009,California,Calaveras,2020-03-24,2.0
 6009,California,Calaveras,2020-03-25,2.0
@@ -3970,12 +3970,12 @@ fips,state,county,date,ML
 6027,California,Inyo,2020-04-06,0.0
 6027,California,Inyo,2020-04-07,0.0
 6027,California,Inyo,2020-04-08,0.0
-6027,California,Inyo,2020-04-09,11.66
-6027,California,Inyo,2020-04-10,11.66
-6027,California,Inyo,2020-04-11,11.66
-6027,California,Inyo,2020-04-12,11.66
-6027,California,Inyo,2020-04-13,11.66
-6027,California,Inyo,2020-04-14,11.66
+6027,California,Inyo,2020-04-09,0.0
+6027,California,Inyo,2020-04-10,0.0
+6027,California,Inyo,2020-04-11,0.0
+6027,California,Inyo,2020-04-12,0.0
+6027,California,Inyo,2020-04-13,0.0
+6027,California,Inyo,2020-04-14,0.0
 6029,California,Kern,2020-03-17,2.0
 6029,California,Kern,2020-03-18,2.0
 6029,California,Kern,2020-03-19,1.8800000000000001
@@ -4477,9 +4477,9 @@ fips,state,county,date,ML
 6061,California,Placer,2020-03-14,0.0
 6061,California,Placer,2020-03-15,0.0
 6061,California,Placer,2020-03-16,0.0
-6061,California,Placer,2020-03-17,11.870000000000001
-6061,California,Placer,2020-03-18,11.870000000000001
-6061,California,Placer,2020-03-19,11.870000000000001
+6061,California,Placer,2020-03-17,0.0
+6061,California,Placer,2020-03-18,0.0
+6061,California,Placer,2020-03-19,0.0
 6061,California,Placer,2020-03-20,1.0
 6061,California,Placer,2020-03-21,2.62
 6061,California,Placer,2020-03-22,2.62
@@ -5148,14 +5148,14 @@ fips,state,county,date,ML
 6095,California,Solano,2020-03-05,0.0
 6095,California,Solano,2020-03-06,0.0
 6095,California,Solano,2020-03-07,0.0
-6095,California,Solano,2020-03-08,11.64
-6095,California,Solano,2020-03-09,11.64
-6095,California,Solano,2020-03-10,11.64
-6095,California,Solano,2020-03-11,11.64
-6095,California,Solano,2020-03-12,11.64
-6095,California,Solano,2020-03-13,11.64
-6095,California,Solano,2020-03-14,11.64
-6095,California,Solano,2020-03-15,11.64
+6095,California,Solano,2020-03-08,0.0
+6095,California,Solano,2020-03-09,0.0
+6095,California,Solano,2020-03-10,0.0
+6095,California,Solano,2020-03-11,0.0
+6095,California,Solano,2020-03-12,0.0
+6095,California,Solano,2020-03-13,0.0
+6095,California,Solano,2020-03-14,0.0
+6095,California,Solano,2020-03-15,0.0
 6095,California,Solano,2020-03-16,1.0
 6095,California,Solano,2020-03-17,1.0
 6095,California,Solano,2020-03-18,1.0
@@ -5576,9 +5576,9 @@ fips,state,county,date,ML
 8009,Colorado,Baca,2020-04-09,0.0
 8009,Colorado,Baca,2020-04-10,0.0
 8009,Colorado,Baca,2020-04-11,0.0
-8009,Colorado,Baca,2020-04-12,10.92
-8009,Colorado,Baca,2020-04-13,10.92
-8009,Colorado,Baca,2020-04-14,10.92
+8009,Colorado,Baca,2020-04-12,0.0
+8009,Colorado,Baca,2020-04-13,0.0
+8009,Colorado,Baca,2020-04-14,0.0
 8013,Colorado,Boulder,2020-03-14,2.0
 8013,Colorado,Boulder,2020-03-15,1.49
 8013,Colorado,Boulder,2020-03-16,1.44
@@ -6201,12 +6201,12 @@ fips,state,county,date,ML
 8065,Colorado,Lake,2020-04-06,1.52
 8065,Colorado,Lake,2020-04-07,0.0
 8065,Colorado,Lake,2020-04-08,0.0
-8065,Colorado,Lake,2020-04-09,10.09
-8065,Colorado,Lake,2020-04-10,10.09
-8065,Colorado,Lake,2020-04-11,10.09
-8065,Colorado,Lake,2020-04-12,10.09
-8065,Colorado,Lake,2020-04-13,10.09
-8065,Colorado,Lake,2020-04-14,10.09
+8065,Colorado,Lake,2020-04-09,0.0
+8065,Colorado,Lake,2020-04-10,0.0
+8065,Colorado,Lake,2020-04-11,0.0
+8065,Colorado,Lake,2020-04-12,0.0
+8065,Colorado,Lake,2020-04-13,0.0
+8065,Colorado,Lake,2020-04-14,0.0
 8067,Colorado,La Plata,2020-03-23,2.0
 8067,Colorado,La Plata,2020-03-24,2.35
 8067,Colorado,La Plata,2020-03-25,2.43
@@ -6380,14 +6380,14 @@ fips,state,county,date,ML
 8081,Colorado,Moffat,2020-04-04,0.0
 8081,Colorado,Moffat,2020-04-05,0.0
 8081,Colorado,Moffat,2020-04-06,0.0
-8081,Colorado,Moffat,2020-04-07,11.94
-8081,Colorado,Moffat,2020-04-08,11.94
-8081,Colorado,Moffat,2020-04-09,11.94
-8081,Colorado,Moffat,2020-04-10,11.94
-8081,Colorado,Moffat,2020-04-11,11.94
-8081,Colorado,Moffat,2020-04-12,11.94
-8081,Colorado,Moffat,2020-04-13,11.94
-8081,Colorado,Moffat,2020-04-14,11.94
+8081,Colorado,Moffat,2020-04-07,0.0
+8081,Colorado,Moffat,2020-04-08,0.0
+8081,Colorado,Moffat,2020-04-09,0.0
+8081,Colorado,Moffat,2020-04-10,0.0
+8081,Colorado,Moffat,2020-04-11,0.0
+8081,Colorado,Moffat,2020-04-12,0.0
+8081,Colorado,Moffat,2020-04-13,0.0
+8081,Colorado,Moffat,2020-04-14,0.0
 8083,Colorado,Montezuma,2020-03-29,2.0
 8083,Colorado,Montezuma,2020-03-30,2.0
 8083,Colorado,Montezuma,2020-03-31,2.0
@@ -6467,17 +6467,17 @@ fips,state,county,date,ML
 8089,Colorado,Otero,2020-04-01,0.0
 8089,Colorado,Otero,2020-04-02,0.0
 8089,Colorado,Otero,2020-04-03,0.0
-8089,Colorado,Otero,2020-04-04,11.94
-8089,Colorado,Otero,2020-04-05,11.94
-8089,Colorado,Otero,2020-04-06,11.94
-8089,Colorado,Otero,2020-04-07,11.94
-8089,Colorado,Otero,2020-04-08,11.94
-8089,Colorado,Otero,2020-04-09,11.94
-8089,Colorado,Otero,2020-04-10,11.94
-8089,Colorado,Otero,2020-04-11,11.94
-8089,Colorado,Otero,2020-04-12,11.94
-8089,Colorado,Otero,2020-04-13,11.94
-8089,Colorado,Otero,2020-04-14,11.94
+8089,Colorado,Otero,2020-04-04,0.0
+8089,Colorado,Otero,2020-04-05,0.0
+8089,Colorado,Otero,2020-04-06,0.0
+8089,Colorado,Otero,2020-04-07,0.0
+8089,Colorado,Otero,2020-04-08,0.0
+8089,Colorado,Otero,2020-04-09,0.0
+8089,Colorado,Otero,2020-04-10,0.0
+8089,Colorado,Otero,2020-04-11,0.0
+8089,Colorado,Otero,2020-04-12,0.0
+8089,Colorado,Otero,2020-04-13,0.0
+8089,Colorado,Otero,2020-04-14,0.0
 8091,Colorado,Ouray,2020-04-04,2.0
 8091,Colorado,Ouray,2020-04-05,2.0
 8091,Colorado,Ouray,2020-04-06,2.0
@@ -6630,13 +6630,13 @@ fips,state,county,date,ML
 8105,Colorado,Rio Grande,2020-04-05,0.0
 8105,Colorado,Rio Grande,2020-04-06,0.0
 8105,Colorado,Rio Grande,2020-04-07,0.0
-8105,Colorado,Rio Grande,2020-04-08,11.94
-8105,Colorado,Rio Grande,2020-04-09,11.94
-8105,Colorado,Rio Grande,2020-04-10,11.94
-8105,Colorado,Rio Grande,2020-04-11,11.94
-8105,Colorado,Rio Grande,2020-04-12,11.94
-8105,Colorado,Rio Grande,2020-04-13,11.94
-8105,Colorado,Rio Grande,2020-04-14,11.94
+8105,Colorado,Rio Grande,2020-04-08,0.0
+8105,Colorado,Rio Grande,2020-04-09,0.0
+8105,Colorado,Rio Grande,2020-04-10,0.0
+8105,Colorado,Rio Grande,2020-04-11,0.0
+8105,Colorado,Rio Grande,2020-04-12,0.0
+8105,Colorado,Rio Grande,2020-04-13,0.0
+8105,Colorado,Rio Grande,2020-04-14,0.0
 8107,Colorado,Routt,2020-03-13,2.0
 8107,Colorado,Routt,2020-03-14,2.0
 8107,Colorado,Routt,2020-03-15,2.0
@@ -6680,11 +6680,11 @@ fips,state,county,date,ML
 8109,Colorado,Saguache,2020-04-07,0.0
 8109,Colorado,Saguache,2020-04-08,0.0
 8109,Colorado,Saguache,2020-04-09,0.0
-8109,Colorado,Saguache,2020-04-10,11.94
-8109,Colorado,Saguache,2020-04-11,11.94
-8109,Colorado,Saguache,2020-04-12,11.94
-8109,Colorado,Saguache,2020-04-13,11.94
-8109,Colorado,Saguache,2020-04-14,11.94
+8109,Colorado,Saguache,2020-04-10,0.0
+8109,Colorado,Saguache,2020-04-11,0.0
+8109,Colorado,Saguache,2020-04-12,0.0
+8109,Colorado,Saguache,2020-04-13,0.0
+8109,Colorado,Saguache,2020-04-14,0.0
 8113,Colorado,San Miguel,2020-03-20,2.0
 8113,Colorado,San Miguel,2020-03-21,2.0
 8113,Colorado,San Miguel,2020-03-22,2.0
@@ -6709,8 +6709,8 @@ fips,state,county,date,ML
 8113,Colorado,San Miguel,2020-04-10,0.0
 8113,Colorado,San Miguel,2020-04-11,0.0
 8113,Colorado,San Miguel,2020-04-12,0.0
-8113,Colorado,San Miguel,2020-04-13,11.870000000000001
-8113,Colorado,San Miguel,2020-04-14,11.870000000000001
+8113,Colorado,San Miguel,2020-04-13,0.0
+8113,Colorado,San Miguel,2020-04-14,0.0
 8117,Colorado,Summit,2020-03-13,2.0
 8117,Colorado,Summit,2020-03-14,2.0
 8117,Colorado,Summit,2020-03-15,2.0
@@ -7219,10 +7219,10 @@ fips,state,county,date,ML
 11001,District of Columbia,District of Columbia,2020-04-08,1.3
 11001,District of Columbia,District of Columbia,2020-04-09,1.22
 11001,District of Columbia,District of Columbia,2020-04-10,1.1400000000000001
-11001,District of Columbia,District of Columbia,2020-04-11,0.98
-11001,District of Columbia,District of Columbia,2020-04-12,0.81
-11001,District of Columbia,District of Columbia,2020-04-13,0.66
-11001,District of Columbia,District of Columbia,2020-04-14,0.44
+11001,District of Columbia,District of Columbia,2020-04-11,1.04
+11001,District of Columbia,District of Columbia,2020-04-12,0.9400000000000001
+11001,District of Columbia,District of Columbia,2020-04-13,0.89
+11001,District of Columbia,District of Columbia,2020-04-14,0.8300000000000001
 12001,Florida,Alachua,2020-03-10,2.0
 12001,Florida,Alachua,2020-03-11,1.8800000000000001
 12001,Florida,Alachua,2020-03-12,1.8
@@ -7760,14 +7760,14 @@ fips,state,county,date,ML
 12043,Florida,Glades,2020-04-04,1.52
 12043,Florida,Glades,2020-04-05,0.0
 12043,Florida,Glades,2020-04-06,0.0
-12043,Florida,Glades,2020-04-07,10.09
-12043,Florida,Glades,2020-04-08,10.09
-12043,Florida,Glades,2020-04-09,10.09
-12043,Florida,Glades,2020-04-10,10.09
-12043,Florida,Glades,2020-04-11,10.09
-12043,Florida,Glades,2020-04-12,10.09
-12043,Florida,Glades,2020-04-13,10.09
-12043,Florida,Glades,2020-04-14,10.09
+12043,Florida,Glades,2020-04-07,0.0
+12043,Florida,Glades,2020-04-08,0.0
+12043,Florida,Glades,2020-04-09,0.0
+12043,Florida,Glades,2020-04-10,0.0
+12043,Florida,Glades,2020-04-11,0.0
+12043,Florida,Glades,2020-04-12,0.0
+12043,Florida,Glades,2020-04-13,0.0
+12043,Florida,Glades,2020-04-14,0.0
 12045,Florida,Gulf,2020-04-01,2.0
 12045,Florida,Gulf,2020-04-02,2.0
 12045,Florida,Gulf,2020-04-03,2.0
@@ -7984,12 +7984,12 @@ fips,state,county,date,ML
 12063,Florida,Jackson,2020-04-06,0.0
 12063,Florida,Jackson,2020-04-07,0.0
 12063,Florida,Jackson,2020-04-08,0.0
-12063,Florida,Jackson,2020-04-09,9.370000000000001
-12063,Florida,Jackson,2020-04-10,9.370000000000001
-12063,Florida,Jackson,2020-04-11,9.370000000000001
-12063,Florida,Jackson,2020-04-12,9.370000000000001
-12063,Florida,Jackson,2020-04-13,9.370000000000001
-12063,Florida,Jackson,2020-04-14,9.370000000000001
+12063,Florida,Jackson,2020-04-09,0.0
+12063,Florida,Jackson,2020-04-10,0.0
+12063,Florida,Jackson,2020-04-11,0.0
+12063,Florida,Jackson,2020-04-12,0.0
+12063,Florida,Jackson,2020-04-13,0.0
+12063,Florida,Jackson,2020-04-14,0.0
 12065,Florida,Jefferson,2020-04-04,2.0
 12065,Florida,Jefferson,2020-04-05,1.8800000000000001
 12065,Florida,Jefferson,2020-04-06,2.17
@@ -8390,7 +8390,7 @@ fips,state,county,date,ML
 12093,Florida,Okeechobee,2020-04-11,0.0
 12093,Florida,Okeechobee,2020-04-12,0.0
 12093,Florida,Okeechobee,2020-04-13,0.0
-12093,Florida,Okeechobee,2020-04-14,11.99
+12093,Florida,Okeechobee,2020-04-14,0.0
 12095,Florida,Orange,2020-03-13,2.0
 12095,Florida,Orange,2020-03-14,1.8800000000000001
 12095,Florida,Orange,2020-03-15,2.17
@@ -10170,7 +10170,7 @@ fips,state,county,date,ML
 13111,Georgia,Fannin,2020-04-09,0.0
 13111,Georgia,Fannin,2020-04-10,0.0
 13111,Georgia,Fannin,2020-04-11,0.0
-13111,Georgia,Fannin,2020-04-12,11.870000000000001
+13111,Georgia,Fannin,2020-04-12,0.0
 13111,Georgia,Fannin,2020-04-13,1.0
 13111,Georgia,Fannin,2020-04-14,1.0
 13113,Georgia,Fayette,2020-03-09,2.0
@@ -10290,13 +10290,13 @@ fips,state,county,date,ML
 13119,Georgia,Franklin,2020-04-05,0.0
 13119,Georgia,Franklin,2020-04-06,0.0
 13119,Georgia,Franklin,2020-04-07,0.0
-13119,Georgia,Franklin,2020-04-08,11.17
-13119,Georgia,Franklin,2020-04-09,11.17
-13119,Georgia,Franklin,2020-04-10,11.17
-13119,Georgia,Franklin,2020-04-11,11.17
-13119,Georgia,Franklin,2020-04-12,11.17
-13119,Georgia,Franklin,2020-04-13,11.17
-13119,Georgia,Franklin,2020-04-14,11.17
+13119,Georgia,Franklin,2020-04-08,0.0
+13119,Georgia,Franklin,2020-04-09,0.0
+13119,Georgia,Franklin,2020-04-10,0.0
+13119,Georgia,Franklin,2020-04-11,0.0
+13119,Georgia,Franklin,2020-04-12,0.0
+13119,Georgia,Franklin,2020-04-13,0.0
+13119,Georgia,Franklin,2020-04-14,0.0
 13121,Georgia,Fulton,2020-03-02,2.0
 13121,Georgia,Fulton,2020-03-03,2.0
 13121,Georgia,Fulton,2020-03-04,2.0
@@ -10603,13 +10603,13 @@ fips,state,county,date,ML
 13147,Georgia,Hart,2020-04-04,0.0
 13147,Georgia,Hart,2020-04-05,0.0
 13147,Georgia,Hart,2020-04-06,0.0
-13147,Georgia,Hart,2020-04-07,10.09
-13147,Georgia,Hart,2020-04-08,10.09
-13147,Georgia,Hart,2020-04-09,10.09
-13147,Georgia,Hart,2020-04-10,10.09
-13147,Georgia,Hart,2020-04-11,10.09
-13147,Georgia,Hart,2020-04-12,10.09
-13147,Georgia,Hart,2020-04-13,10.09
+13147,Georgia,Hart,2020-04-07,0.0
+13147,Georgia,Hart,2020-04-08,0.0
+13147,Georgia,Hart,2020-04-09,0.0
+13147,Georgia,Hart,2020-04-10,0.0
+13147,Georgia,Hart,2020-04-11,0.0
+13147,Georgia,Hart,2020-04-12,0.0
+13147,Georgia,Hart,2020-04-13,0.0
 13147,Georgia,Hart,2020-04-14,1.0
 13149,Georgia,Heard,2020-03-20,2.0
 13149,Georgia,Heard,2020-03-21,2.0
@@ -10856,9 +10856,9 @@ fips,state,county,date,ML
 13171,Georgia,Lamar,2020-03-27,0.0
 13171,Georgia,Lamar,2020-03-28,0.0
 13171,Georgia,Lamar,2020-03-29,0.0
-13171,Georgia,Lamar,2020-03-30,11.94
-13171,Georgia,Lamar,2020-03-31,11.94
-13171,Georgia,Lamar,2020-04-01,11.94
+13171,Georgia,Lamar,2020-03-30,0.0
+13171,Georgia,Lamar,2020-03-31,0.0
+13171,Georgia,Lamar,2020-04-01,0.0
 13171,Georgia,Lamar,2020-04-02,1.0
 13171,Georgia,Lamar,2020-04-03,1.0
 13171,Georgia,Lamar,2020-04-04,2.15
@@ -11074,9 +11074,9 @@ fips,state,county,date,ML
 13187,Georgia,Lumpkin,2020-04-08,0.0
 13187,Georgia,Lumpkin,2020-04-09,0.0
 13187,Georgia,Lumpkin,2020-04-10,0.0
-13187,Georgia,Lumpkin,2020-04-11,11.85
-13187,Georgia,Lumpkin,2020-04-12,11.85
-13187,Georgia,Lumpkin,2020-04-13,11.85
+13187,Georgia,Lumpkin,2020-04-11,0.0
+13187,Georgia,Lumpkin,2020-04-12,0.0
+13187,Georgia,Lumpkin,2020-04-13,0.0
 13187,Georgia,Lumpkin,2020-04-14,1.0
 13189,Georgia,McDuffie,2020-03-26,2.0
 13189,Georgia,McDuffie,2020-03-27,2.0
@@ -11488,10 +11488,10 @@ fips,state,county,date,ML
 13227,Georgia,Pickens,2020-04-07,0.0
 13227,Georgia,Pickens,2020-04-08,0.0
 13227,Georgia,Pickens,2020-04-09,0.0
-13227,Georgia,Pickens,2020-04-10,11.85
-13227,Georgia,Pickens,2020-04-11,11.85
-13227,Georgia,Pickens,2020-04-12,11.85
-13227,Georgia,Pickens,2020-04-13,11.85
+13227,Georgia,Pickens,2020-04-10,0.0
+13227,Georgia,Pickens,2020-04-11,0.0
+13227,Georgia,Pickens,2020-04-12,0.0
+13227,Georgia,Pickens,2020-04-13,0.0
 13227,Georgia,Pickens,2020-04-14,1.0
 13229,Georgia,Pierce,2020-03-23,2.0
 13229,Georgia,Pierce,2020-03-24,2.0
@@ -12174,7 +12174,7 @@ fips,state,county,date,ML
 13295,Georgia,Walker,2020-04-06,1.52
 13295,Georgia,Walker,2020-04-07,0.0
 13295,Georgia,Walker,2020-04-08,0.0
-13295,Georgia,Walker,2020-04-09,10.09
+13295,Georgia,Walker,2020-04-09,0.0
 13295,Georgia,Walker,2020-04-10,1.0
 13295,Georgia,Walker,2020-04-11,1.0
 13295,Georgia,Walker,2020-04-12,1.0
@@ -12232,12 +12232,12 @@ fips,state,county,date,ML
 13301,Georgia,Warren,2020-04-06,0.0
 13301,Georgia,Warren,2020-04-07,0.0
 13301,Georgia,Warren,2020-04-08,0.0
-13301,Georgia,Warren,2020-04-09,11.94
-13301,Georgia,Warren,2020-04-10,11.94
-13301,Georgia,Warren,2020-04-11,11.94
-13301,Georgia,Warren,2020-04-12,11.94
-13301,Georgia,Warren,2020-04-13,11.94
-13301,Georgia,Warren,2020-04-14,11.94
+13301,Georgia,Warren,2020-04-09,0.0
+13301,Georgia,Warren,2020-04-10,0.0
+13301,Georgia,Warren,2020-04-11,0.0
+13301,Georgia,Warren,2020-04-12,0.0
+13301,Georgia,Warren,2020-04-13,0.0
+13301,Georgia,Warren,2020-04-14,0.0
 13303,Georgia,Washington,2020-03-23,2.0
 13303,Georgia,Washington,2020-03-24,2.0
 13303,Georgia,Washington,2020-03-25,2.0
@@ -12285,8 +12285,8 @@ fips,state,county,date,ML
 13307,Georgia,Webster,2020-04-10,0.0
 13307,Georgia,Webster,2020-04-11,0.0
 13307,Georgia,Webster,2020-04-12,0.0
-13307,Georgia,Webster,2020-04-13,9.33
-13307,Georgia,Webster,2020-04-14,9.33
+13307,Georgia,Webster,2020-04-13,0.0
+13307,Georgia,Webster,2020-04-14,0.0
 13309,Georgia,Wheeler,2020-03-28,2.0
 13309,Georgia,Wheeler,2020-03-29,2.0
 13309,Georgia,Wheeler,2020-03-30,2.0
@@ -12874,9 +12874,9 @@ fips,state,county,date,ML
 16045,Idaho,Gem,2020-04-09,0.0
 16045,Idaho,Gem,2020-04-10,0.0
 16045,Idaho,Gem,2020-04-11,0.0
-16045,Idaho,Gem,2020-04-12,11.02
-16045,Idaho,Gem,2020-04-13,11.02
-16045,Idaho,Gem,2020-04-14,11.02
+16045,Idaho,Gem,2020-04-12,0.0
+16045,Idaho,Gem,2020-04-13,0.0
+16045,Idaho,Gem,2020-04-14,0.0
 16047,Idaho,Gooding,2020-04-01,2.0
 16047,Idaho,Gooding,2020-04-02,2.0
 16047,Idaho,Gooding,2020-04-03,2.0
@@ -13112,9 +13112,9 @@ fips,state,county,date,ML
 16075,Idaho,Payette,2020-04-09,0.0
 16075,Idaho,Payette,2020-04-10,0.0
 16075,Idaho,Payette,2020-04-11,0.0
-16075,Idaho,Payette,2020-04-12,11.85
-16075,Idaho,Payette,2020-04-13,11.85
-16075,Idaho,Payette,2020-04-14,11.85
+16075,Idaho,Payette,2020-04-12,0.0
+16075,Idaho,Payette,2020-04-13,0.0
+16075,Idaho,Payette,2020-04-14,0.0
 16077,Idaho,Power,2020-04-07,2.0
 16077,Idaho,Power,2020-04-08,2.0
 16077,Idaho,Power,2020-04-09,2.0
@@ -13315,11 +13315,11 @@ fips,state,county,date,ML
 17015,Illinois,Carroll,2020-04-07,0.0
 17015,Illinois,Carroll,2020-04-08,0.0
 17015,Illinois,Carroll,2020-04-09,0.0
-17015,Illinois,Carroll,2020-04-10,11.94
-17015,Illinois,Carroll,2020-04-11,11.94
-17015,Illinois,Carroll,2020-04-12,11.94
-17015,Illinois,Carroll,2020-04-13,11.94
-17015,Illinois,Carroll,2020-04-14,11.94
+17015,Illinois,Carroll,2020-04-10,0.0
+17015,Illinois,Carroll,2020-04-11,0.0
+17015,Illinois,Carroll,2020-04-12,0.0
+17015,Illinois,Carroll,2020-04-13,0.0
+17015,Illinois,Carroll,2020-04-14,0.0
 17019,Illinois,Champaign,2020-03-22,2.0
 17019,Illinois,Champaign,2020-03-23,2.0
 17019,Illinois,Champaign,2020-03-24,1.8800000000000001
@@ -13397,12 +13397,12 @@ fips,state,county,date,ML
 17027,Illinois,Clinton,2020-03-22,0.0
 17027,Illinois,Clinton,2020-03-23,0.0
 17027,Illinois,Clinton,2020-03-24,0.0
-17027,Illinois,Clinton,2020-03-25,11.94
-17027,Illinois,Clinton,2020-03-26,11.94
-17027,Illinois,Clinton,2020-03-27,11.94
-17027,Illinois,Clinton,2020-03-28,11.94
-17027,Illinois,Clinton,2020-03-29,11.94
-17027,Illinois,Clinton,2020-03-30,11.94
+17027,Illinois,Clinton,2020-03-25,0.0
+17027,Illinois,Clinton,2020-03-26,0.0
+17027,Illinois,Clinton,2020-03-27,0.0
+17027,Illinois,Clinton,2020-03-28,0.0
+17027,Illinois,Clinton,2020-03-29,0.0
+17027,Illinois,Clinton,2020-03-30,0.0
 17027,Illinois,Clinton,2020-03-31,1.0
 17027,Illinois,Clinton,2020-04-01,1.0
 17027,Illinois,Clinton,2020-04-02,1.0
@@ -13523,7 +13523,7 @@ fips,state,county,date,ML
 17033,Illinois,Crawford,2020-04-11,0.0
 17033,Illinois,Crawford,2020-04-12,0.0
 17033,Illinois,Crawford,2020-04-13,0.0
-17033,Illinois,Crawford,2020-04-14,11.200000000000001
+17033,Illinois,Crawford,2020-04-14,0.0
 17035,Illinois,Cumberland,2020-03-14,2.0
 17035,Illinois,Cumberland,2020-03-15,2.0
 17035,Illinois,Cumberland,2020-03-16,2.0
@@ -13589,10 +13589,10 @@ fips,state,county,date,ML
 17039,Illinois,De Witt,2020-04-08,1.55
 17039,Illinois,De Witt,2020-04-09,1.55
 17039,Illinois,De Witt,2020-04-10,0.0
-17039,Illinois,De Witt,2020-04-11,9.33
-17039,Illinois,De Witt,2020-04-12,9.33
-17039,Illinois,De Witt,2020-04-13,9.33
-17039,Illinois,De Witt,2020-04-14,9.33
+17039,Illinois,De Witt,2020-04-11,0.0
+17039,Illinois,De Witt,2020-04-12,0.0
+17039,Illinois,De Witt,2020-04-13,0.0
+17039,Illinois,De Witt,2020-04-14,0.0
 17041,Illinois,Douglas,2020-03-25,2.0
 17041,Illinois,Douglas,2020-03-26,2.0
 17041,Illinois,Douglas,2020-03-27,2.0
@@ -13611,9 +13611,9 @@ fips,state,county,date,ML
 17041,Illinois,Douglas,2020-04-09,0.0
 17041,Illinois,Douglas,2020-04-10,0.0
 17041,Illinois,Douglas,2020-04-11,0.0
-17041,Illinois,Douglas,2020-04-12,10.92
-17041,Illinois,Douglas,2020-04-13,10.92
-17041,Illinois,Douglas,2020-04-14,10.92
+17041,Illinois,Douglas,2020-04-12,0.0
+17041,Illinois,Douglas,2020-04-13,0.0
+17041,Illinois,Douglas,2020-04-14,0.0
 17043,Illinois,DuPage,2020-03-14,2.0
 17043,Illinois,DuPage,2020-03-15,2.48
 17043,Illinois,DuPage,2020-03-16,2.21
@@ -13834,9 +13834,9 @@ fips,state,county,date,ML
 17079,Illinois,Jasper,2020-04-09,1.55
 17079,Illinois,Jasper,2020-04-10,1.55
 17079,Illinois,Jasper,2020-04-11,0.0
-17079,Illinois,Jasper,2020-04-12,9.33
-17079,Illinois,Jasper,2020-04-13,9.33
-17079,Illinois,Jasper,2020-04-14,9.33
+17079,Illinois,Jasper,2020-04-12,0.0
+17079,Illinois,Jasper,2020-04-13,0.0
+17079,Illinois,Jasper,2020-04-14,0.0
 17081,Illinois,Jefferson,2020-04-06,2.0
 17081,Illinois,Jefferson,2020-04-07,1.8800000000000001
 17081,Illinois,Jefferson,2020-04-08,1.8
@@ -14993,7 +14993,7 @@ fips,state,county,date,ML
 18009,Indiana,Blackford,2020-04-11,0.0
 18009,Indiana,Blackford,2020-04-12,0.0
 18009,Indiana,Blackford,2020-04-13,0.0
-18009,Indiana,Blackford,2020-04-14,11.17
+18009,Indiana,Blackford,2020-04-14,0.0
 18011,Indiana,Boone,2020-03-10,2.0
 18011,Indiana,Boone,2020-03-11,2.0
 18011,Indiana,Boone,2020-03-12,2.0
@@ -16344,14 +16344,14 @@ fips,state,county,date,ML
 18129,Indiana,Posey,2020-04-04,0.0
 18129,Indiana,Posey,2020-04-05,0.0
 18129,Indiana,Posey,2020-04-06,0.0
-18129,Indiana,Posey,2020-04-07,11.17
-18129,Indiana,Posey,2020-04-08,11.17
-18129,Indiana,Posey,2020-04-09,11.17
-18129,Indiana,Posey,2020-04-10,11.17
-18129,Indiana,Posey,2020-04-11,11.17
-18129,Indiana,Posey,2020-04-12,11.17
-18129,Indiana,Posey,2020-04-13,11.17
-18129,Indiana,Posey,2020-04-14,11.17
+18129,Indiana,Posey,2020-04-07,0.0
+18129,Indiana,Posey,2020-04-08,0.0
+18129,Indiana,Posey,2020-04-09,0.0
+18129,Indiana,Posey,2020-04-10,0.0
+18129,Indiana,Posey,2020-04-11,0.0
+18129,Indiana,Posey,2020-04-12,0.0
+18129,Indiana,Posey,2020-04-13,0.0
+18129,Indiana,Posey,2020-04-14,0.0
 18131,Indiana,Pulaski,2020-04-06,2.0
 18131,Indiana,Pulaski,2020-04-07,2.0
 18131,Indiana,Pulaski,2020-04-08,2.0
@@ -17331,7 +17331,7 @@ fips,state,county,date,ML
 19047,Iowa,Crawford,2020-04-11,0.0
 19047,Iowa,Crawford,2020-04-12,0.0
 19047,Iowa,Crawford,2020-04-13,0.0
-19047,Iowa,Crawford,2020-04-14,11.950000000000001
+19047,Iowa,Crawford,2020-04-14,0.0
 19049,Iowa,Dallas,2020-03-14,2.0
 19049,Iowa,Dallas,2020-03-15,2.0
 19049,Iowa,Dallas,2020-03-16,1.8800000000000001
@@ -17363,7 +17363,7 @@ fips,state,county,date,ML
 19049,Iowa,Dallas,2020-04-11,0.0
 19049,Iowa,Dallas,2020-04-12,0.0
 19049,Iowa,Dallas,2020-04-13,0.0
-19049,Iowa,Dallas,2020-04-14,11.47
+19049,Iowa,Dallas,2020-04-14,0.0
 19055,Iowa,Delaware,2020-04-07,2.0
 19055,Iowa,Delaware,2020-04-08,2.0
 19055,Iowa,Delaware,2020-04-09,2.0
@@ -17584,14 +17584,14 @@ fips,state,county,date,ML
 19085,Iowa,Harrison,2020-04-04,0.0
 19085,Iowa,Harrison,2020-04-05,0.0
 19085,Iowa,Harrison,2020-04-06,0.0
-19085,Iowa,Harrison,2020-04-07,11.870000000000001
-19085,Iowa,Harrison,2020-04-08,11.870000000000001
-19085,Iowa,Harrison,2020-04-09,11.870000000000001
-19085,Iowa,Harrison,2020-04-10,11.870000000000001
-19085,Iowa,Harrison,2020-04-11,11.870000000000001
-19085,Iowa,Harrison,2020-04-12,11.870000000000001
-19085,Iowa,Harrison,2020-04-13,11.870000000000001
-19085,Iowa,Harrison,2020-04-14,11.870000000000001
+19085,Iowa,Harrison,2020-04-07,0.0
+19085,Iowa,Harrison,2020-04-08,0.0
+19085,Iowa,Harrison,2020-04-09,0.0
+19085,Iowa,Harrison,2020-04-10,0.0
+19085,Iowa,Harrison,2020-04-11,0.0
+19085,Iowa,Harrison,2020-04-12,0.0
+19085,Iowa,Harrison,2020-04-13,0.0
+19085,Iowa,Harrison,2020-04-14,0.0
 19087,Iowa,Henry,2020-03-21,2.0
 19087,Iowa,Henry,2020-03-22,2.0
 19087,Iowa,Henry,2020-03-23,2.0
@@ -17642,11 +17642,11 @@ fips,state,county,date,ML
 19095,Iowa,Iowa,2020-04-07,0.0
 19095,Iowa,Iowa,2020-04-08,0.0
 19095,Iowa,Iowa,2020-04-09,0.0
-19095,Iowa,Iowa,2020-04-10,11.99
-19095,Iowa,Iowa,2020-04-11,11.99
-19095,Iowa,Iowa,2020-04-12,11.99
-19095,Iowa,Iowa,2020-04-13,11.99
-19095,Iowa,Iowa,2020-04-14,11.99
+19095,Iowa,Iowa,2020-04-10,0.0
+19095,Iowa,Iowa,2020-04-11,0.0
+19095,Iowa,Iowa,2020-04-12,0.0
+19095,Iowa,Iowa,2020-04-13,0.0
+19095,Iowa,Iowa,2020-04-14,0.0
 19097,Iowa,Jackson,2020-03-30,2.0
 19097,Iowa,Jackson,2020-03-31,2.0
 19097,Iowa,Jackson,2020-04-01,2.0
@@ -17661,8 +17661,8 @@ fips,state,county,date,ML
 19097,Iowa,Jackson,2020-04-10,0.0
 19097,Iowa,Jackson,2020-04-11,0.0
 19097,Iowa,Jackson,2020-04-12,0.0
-19097,Iowa,Jackson,2020-04-13,10.09
-19097,Iowa,Jackson,2020-04-14,10.09
+19097,Iowa,Jackson,2020-04-13,0.0
+19097,Iowa,Jackson,2020-04-14,0.0
 19099,Iowa,Jasper,2020-03-24,2.0
 19099,Iowa,Jasper,2020-03-25,2.0
 19099,Iowa,Jasper,2020-03-26,2.0
@@ -17680,7 +17680,7 @@ fips,state,county,date,ML
 19099,Iowa,Jasper,2020-04-07,0.0
 19099,Iowa,Jasper,2020-04-08,0.0
 19099,Iowa,Jasper,2020-04-09,0.0
-19099,Iowa,Jasper,2020-04-10,11.41
+19099,Iowa,Jasper,2020-04-10,0.0
 19099,Iowa,Jasper,2020-04-11,1.0
 19099,Iowa,Jasper,2020-04-12,1.0
 19099,Iowa,Jasper,2020-04-13,1.0
@@ -17695,9 +17695,9 @@ fips,state,county,date,ML
 19101,Iowa,Jefferson,2020-04-09,0.0
 19101,Iowa,Jefferson,2020-04-10,0.0
 19101,Iowa,Jefferson,2020-04-11,0.0
-19101,Iowa,Jefferson,2020-04-12,11.94
-19101,Iowa,Jefferson,2020-04-13,11.94
-19101,Iowa,Jefferson,2020-04-14,11.94
+19101,Iowa,Jefferson,2020-04-12,0.0
+19101,Iowa,Jefferson,2020-04-13,0.0
+19101,Iowa,Jefferson,2020-04-14,0.0
 19103,Iowa,Johnson,2020-03-08,2.0
 19103,Iowa,Johnson,2020-03-09,1.46
 19103,Iowa,Johnson,2020-03-10,1.4000000000000001
@@ -17955,12 +17955,12 @@ fips,state,county,date,ML
 19133,Iowa,Monona,2020-04-06,0.0
 19133,Iowa,Monona,2020-04-07,0.0
 19133,Iowa,Monona,2020-04-08,0.0
-19133,Iowa,Monona,2020-04-09,11.99
-19133,Iowa,Monona,2020-04-10,11.99
-19133,Iowa,Monona,2020-04-11,11.99
-19133,Iowa,Monona,2020-04-12,11.99
-19133,Iowa,Monona,2020-04-13,11.99
-19133,Iowa,Monona,2020-04-14,11.99
+19133,Iowa,Monona,2020-04-09,0.0
+19133,Iowa,Monona,2020-04-10,0.0
+19133,Iowa,Monona,2020-04-11,0.0
+19133,Iowa,Monona,2020-04-12,0.0
+19133,Iowa,Monona,2020-04-13,0.0
+19133,Iowa,Monona,2020-04-14,0.0
 19137,Iowa,Montgomery,2020-03-27,2.0
 19137,Iowa,Montgomery,2020-03-28,2.0
 19137,Iowa,Montgomery,2020-03-29,2.0
@@ -18055,8 +18055,8 @@ fips,state,county,date,ML
 19149,Iowa,Plymouth,2020-04-10,0.0
 19149,Iowa,Plymouth,2020-04-11,0.0
 19149,Iowa,Plymouth,2020-04-12,0.0
-19149,Iowa,Plymouth,2020-04-13,11.94
-19149,Iowa,Plymouth,2020-04-14,11.94
+19149,Iowa,Plymouth,2020-04-13,0.0
+19149,Iowa,Plymouth,2020-04-14,0.0
 19153,Iowa,Polk,2020-03-15,2.0
 19153,Iowa,Polk,2020-03-16,2.0
 19153,Iowa,Polk,2020-03-17,1.8800000000000001
@@ -18138,17 +18138,17 @@ fips,state,county,date,ML
 19157,Iowa,Poweshiek,2020-04-01,0.0
 19157,Iowa,Poweshiek,2020-04-02,0.0
 19157,Iowa,Poweshiek,2020-04-03,0.0
-19157,Iowa,Poweshiek,2020-04-04,11.99
-19157,Iowa,Poweshiek,2020-04-05,11.99
-19157,Iowa,Poweshiek,2020-04-06,11.99
-19157,Iowa,Poweshiek,2020-04-07,11.99
-19157,Iowa,Poweshiek,2020-04-08,11.99
-19157,Iowa,Poweshiek,2020-04-09,11.99
-19157,Iowa,Poweshiek,2020-04-10,11.99
-19157,Iowa,Poweshiek,2020-04-11,11.99
-19157,Iowa,Poweshiek,2020-04-12,11.99
-19157,Iowa,Poweshiek,2020-04-13,11.99
-19157,Iowa,Poweshiek,2020-04-14,11.99
+19157,Iowa,Poweshiek,2020-04-04,0.0
+19157,Iowa,Poweshiek,2020-04-05,0.0
+19157,Iowa,Poweshiek,2020-04-06,0.0
+19157,Iowa,Poweshiek,2020-04-07,0.0
+19157,Iowa,Poweshiek,2020-04-08,0.0
+19157,Iowa,Poweshiek,2020-04-09,0.0
+19157,Iowa,Poweshiek,2020-04-10,0.0
+19157,Iowa,Poweshiek,2020-04-11,0.0
+19157,Iowa,Poweshiek,2020-04-12,0.0
+19157,Iowa,Poweshiek,2020-04-13,0.0
+19157,Iowa,Poweshiek,2020-04-14,0.0
 19163,Iowa,Scott,2020-03-22,2.0
 19163,Iowa,Scott,2020-03-23,2.0
 19163,Iowa,Scott,2020-03-24,1.8800000000000001
@@ -18188,9 +18188,9 @@ fips,state,county,date,ML
 19165,Iowa,Shelby,2020-04-09,0.0
 19165,Iowa,Shelby,2020-04-10,0.0
 19165,Iowa,Shelby,2020-04-11,0.0
-19165,Iowa,Shelby,2020-04-12,11.02
-19165,Iowa,Shelby,2020-04-13,11.02
-19165,Iowa,Shelby,2020-04-14,11.02
+19165,Iowa,Shelby,2020-04-12,0.0
+19165,Iowa,Shelby,2020-04-13,0.0
+19165,Iowa,Shelby,2020-04-14,0.0
 19167,Iowa,Sioux,2020-03-22,2.0
 19167,Iowa,Sioux,2020-03-23,2.0
 19167,Iowa,Sioux,2020-03-24,2.0
@@ -18213,8 +18213,8 @@ fips,state,county,date,ML
 19167,Iowa,Sioux,2020-04-10,0.0
 19167,Iowa,Sioux,2020-04-11,0.0
 19167,Iowa,Sioux,2020-04-12,0.0
-19167,Iowa,Sioux,2020-04-13,11.41
-19167,Iowa,Sioux,2020-04-14,11.41
+19167,Iowa,Sioux,2020-04-13,0.0
+19167,Iowa,Sioux,2020-04-14,0.0
 19169,Iowa,Story,2020-03-21,2.0
 19169,Iowa,Story,2020-03-22,2.0
 19169,Iowa,Story,2020-03-23,2.0
@@ -18235,9 +18235,9 @@ fips,state,county,date,ML
 19169,Iowa,Story,2020-04-07,0.0
 19169,Iowa,Story,2020-04-08,0.0
 19169,Iowa,Story,2020-04-09,0.0
-19169,Iowa,Story,2020-04-10,9.370000000000001
-19169,Iowa,Story,2020-04-11,9.370000000000001
-19169,Iowa,Story,2020-04-12,9.370000000000001
+19169,Iowa,Story,2020-04-10,0.0
+19169,Iowa,Story,2020-04-11,0.0
+19169,Iowa,Story,2020-04-12,0.0
 19169,Iowa,Story,2020-04-13,1.0
 19169,Iowa,Story,2020-04-14,1.0
 19171,Iowa,Tama,2020-03-22,2.0
@@ -18301,7 +18301,7 @@ fips,state,county,date,ML
 19177,Iowa,Van Buren,2020-04-10,0.0
 19177,Iowa,Van Buren,2020-04-11,0.0
 19177,Iowa,Van Buren,2020-04-12,0.0
-19177,Iowa,Van Buren,2020-04-13,11.99
+19177,Iowa,Van Buren,2020-04-13,0.0
 19177,Iowa,Van Buren,2020-04-14,1.0
 19179,Iowa,Wapello,2020-03-23,2.0
 19179,Iowa,Wapello,2020-03-24,2.0
@@ -18519,12 +18519,12 @@ fips,state,county,date,ML
 20009,Kansas,Barton,2020-04-06,1.52
 20009,Kansas,Barton,2020-04-07,0.0
 20009,Kansas,Barton,2020-04-08,0.0
-20009,Kansas,Barton,2020-04-09,10.09
-20009,Kansas,Barton,2020-04-10,10.09
-20009,Kansas,Barton,2020-04-11,10.09
-20009,Kansas,Barton,2020-04-12,10.09
-20009,Kansas,Barton,2020-04-13,10.09
-20009,Kansas,Barton,2020-04-14,10.09
+20009,Kansas,Barton,2020-04-09,0.0
+20009,Kansas,Barton,2020-04-10,0.0
+20009,Kansas,Barton,2020-04-11,0.0
+20009,Kansas,Barton,2020-04-12,0.0
+20009,Kansas,Barton,2020-04-13,0.0
+20009,Kansas,Barton,2020-04-14,0.0
 20011,Kansas,Bourbon,2020-03-23,2.0
 20011,Kansas,Bourbon,2020-03-24,2.0
 20011,Kansas,Bourbon,2020-03-25,2.0
@@ -18578,9 +18578,9 @@ fips,state,county,date,ML
 20015,Kansas,Butler,2020-04-09,0.0
 20015,Kansas,Butler,2020-04-10,0.0
 20015,Kansas,Butler,2020-04-11,0.0
-20015,Kansas,Butler,2020-04-12,11.85
-20015,Kansas,Butler,2020-04-13,11.85
-20015,Kansas,Butler,2020-04-14,11.85
+20015,Kansas,Butler,2020-04-12,0.0
+20015,Kansas,Butler,2020-04-13,0.0
+20015,Kansas,Butler,2020-04-14,0.0
 20019,Kansas,Chautauqua,2020-03-31,2.0
 20019,Kansas,Chautauqua,2020-04-01,2.0
 20019,Kansas,Chautauqua,2020-04-02,2.0
@@ -18618,11 +18618,11 @@ fips,state,county,date,ML
 20021,Kansas,Cherokee,2020-04-07,0.0
 20021,Kansas,Cherokee,2020-04-08,0.0
 20021,Kansas,Cherokee,2020-04-09,0.0
-20021,Kansas,Cherokee,2020-04-10,9.370000000000001
-20021,Kansas,Cherokee,2020-04-11,9.370000000000001
-20021,Kansas,Cherokee,2020-04-12,9.370000000000001
-20021,Kansas,Cherokee,2020-04-13,9.370000000000001
-20021,Kansas,Cherokee,2020-04-14,9.370000000000001
+20021,Kansas,Cherokee,2020-04-10,0.0
+20021,Kansas,Cherokee,2020-04-11,0.0
+20021,Kansas,Cherokee,2020-04-12,0.0
+20021,Kansas,Cherokee,2020-04-13,0.0
+20021,Kansas,Cherokee,2020-04-14,0.0
 20027,Kansas,Clay,2020-03-27,2.0
 20027,Kansas,Clay,2020-03-28,2.0
 20027,Kansas,Clay,2020-03-29,2.0
@@ -18699,15 +18699,15 @@ fips,state,county,date,ML
 20037,Kansas,Crawford,2020-04-03,0.0
 20037,Kansas,Crawford,2020-04-04,0.0
 20037,Kansas,Crawford,2020-04-05,0.0
-20037,Kansas,Crawford,2020-04-06,11.17
-20037,Kansas,Crawford,2020-04-07,11.17
-20037,Kansas,Crawford,2020-04-08,11.17
-20037,Kansas,Crawford,2020-04-09,11.17
-20037,Kansas,Crawford,2020-04-10,11.17
-20037,Kansas,Crawford,2020-04-11,11.17
-20037,Kansas,Crawford,2020-04-12,11.17
-20037,Kansas,Crawford,2020-04-13,11.17
-20037,Kansas,Crawford,2020-04-14,11.17
+20037,Kansas,Crawford,2020-04-06,0.0
+20037,Kansas,Crawford,2020-04-07,0.0
+20037,Kansas,Crawford,2020-04-08,0.0
+20037,Kansas,Crawford,2020-04-09,0.0
+20037,Kansas,Crawford,2020-04-10,0.0
+20037,Kansas,Crawford,2020-04-11,0.0
+20037,Kansas,Crawford,2020-04-12,0.0
+20037,Kansas,Crawford,2020-04-13,0.0
+20037,Kansas,Crawford,2020-04-14,0.0
 20041,Kansas,Dickinson,2020-04-14,2.0
 20043,Kansas,Doniphan,2020-03-24,2.0
 20043,Kansas,Doniphan,2020-03-25,2.0
@@ -18838,10 +18838,10 @@ fips,state,county,date,ML
 20059,Kansas,Franklin,2020-04-08,0.0
 20059,Kansas,Franklin,2020-04-09,0.0
 20059,Kansas,Franklin,2020-04-10,0.0
-20059,Kansas,Franklin,2020-04-11,11.870000000000001
-20059,Kansas,Franklin,2020-04-12,11.870000000000001
-20059,Kansas,Franklin,2020-04-13,11.870000000000001
-20059,Kansas,Franklin,2020-04-14,11.870000000000001
+20059,Kansas,Franklin,2020-04-11,0.0
+20059,Kansas,Franklin,2020-04-12,0.0
+20059,Kansas,Franklin,2020-04-13,0.0
+20059,Kansas,Franklin,2020-04-14,0.0
 20061,Kansas,Geary,2020-04-05,2.0
 20061,Kansas,Geary,2020-04-06,1.8800000000000001
 20061,Kansas,Geary,2020-04-07,1.8
@@ -19061,17 +19061,17 @@ fips,state,county,date,ML
 20107,Kansas,Linn,2020-04-01,0.0
 20107,Kansas,Linn,2020-04-02,0.0
 20107,Kansas,Linn,2020-04-03,0.0
-20107,Kansas,Linn,2020-04-04,11.67
-20107,Kansas,Linn,2020-04-05,11.67
-20107,Kansas,Linn,2020-04-06,11.67
-20107,Kansas,Linn,2020-04-07,11.67
-20107,Kansas,Linn,2020-04-08,11.67
-20107,Kansas,Linn,2020-04-09,11.67
-20107,Kansas,Linn,2020-04-10,11.67
-20107,Kansas,Linn,2020-04-11,11.67
-20107,Kansas,Linn,2020-04-12,11.67
-20107,Kansas,Linn,2020-04-13,11.67
-20107,Kansas,Linn,2020-04-14,11.67
+20107,Kansas,Linn,2020-04-04,0.0
+20107,Kansas,Linn,2020-04-05,0.0
+20107,Kansas,Linn,2020-04-06,0.0
+20107,Kansas,Linn,2020-04-07,0.0
+20107,Kansas,Linn,2020-04-08,0.0
+20107,Kansas,Linn,2020-04-09,0.0
+20107,Kansas,Linn,2020-04-10,0.0
+20107,Kansas,Linn,2020-04-11,0.0
+20107,Kansas,Linn,2020-04-12,0.0
+20107,Kansas,Linn,2020-04-13,0.0
+20107,Kansas,Linn,2020-04-14,0.0
 20111,Kansas,Lyon,2020-03-23,2.0
 20111,Kansas,Lyon,2020-03-24,2.0
 20111,Kansas,Lyon,2020-03-25,2.0
@@ -19123,8 +19123,8 @@ fips,state,county,date,ML
 20115,Kansas,Marion,2020-04-09,1.52
 20115,Kansas,Marion,2020-04-10,0.0
 20115,Kansas,Marion,2020-04-11,0.0
-20115,Kansas,Marion,2020-04-12,10.09
-20115,Kansas,Marion,2020-04-13,10.09
+20115,Kansas,Marion,2020-04-12,0.0
+20115,Kansas,Marion,2020-04-13,0.0
 20115,Kansas,Marion,2020-04-14,1.0
 20121,Kansas,Miami,2020-03-28,2.0
 20121,Kansas,Miami,2020-03-29,2.0
@@ -19153,21 +19153,21 @@ fips,state,county,date,ML
 20123,Kansas,Mitchell,2020-03-28,1.52
 20123,Kansas,Mitchell,2020-03-29,0.0
 20123,Kansas,Mitchell,2020-03-30,0.0
-20123,Kansas,Mitchell,2020-03-31,10.09
-20123,Kansas,Mitchell,2020-04-01,10.09
-20123,Kansas,Mitchell,2020-04-02,10.09
-20123,Kansas,Mitchell,2020-04-03,10.09
-20123,Kansas,Mitchell,2020-04-04,10.09
-20123,Kansas,Mitchell,2020-04-05,10.09
-20123,Kansas,Mitchell,2020-04-06,10.09
-20123,Kansas,Mitchell,2020-04-07,10.09
-20123,Kansas,Mitchell,2020-04-08,10.09
-20123,Kansas,Mitchell,2020-04-09,10.09
-20123,Kansas,Mitchell,2020-04-10,10.09
-20123,Kansas,Mitchell,2020-04-11,10.09
-20123,Kansas,Mitchell,2020-04-12,10.09
-20123,Kansas,Mitchell,2020-04-13,10.09
-20123,Kansas,Mitchell,2020-04-14,10.09
+20123,Kansas,Mitchell,2020-03-31,0.0
+20123,Kansas,Mitchell,2020-04-01,0.0
+20123,Kansas,Mitchell,2020-04-02,0.0
+20123,Kansas,Mitchell,2020-04-03,0.0
+20123,Kansas,Mitchell,2020-04-04,0.0
+20123,Kansas,Mitchell,2020-04-05,0.0
+20123,Kansas,Mitchell,2020-04-06,0.0
+20123,Kansas,Mitchell,2020-04-07,0.0
+20123,Kansas,Mitchell,2020-04-08,0.0
+20123,Kansas,Mitchell,2020-04-09,0.0
+20123,Kansas,Mitchell,2020-04-10,0.0
+20123,Kansas,Mitchell,2020-04-11,0.0
+20123,Kansas,Mitchell,2020-04-12,0.0
+20123,Kansas,Mitchell,2020-04-13,0.0
+20123,Kansas,Mitchell,2020-04-14,0.0
 20125,Kansas,Montgomery,2020-03-29,2.0
 20125,Kansas,Montgomery,2020-03-30,1.8800000000000001
 20125,Kansas,Montgomery,2020-03-31,1.8
@@ -19351,11 +19351,11 @@ fips,state,county,date,ML
 20155,Kansas,Reno,2020-04-05,0.0
 20155,Kansas,Reno,2020-04-06,0.0
 20155,Kansas,Reno,2020-04-07,0.0
-20155,Kansas,Reno,2020-04-08,11.870000000000001
-20155,Kansas,Reno,2020-04-09,11.870000000000001
-20155,Kansas,Reno,2020-04-10,11.870000000000001
-20155,Kansas,Reno,2020-04-11,11.870000000000001
-20155,Kansas,Reno,2020-04-12,11.870000000000001
+20155,Kansas,Reno,2020-04-08,0.0
+20155,Kansas,Reno,2020-04-09,0.0
+20155,Kansas,Reno,2020-04-10,0.0
+20155,Kansas,Reno,2020-04-11,0.0
+20155,Kansas,Reno,2020-04-12,0.0
 20155,Kansas,Reno,2020-04-13,1.0
 20155,Kansas,Reno,2020-04-14,1.0
 20157,Kansas,Republic,2020-04-05,2.0
@@ -19746,11 +19746,11 @@ fips,state,county,date,ML
 21017,Kentucky,Bourbon,2020-04-07,0.0
 21017,Kentucky,Bourbon,2020-04-08,0.0
 21017,Kentucky,Bourbon,2020-04-09,0.0
-21017,Kentucky,Bourbon,2020-04-10,11.53
-21017,Kentucky,Bourbon,2020-04-11,11.53
-21017,Kentucky,Bourbon,2020-04-12,11.53
-21017,Kentucky,Bourbon,2020-04-13,11.53
-21017,Kentucky,Bourbon,2020-04-14,11.53
+21017,Kentucky,Bourbon,2020-04-10,0.0
+21017,Kentucky,Bourbon,2020-04-11,0.0
+21017,Kentucky,Bourbon,2020-04-12,0.0
+21017,Kentucky,Bourbon,2020-04-13,0.0
+21017,Kentucky,Bourbon,2020-04-14,0.0
 21019,Kentucky,Boyd,2020-03-29,2.0
 21019,Kentucky,Boyd,2020-03-30,2.0
 21019,Kentucky,Boyd,2020-03-31,2.0
@@ -20102,9 +20102,9 @@ fips,state,county,date,ML
 21061,Kentucky,Edmonson,2020-04-09,0.0
 21061,Kentucky,Edmonson,2020-04-10,0.0
 21061,Kentucky,Edmonson,2020-04-11,0.0
-21061,Kentucky,Edmonson,2020-04-12,11.17
-21061,Kentucky,Edmonson,2020-04-13,11.17
-21061,Kentucky,Edmonson,2020-04-14,11.17
+21061,Kentucky,Edmonson,2020-04-12,0.0
+21061,Kentucky,Edmonson,2020-04-13,0.0
+21061,Kentucky,Edmonson,2020-04-14,0.0
 21067,Kentucky,Fayette,2020-03-06,2.0
 21067,Kentucky,Fayette,2020-03-07,1.8800000000000001
 21067,Kentucky,Fayette,2020-03-08,1.8
@@ -20116,7 +20116,7 @@ fips,state,county,date,ML
 21067,Kentucky,Fayette,2020-03-14,0.0
 21067,Kentucky,Fayette,2020-03-15,0.0
 21067,Kentucky,Fayette,2020-03-16,0.0
-21067,Kentucky,Fayette,2020-03-17,11.950000000000001
+21067,Kentucky,Fayette,2020-03-17,0.0
 21067,Kentucky,Fayette,2020-03-18,1.0
 21067,Kentucky,Fayette,2020-03-19,1.0
 21067,Kentucky,Fayette,2020-03-20,2.15
@@ -20191,10 +20191,10 @@ fips,state,county,date,ML
 21073,Kentucky,Franklin,2020-04-08,0.0
 21073,Kentucky,Franklin,2020-04-09,0.0
 21073,Kentucky,Franklin,2020-04-10,0.0
-21073,Kentucky,Franklin,2020-04-11,11.85
-21073,Kentucky,Franklin,2020-04-12,11.85
-21073,Kentucky,Franklin,2020-04-13,11.85
-21073,Kentucky,Franklin,2020-04-14,11.85
+21073,Kentucky,Franklin,2020-04-11,0.0
+21073,Kentucky,Franklin,2020-04-12,0.0
+21073,Kentucky,Franklin,2020-04-13,0.0
+21073,Kentucky,Franklin,2020-04-14,0.0
 21077,Kentucky,Gallatin,2020-04-11,2.0
 21077,Kentucky,Gallatin,2020-04-12,2.0
 21077,Kentucky,Gallatin,2020-04-13,2.0
@@ -20344,11 +20344,11 @@ fips,state,county,date,ML
 21097,Kentucky,Harrison,2020-04-07,0.0
 21097,Kentucky,Harrison,2020-04-08,0.0
 21097,Kentucky,Harrison,2020-04-09,0.0
-21097,Kentucky,Harrison,2020-04-10,11.42
-21097,Kentucky,Harrison,2020-04-11,11.42
-21097,Kentucky,Harrison,2020-04-12,11.42
-21097,Kentucky,Harrison,2020-04-13,11.42
-21097,Kentucky,Harrison,2020-04-14,11.42
+21097,Kentucky,Harrison,2020-04-10,0.0
+21097,Kentucky,Harrison,2020-04-11,0.0
+21097,Kentucky,Harrison,2020-04-12,0.0
+21097,Kentucky,Harrison,2020-04-13,0.0
+21097,Kentucky,Harrison,2020-04-14,0.0
 21099,Kentucky,Hart,2020-04-07,2.0
 21099,Kentucky,Hart,2020-04-08,2.0
 21099,Kentucky,Hart,2020-04-09,2.0
@@ -20369,8 +20369,8 @@ fips,state,county,date,ML
 21101,Kentucky,Henderson,2020-03-28,0.0
 21101,Kentucky,Henderson,2020-03-29,0.0
 21101,Kentucky,Henderson,2020-03-30,0.0
-21101,Kentucky,Henderson,2020-03-31,11.17
-21101,Kentucky,Henderson,2020-04-01,11.17
+21101,Kentucky,Henderson,2020-03-31,0.0
+21101,Kentucky,Henderson,2020-04-01,0.0
 21101,Kentucky,Henderson,2020-04-02,1.0
 21101,Kentucky,Henderson,2020-04-03,1.0
 21101,Kentucky,Henderson,2020-04-04,2.15
@@ -20941,10 +20941,10 @@ fips,state,county,date,ML
 21173,Kentucky,Montgomery,2020-04-08,0.0
 21173,Kentucky,Montgomery,2020-04-09,0.0
 21173,Kentucky,Montgomery,2020-04-10,0.0
-21173,Kentucky,Montgomery,2020-04-11,11.85
-21173,Kentucky,Montgomery,2020-04-12,11.85
-21173,Kentucky,Montgomery,2020-04-13,11.85
-21173,Kentucky,Montgomery,2020-04-14,11.85
+21173,Kentucky,Montgomery,2020-04-11,0.0
+21173,Kentucky,Montgomery,2020-04-12,0.0
+21173,Kentucky,Montgomery,2020-04-13,0.0
+21173,Kentucky,Montgomery,2020-04-14,0.0
 21175,Kentucky,Morgan,2020-04-12,2.0
 21175,Kentucky,Morgan,2020-04-13,2.0
 21175,Kentucky,Morgan,2020-04-14,2.0
@@ -21254,7 +21254,7 @@ fips,state,county,date,ML
 21215,Kentucky,Spencer,2020-04-06,0.0
 21215,Kentucky,Spencer,2020-04-07,0.0
 21215,Kentucky,Spencer,2020-04-08,0.0
-21215,Kentucky,Spencer,2020-04-09,9.370000000000001
+21215,Kentucky,Spencer,2020-04-09,0.0
 21215,Kentucky,Spencer,2020-04-10,1.0
 21215,Kentucky,Spencer,2020-04-11,1.0
 21215,Kentucky,Spencer,2020-04-12,1.0
@@ -23126,9 +23126,9 @@ fips,state,county,date,ML
 23013,Maine,Knox,2020-04-09,0.0
 23013,Maine,Knox,2020-04-10,0.0
 23013,Maine,Knox,2020-04-11,0.0
-23013,Maine,Knox,2020-04-12,11.870000000000001
-23013,Maine,Knox,2020-04-13,11.870000000000001
-23013,Maine,Knox,2020-04-14,11.870000000000001
+23013,Maine,Knox,2020-04-12,0.0
+23013,Maine,Knox,2020-04-13,0.0
+23013,Maine,Knox,2020-04-14,0.0
 23015,Maine,Lincoln,2020-03-15,2.0
 23015,Maine,Lincoln,2020-03-16,1.8800000000000001
 23015,Maine,Lincoln,2020-03-17,1.8
@@ -23140,10 +23140,10 @@ fips,state,county,date,ML
 23015,Maine,Lincoln,2020-03-23,0.0
 23015,Maine,Lincoln,2020-03-24,0.0
 23015,Maine,Lincoln,2020-03-25,0.0
-23015,Maine,Lincoln,2020-03-26,11.950000000000001
-23015,Maine,Lincoln,2020-03-27,11.950000000000001
-23015,Maine,Lincoln,2020-03-28,11.950000000000001
-23015,Maine,Lincoln,2020-03-29,11.950000000000001
+23015,Maine,Lincoln,2020-03-26,0.0
+23015,Maine,Lincoln,2020-03-27,0.0
+23015,Maine,Lincoln,2020-03-28,0.0
+23015,Maine,Lincoln,2020-03-29,0.0
 23015,Maine,Lincoln,2020-03-30,1.0
 23015,Maine,Lincoln,2020-03-31,1.0
 23015,Maine,Lincoln,2020-04-01,0.0
@@ -23153,12 +23153,12 @@ fips,state,county,date,ML
 23015,Maine,Lincoln,2020-04-05,0.0
 23015,Maine,Lincoln,2020-04-06,0.0
 23015,Maine,Lincoln,2020-04-07,0.0
-23015,Maine,Lincoln,2020-04-08,11.65
-23015,Maine,Lincoln,2020-04-09,11.65
-23015,Maine,Lincoln,2020-04-10,11.65
-23015,Maine,Lincoln,2020-04-11,11.65
-23015,Maine,Lincoln,2020-04-12,11.65
-23015,Maine,Lincoln,2020-04-13,11.65
+23015,Maine,Lincoln,2020-04-08,0.0
+23015,Maine,Lincoln,2020-04-09,0.0
+23015,Maine,Lincoln,2020-04-10,0.0
+23015,Maine,Lincoln,2020-04-11,0.0
+23015,Maine,Lincoln,2020-04-12,0.0
+23015,Maine,Lincoln,2020-04-13,0.0
 23015,Maine,Lincoln,2020-04-14,1.0
 23017,Maine,Oxford,2020-03-17,2.0
 23017,Maine,Oxford,2020-03-18,2.0
@@ -23178,17 +23178,17 @@ fips,state,county,date,ML
 23017,Maine,Oxford,2020-04-01,0.0
 23017,Maine,Oxford,2020-04-02,0.0
 23017,Maine,Oxford,2020-04-03,0.0
-23017,Maine,Oxford,2020-04-04,11.41
-23017,Maine,Oxford,2020-04-05,11.41
-23017,Maine,Oxford,2020-04-06,11.41
-23017,Maine,Oxford,2020-04-07,11.41
-23017,Maine,Oxford,2020-04-08,11.41
-23017,Maine,Oxford,2020-04-09,11.41
-23017,Maine,Oxford,2020-04-10,11.41
-23017,Maine,Oxford,2020-04-11,11.41
-23017,Maine,Oxford,2020-04-12,11.41
-23017,Maine,Oxford,2020-04-13,11.41
-23017,Maine,Oxford,2020-04-14,11.41
+23017,Maine,Oxford,2020-04-04,0.0
+23017,Maine,Oxford,2020-04-05,0.0
+23017,Maine,Oxford,2020-04-06,0.0
+23017,Maine,Oxford,2020-04-07,0.0
+23017,Maine,Oxford,2020-04-08,0.0
+23017,Maine,Oxford,2020-04-09,0.0
+23017,Maine,Oxford,2020-04-10,0.0
+23017,Maine,Oxford,2020-04-11,0.0
+23017,Maine,Oxford,2020-04-12,0.0
+23017,Maine,Oxford,2020-04-13,0.0
+23017,Maine,Oxford,2020-04-14,0.0
 23019,Maine,Penobscot,2020-03-18,2.0
 23019,Maine,Penobscot,2020-03-19,2.0
 23019,Maine,Penobscot,2020-03-20,2.0
@@ -23239,9 +23239,9 @@ fips,state,county,date,ML
 23023,Maine,Sagadahoc,2020-04-09,0.0
 23023,Maine,Sagadahoc,2020-04-10,0.0
 23023,Maine,Sagadahoc,2020-04-11,0.0
-23023,Maine,Sagadahoc,2020-04-12,11.1
-23023,Maine,Sagadahoc,2020-04-13,11.1
-23023,Maine,Sagadahoc,2020-04-14,11.1
+23023,Maine,Sagadahoc,2020-04-12,0.0
+23023,Maine,Sagadahoc,2020-04-13,0.0
+23023,Maine,Sagadahoc,2020-04-14,0.0
 23025,Maine,Somerset,2020-03-29,2.0
 23025,Maine,Somerset,2020-03-30,2.0
 23025,Maine,Somerset,2020-03-31,2.0
@@ -23846,11 +23846,11 @@ fips,state,county,date,ML
 24039,Maryland,Somerset,2020-04-07,0.0
 24039,Maryland,Somerset,2020-04-08,0.0
 24039,Maryland,Somerset,2020-04-09,0.0
-24039,Maryland,Somerset,2020-04-10,11.32
-24039,Maryland,Somerset,2020-04-11,11.32
-24039,Maryland,Somerset,2020-04-12,11.32
-24039,Maryland,Somerset,2020-04-13,11.32
-24039,Maryland,Somerset,2020-04-14,11.32
+24039,Maryland,Somerset,2020-04-10,0.0
+24039,Maryland,Somerset,2020-04-11,0.0
+24039,Maryland,Somerset,2020-04-12,0.0
+24039,Maryland,Somerset,2020-04-13,0.0
+24039,Maryland,Somerset,2020-04-14,0.0
 24041,Maryland,Talbot,2020-03-16,2.0
 24041,Maryland,Talbot,2020-03-17,2.0
 24041,Maryland,Talbot,2020-03-18,2.0
@@ -23921,7 +23921,7 @@ fips,state,county,date,ML
 24045,Maryland,Wicomico,2020-03-31,0.0
 24045,Maryland,Wicomico,2020-04-01,0.0
 24045,Maryland,Wicomico,2020-04-02,0.0
-24045,Maryland,Wicomico,2020-04-03,11.870000000000001
+24045,Maryland,Wicomico,2020-04-03,0.0
 24045,Maryland,Wicomico,2020-04-04,1.0
 24045,Maryland,Wicomico,2020-04-05,2.62
 24045,Maryland,Wicomico,2020-04-06,1.8900000000000001
@@ -24299,9 +24299,9 @@ fips,state,county,date,ML
 25019,Massachusetts,Nantucket,2020-04-09,0.0
 25019,Massachusetts,Nantucket,2020-04-10,0.0
 25019,Massachusetts,Nantucket,2020-04-11,0.0
-25019,Massachusetts,Nantucket,2020-04-12,11.870000000000001
-25019,Massachusetts,Nantucket,2020-04-13,11.870000000000001
-25019,Massachusetts,Nantucket,2020-04-14,11.870000000000001
+25019,Massachusetts,Nantucket,2020-04-12,0.0
+25019,Massachusetts,Nantucket,2020-04-13,0.0
+25019,Massachusetts,Nantucket,2020-04-14,0.0
 25021,Massachusetts,Norfolk,2020-03-02,2.0
 25021,Massachusetts,Norfolk,2020-03-03,2.0
 25021,Massachusetts,Norfolk,2020-03-04,2.0
@@ -24528,12 +24528,12 @@ fips,state,county,date,ML
 26009,Michigan,Antrim,2020-04-06,0.0
 26009,Michigan,Antrim,2020-04-07,0.0
 26009,Michigan,Antrim,2020-04-08,0.0
-26009,Michigan,Antrim,2020-04-09,11.94
-26009,Michigan,Antrim,2020-04-10,11.94
-26009,Michigan,Antrim,2020-04-11,11.94
-26009,Michigan,Antrim,2020-04-12,11.94
-26009,Michigan,Antrim,2020-04-13,11.94
-26009,Michigan,Antrim,2020-04-14,11.94
+26009,Michigan,Antrim,2020-04-09,0.0
+26009,Michigan,Antrim,2020-04-10,0.0
+26009,Michigan,Antrim,2020-04-11,0.0
+26009,Michigan,Antrim,2020-04-12,0.0
+26009,Michigan,Antrim,2020-04-13,0.0
+26009,Michigan,Antrim,2020-04-14,0.0
 26011,Michigan,Arenac,2020-03-31,2.0
 26011,Michigan,Arenac,2020-04-01,2.0
 26011,Michigan,Arenac,2020-04-02,2.0
@@ -24711,9 +24711,9 @@ fips,state,county,date,ML
 26029,Michigan,Charlevoix,2020-03-29,0.0
 26029,Michigan,Charlevoix,2020-03-30,0.0
 26029,Michigan,Charlevoix,2020-03-31,0.0
-26029,Michigan,Charlevoix,2020-04-01,9.370000000000001
-26029,Michigan,Charlevoix,2020-04-02,9.370000000000001
-26029,Michigan,Charlevoix,2020-04-03,9.370000000000001
+26029,Michigan,Charlevoix,2020-04-01,0.0
+26029,Michigan,Charlevoix,2020-04-02,0.0
+26029,Michigan,Charlevoix,2020-04-03,0.0
 26029,Michigan,Charlevoix,2020-04-04,1.0
 26029,Michigan,Charlevoix,2020-04-05,1.0
 26029,Michigan,Charlevoix,2020-04-06,1.0
@@ -25023,15 +25023,15 @@ fips,state,county,date,ML
 26057,Michigan,Gratiot,2020-04-03,0.0
 26057,Michigan,Gratiot,2020-04-04,0.0
 26057,Michigan,Gratiot,2020-04-05,0.0
-26057,Michigan,Gratiot,2020-04-06,11.94
-26057,Michigan,Gratiot,2020-04-07,11.94
-26057,Michigan,Gratiot,2020-04-08,11.94
-26057,Michigan,Gratiot,2020-04-09,11.94
-26057,Michigan,Gratiot,2020-04-10,11.94
-26057,Michigan,Gratiot,2020-04-11,11.94
-26057,Michigan,Gratiot,2020-04-12,11.94
-26057,Michigan,Gratiot,2020-04-13,11.94
-26057,Michigan,Gratiot,2020-04-14,11.94
+26057,Michigan,Gratiot,2020-04-06,0.0
+26057,Michigan,Gratiot,2020-04-07,0.0
+26057,Michigan,Gratiot,2020-04-08,0.0
+26057,Michigan,Gratiot,2020-04-09,0.0
+26057,Michigan,Gratiot,2020-04-10,0.0
+26057,Michigan,Gratiot,2020-04-11,0.0
+26057,Michigan,Gratiot,2020-04-12,0.0
+26057,Michigan,Gratiot,2020-04-13,0.0
+26057,Michigan,Gratiot,2020-04-14,0.0
 26059,Michigan,Hillsdale,2020-03-24,2.0
 26059,Michigan,Hillsdale,2020-03-25,1.8
 26059,Michigan,Hillsdale,2020-03-26,1.69
@@ -25080,15 +25080,15 @@ fips,state,county,date,ML
 26063,Michigan,Huron,2020-04-03,0.0
 26063,Michigan,Huron,2020-04-04,0.0
 26063,Michigan,Huron,2020-04-05,0.0
-26063,Michigan,Huron,2020-04-06,11.94
-26063,Michigan,Huron,2020-04-07,11.94
-26063,Michigan,Huron,2020-04-08,11.94
-26063,Michigan,Huron,2020-04-09,11.94
-26063,Michigan,Huron,2020-04-10,11.94
-26063,Michigan,Huron,2020-04-11,11.94
-26063,Michigan,Huron,2020-04-12,11.94
-26063,Michigan,Huron,2020-04-13,11.94
-26063,Michigan,Huron,2020-04-14,11.94
+26063,Michigan,Huron,2020-04-06,0.0
+26063,Michigan,Huron,2020-04-07,0.0
+26063,Michigan,Huron,2020-04-08,0.0
+26063,Michigan,Huron,2020-04-09,0.0
+26063,Michigan,Huron,2020-04-10,0.0
+26063,Michigan,Huron,2020-04-11,0.0
+26063,Michigan,Huron,2020-04-12,0.0
+26063,Michigan,Huron,2020-04-13,0.0
+26063,Michigan,Huron,2020-04-14,0.0
 26065,Michigan,Ingham,2020-03-12,2.0
 26065,Michigan,Ingham,2020-03-13,2.0
 26065,Michigan,Ingham,2020-03-14,2.0
@@ -25163,7 +25163,7 @@ fips,state,county,date,ML
 26069,Michigan,Iosco,2020-04-11,0.0
 26069,Michigan,Iosco,2020-04-12,0.0
 26069,Michigan,Iosco,2020-04-13,0.0
-26069,Michigan,Iosco,2020-04-14,9.370000000000001
+26069,Michigan,Iosco,2020-04-14,0.0
 26073,Michigan,Isabella,2020-03-24,2.0
 26073,Michigan,Isabella,2020-03-25,1.8800000000000001
 26073,Michigan,Isabella,2020-03-26,1.8
@@ -26223,14 +26223,14 @@ fips,state,county,date,ML
 27007,Minnesota,Beltrami,2020-04-04,0.0
 27007,Minnesota,Beltrami,2020-04-05,0.0
 27007,Minnesota,Beltrami,2020-04-06,0.0
-27007,Minnesota,Beltrami,2020-04-07,11.950000000000001
-27007,Minnesota,Beltrami,2020-04-08,11.950000000000001
-27007,Minnesota,Beltrami,2020-04-09,11.950000000000001
-27007,Minnesota,Beltrami,2020-04-10,11.950000000000001
-27007,Minnesota,Beltrami,2020-04-11,11.950000000000001
-27007,Minnesota,Beltrami,2020-04-12,11.950000000000001
-27007,Minnesota,Beltrami,2020-04-13,11.950000000000001
-27007,Minnesota,Beltrami,2020-04-14,11.950000000000001
+27007,Minnesota,Beltrami,2020-04-07,0.0
+27007,Minnesota,Beltrami,2020-04-08,0.0
+27007,Minnesota,Beltrami,2020-04-09,0.0
+27007,Minnesota,Beltrami,2020-04-10,0.0
+27007,Minnesota,Beltrami,2020-04-11,0.0
+27007,Minnesota,Beltrami,2020-04-12,0.0
+27007,Minnesota,Beltrami,2020-04-13,0.0
+27007,Minnesota,Beltrami,2020-04-14,0.0
 27009,Minnesota,Benton,2020-03-16,2.0
 27009,Minnesota,Benton,2020-03-17,2.0
 27009,Minnesota,Benton,2020-03-18,2.0
@@ -26368,16 +26368,16 @@ fips,state,county,date,ML
 27019,Minnesota,Carver,2020-03-29,0.0
 27019,Minnesota,Carver,2020-03-30,0.0
 27019,Minnesota,Carver,2020-03-31,0.0
-27019,Minnesota,Carver,2020-04-01,11.41
-27019,Minnesota,Carver,2020-04-02,11.41
-27019,Minnesota,Carver,2020-04-03,11.41
-27019,Minnesota,Carver,2020-04-04,11.41
-27019,Minnesota,Carver,2020-04-05,11.41
-27019,Minnesota,Carver,2020-04-06,11.41
-27019,Minnesota,Carver,2020-04-07,11.41
-27019,Minnesota,Carver,2020-04-08,11.41
-27019,Minnesota,Carver,2020-04-09,11.41
-27019,Minnesota,Carver,2020-04-10,11.41
+27019,Minnesota,Carver,2020-04-01,0.0
+27019,Minnesota,Carver,2020-04-02,0.0
+27019,Minnesota,Carver,2020-04-03,0.0
+27019,Minnesota,Carver,2020-04-04,0.0
+27019,Minnesota,Carver,2020-04-05,0.0
+27019,Minnesota,Carver,2020-04-06,0.0
+27019,Minnesota,Carver,2020-04-07,0.0
+27019,Minnesota,Carver,2020-04-08,0.0
+27019,Minnesota,Carver,2020-04-09,0.0
+27019,Minnesota,Carver,2020-04-10,0.0
 27019,Minnesota,Carver,2020-04-11,1.0
 27019,Minnesota,Carver,2020-04-12,1.0
 27019,Minnesota,Carver,2020-04-13,0.0
@@ -26488,10 +26488,10 @@ fips,state,county,date,ML
 27033,Minnesota,Cottonwood,2020-04-08,0.0
 27033,Minnesota,Cottonwood,2020-04-09,0.0
 27033,Minnesota,Cottonwood,2020-04-10,0.0
-27033,Minnesota,Cottonwood,2020-04-11,11.99
-27033,Minnesota,Cottonwood,2020-04-12,11.99
-27033,Minnesota,Cottonwood,2020-04-13,11.99
-27033,Minnesota,Cottonwood,2020-04-14,11.99
+27033,Minnesota,Cottonwood,2020-04-11,0.0
+27033,Minnesota,Cottonwood,2020-04-12,0.0
+27033,Minnesota,Cottonwood,2020-04-13,0.0
+27033,Minnesota,Cottonwood,2020-04-14,0.0
 27035,Minnesota,Crow Wing,2020-04-01,2.0
 27035,Minnesota,Crow Wing,2020-04-02,1.8800000000000001
 27035,Minnesota,Crow Wing,2020-04-03,1.8
@@ -26621,12 +26621,12 @@ fips,state,county,date,ML
 27045,Minnesota,Fillmore,2020-04-06,0.0
 27045,Minnesota,Fillmore,2020-04-07,0.0
 27045,Minnesota,Fillmore,2020-04-08,0.0
-27045,Minnesota,Fillmore,2020-04-09,11.41
-27045,Minnesota,Fillmore,2020-04-10,11.41
-27045,Minnesota,Fillmore,2020-04-11,11.41
-27045,Minnesota,Fillmore,2020-04-12,11.41
-27045,Minnesota,Fillmore,2020-04-13,11.41
-27045,Minnesota,Fillmore,2020-04-14,11.41
+27045,Minnesota,Fillmore,2020-04-09,0.0
+27045,Minnesota,Fillmore,2020-04-10,0.0
+27045,Minnesota,Fillmore,2020-04-11,0.0
+27045,Minnesota,Fillmore,2020-04-12,0.0
+27045,Minnesota,Fillmore,2020-04-13,0.0
+27045,Minnesota,Fillmore,2020-04-14,0.0
 27047,Minnesota,Freeborn,2020-04-01,2.0
 27047,Minnesota,Freeborn,2020-04-02,1.49
 27047,Minnesota,Freeborn,2020-04-03,1.44
@@ -26842,8 +26842,8 @@ fips,state,county,date,ML
 27079,Minnesota,Le Sueur,2020-04-10,0.0
 27079,Minnesota,Le Sueur,2020-04-11,0.0
 27079,Minnesota,Le Sueur,2020-04-12,0.0
-27079,Minnesota,Le Sueur,2020-04-13,11.97
-27079,Minnesota,Le Sueur,2020-04-14,11.97
+27079,Minnesota,Le Sueur,2020-04-13,0.0
+27079,Minnesota,Le Sueur,2020-04-14,0.0
 27081,Minnesota,Lincoln,2020-03-27,2.0
 27081,Minnesota,Lincoln,2020-03-28,2.0
 27081,Minnesota,Lincoln,2020-03-29,2.0
@@ -26873,12 +26873,12 @@ fips,state,county,date,ML
 27083,Minnesota,Lyon,2020-04-06,0.0
 27083,Minnesota,Lyon,2020-04-07,0.0
 27083,Minnesota,Lyon,2020-04-08,0.0
-27083,Minnesota,Lyon,2020-04-09,11.94
-27083,Minnesota,Lyon,2020-04-10,11.94
-27083,Minnesota,Lyon,2020-04-11,11.94
-27083,Minnesota,Lyon,2020-04-12,11.94
-27083,Minnesota,Lyon,2020-04-13,11.94
-27083,Minnesota,Lyon,2020-04-14,11.94
+27083,Minnesota,Lyon,2020-04-09,0.0
+27083,Minnesota,Lyon,2020-04-10,0.0
+27083,Minnesota,Lyon,2020-04-11,0.0
+27083,Minnesota,Lyon,2020-04-12,0.0
+27083,Minnesota,Lyon,2020-04-13,0.0
+27083,Minnesota,Lyon,2020-04-14,0.0
 27085,Minnesota,McLeod,2020-04-04,2.0
 27085,Minnesota,McLeod,2020-04-05,2.0
 27085,Minnesota,McLeod,2020-04-06,2.0
@@ -27296,12 +27296,12 @@ fips,state,county,date,ML
 27141,Minnesota,Sherburne,2020-04-06,0.0
 27141,Minnesota,Sherburne,2020-04-07,0.0
 27141,Minnesota,Sherburne,2020-04-08,0.0
-27141,Minnesota,Sherburne,2020-04-09,11.41
-27141,Minnesota,Sherburne,2020-04-10,11.41
-27141,Minnesota,Sherburne,2020-04-11,11.41
-27141,Minnesota,Sherburne,2020-04-12,11.41
-27141,Minnesota,Sherburne,2020-04-13,11.41
-27141,Minnesota,Sherburne,2020-04-14,11.41
+27141,Minnesota,Sherburne,2020-04-09,0.0
+27141,Minnesota,Sherburne,2020-04-10,0.0
+27141,Minnesota,Sherburne,2020-04-11,0.0
+27141,Minnesota,Sherburne,2020-04-12,0.0
+27141,Minnesota,Sherburne,2020-04-13,0.0
+27141,Minnesota,Sherburne,2020-04-14,0.0
 27143,Minnesota,Sibley,2020-03-26,2.0
 27143,Minnesota,Sibley,2020-03-27,2.0
 27143,Minnesota,Sibley,2020-03-28,2.0
@@ -27367,20 +27367,20 @@ fips,state,county,date,ML
 27147,Minnesota,Steele,2020-03-29,0.0
 27147,Minnesota,Steele,2020-03-30,0.0
 27147,Minnesota,Steele,2020-03-31,0.0
-27147,Minnesota,Steele,2020-04-01,11.950000000000001
-27147,Minnesota,Steele,2020-04-02,11.950000000000001
-27147,Minnesota,Steele,2020-04-03,11.950000000000001
-27147,Minnesota,Steele,2020-04-04,11.950000000000001
-27147,Minnesota,Steele,2020-04-05,11.950000000000001
-27147,Minnesota,Steele,2020-04-06,11.950000000000001
-27147,Minnesota,Steele,2020-04-07,11.950000000000001
-27147,Minnesota,Steele,2020-04-08,11.950000000000001
-27147,Minnesota,Steele,2020-04-09,11.950000000000001
-27147,Minnesota,Steele,2020-04-10,11.950000000000001
-27147,Minnesota,Steele,2020-04-11,11.950000000000001
-27147,Minnesota,Steele,2020-04-12,11.950000000000001
-27147,Minnesota,Steele,2020-04-13,11.950000000000001
-27147,Minnesota,Steele,2020-04-14,11.950000000000001
+27147,Minnesota,Steele,2020-04-01,0.0
+27147,Minnesota,Steele,2020-04-02,0.0
+27147,Minnesota,Steele,2020-04-03,0.0
+27147,Minnesota,Steele,2020-04-04,0.0
+27147,Minnesota,Steele,2020-04-05,0.0
+27147,Minnesota,Steele,2020-04-06,0.0
+27147,Minnesota,Steele,2020-04-07,0.0
+27147,Minnesota,Steele,2020-04-08,0.0
+27147,Minnesota,Steele,2020-04-09,0.0
+27147,Minnesota,Steele,2020-04-10,0.0
+27147,Minnesota,Steele,2020-04-11,0.0
+27147,Minnesota,Steele,2020-04-12,0.0
+27147,Minnesota,Steele,2020-04-13,0.0
+27147,Minnesota,Steele,2020-04-14,0.0
 27151,Minnesota,Swift,2020-04-07,2.0
 27151,Minnesota,Swift,2020-04-08,2.0
 27151,Minnesota,Swift,2020-04-09,2.0
@@ -27422,16 +27422,16 @@ fips,state,county,date,ML
 27157,Minnesota,Wabasha,2020-04-02,0.0
 27157,Minnesota,Wabasha,2020-04-03,0.0
 27157,Minnesota,Wabasha,2020-04-04,0.0
-27157,Minnesota,Wabasha,2020-04-05,11.950000000000001
-27157,Minnesota,Wabasha,2020-04-06,11.950000000000001
-27157,Minnesota,Wabasha,2020-04-07,11.950000000000001
-27157,Minnesota,Wabasha,2020-04-08,11.950000000000001
-27157,Minnesota,Wabasha,2020-04-09,11.950000000000001
-27157,Minnesota,Wabasha,2020-04-10,11.950000000000001
-27157,Minnesota,Wabasha,2020-04-11,11.950000000000001
-27157,Minnesota,Wabasha,2020-04-12,11.950000000000001
-27157,Minnesota,Wabasha,2020-04-13,11.950000000000001
-27157,Minnesota,Wabasha,2020-04-14,11.950000000000001
+27157,Minnesota,Wabasha,2020-04-05,0.0
+27157,Minnesota,Wabasha,2020-04-06,0.0
+27157,Minnesota,Wabasha,2020-04-07,0.0
+27157,Minnesota,Wabasha,2020-04-08,0.0
+27157,Minnesota,Wabasha,2020-04-09,0.0
+27157,Minnesota,Wabasha,2020-04-10,0.0
+27157,Minnesota,Wabasha,2020-04-11,0.0
+27157,Minnesota,Wabasha,2020-04-12,0.0
+27157,Minnesota,Wabasha,2020-04-13,0.0
+27157,Minnesota,Wabasha,2020-04-14,0.0
 27161,Minnesota,Waseca,2020-03-15,2.0
 27161,Minnesota,Waseca,2020-03-16,2.0
 27161,Minnesota,Waseca,2020-03-17,2.0
@@ -27505,11 +27505,11 @@ fips,state,county,date,ML
 27165,Minnesota,Watonwan,2020-04-07,0.0
 27165,Minnesota,Watonwan,2020-04-08,0.0
 27165,Minnesota,Watonwan,2020-04-09,0.0
-27165,Minnesota,Watonwan,2020-04-10,11.950000000000001
-27165,Minnesota,Watonwan,2020-04-11,11.950000000000001
-27165,Minnesota,Watonwan,2020-04-12,11.950000000000001
-27165,Minnesota,Watonwan,2020-04-13,11.950000000000001
-27165,Minnesota,Watonwan,2020-04-14,11.950000000000001
+27165,Minnesota,Watonwan,2020-04-10,0.0
+27165,Minnesota,Watonwan,2020-04-11,0.0
+27165,Minnesota,Watonwan,2020-04-12,0.0
+27165,Minnesota,Watonwan,2020-04-13,0.0
+27165,Minnesota,Watonwan,2020-04-14,0.0
 27167,Minnesota,Wilkin,2020-03-26,2.0
 27167,Minnesota,Wilkin,2020-03-27,2.0
 27167,Minnesota,Wilkin,2020-03-28,2.0
@@ -27637,9 +27637,9 @@ fips,state,county,date,ML
 28003,Mississippi,Alcorn,2020-04-09,0.0
 28003,Mississippi,Alcorn,2020-04-10,0.0
 28003,Mississippi,Alcorn,2020-04-11,0.0
-28003,Mississippi,Alcorn,2020-04-12,11.99
-28003,Mississippi,Alcorn,2020-04-13,11.99
-28003,Mississippi,Alcorn,2020-04-14,11.99
+28003,Mississippi,Alcorn,2020-04-12,0.0
+28003,Mississippi,Alcorn,2020-04-13,0.0
+28003,Mississippi,Alcorn,2020-04-14,0.0
 28005,Mississippi,Amite,2020-03-25,2.0
 28005,Mississippi,Amite,2020-03-26,1.8800000000000001
 28005,Mississippi,Amite,2020-03-28,1.8
@@ -27697,14 +27697,14 @@ fips,state,county,date,ML
 28009,Mississippi,Benton,2020-04-04,0.0
 28009,Mississippi,Benton,2020-04-05,0.0
 28009,Mississippi,Benton,2020-04-06,0.0
-28009,Mississippi,Benton,2020-04-07,11.17
-28009,Mississippi,Benton,2020-04-08,11.17
-28009,Mississippi,Benton,2020-04-09,11.17
-28009,Mississippi,Benton,2020-04-10,11.17
-28009,Mississippi,Benton,2020-04-11,11.17
-28009,Mississippi,Benton,2020-04-12,11.17
-28009,Mississippi,Benton,2020-04-13,11.17
-28009,Mississippi,Benton,2020-04-14,11.17
+28009,Mississippi,Benton,2020-04-07,0.0
+28009,Mississippi,Benton,2020-04-08,0.0
+28009,Mississippi,Benton,2020-04-09,0.0
+28009,Mississippi,Benton,2020-04-10,0.0
+28009,Mississippi,Benton,2020-04-11,0.0
+28009,Mississippi,Benton,2020-04-12,0.0
+28009,Mississippi,Benton,2020-04-13,0.0
+28009,Mississippi,Benton,2020-04-14,0.0
 28011,Mississippi,Bolivar,2020-03-18,2.0
 28011,Mississippi,Bolivar,2020-03-19,2.0
 28011,Mississippi,Bolivar,2020-03-20,2.0
@@ -27742,7 +27742,7 @@ fips,state,county,date,ML
 28013,Mississippi,Calhoun,2020-03-31,1.52
 28013,Mississippi,Calhoun,2020-04-01,0.0
 28013,Mississippi,Calhoun,2020-04-02,0.0
-28013,Mississippi,Calhoun,2020-04-03,10.09
+28013,Mississippi,Calhoun,2020-04-03,0.0
 28013,Mississippi,Calhoun,2020-04-04,1.0
 28013,Mississippi,Calhoun,2020-04-05,1.0
 28013,Mississippi,Calhoun,2020-04-06,2.15
@@ -27770,7 +27770,7 @@ fips,state,county,date,ML
 28015,Mississippi,Carroll,2020-04-11,0.0
 28015,Mississippi,Carroll,2020-04-12,0.0
 28015,Mississippi,Carroll,2020-04-13,0.0
-28015,Mississippi,Carroll,2020-04-14,11.41
+28015,Mississippi,Carroll,2020-04-14,0.0
 28017,Mississippi,Chickasaw,2020-03-22,2.0
 28017,Mississippi,Chickasaw,2020-03-23,1.8
 28017,Mississippi,Chickasaw,2020-03-24,1.69
@@ -27810,13 +27810,13 @@ fips,state,county,date,ML
 28019,Mississippi,Choctaw,2020-04-05,0.0
 28019,Mississippi,Choctaw,2020-04-06,0.0
 28019,Mississippi,Choctaw,2020-04-07,0.0
-28019,Mississippi,Choctaw,2020-04-08,11.02
-28019,Mississippi,Choctaw,2020-04-09,11.02
-28019,Mississippi,Choctaw,2020-04-10,11.02
-28019,Mississippi,Choctaw,2020-04-11,11.02
-28019,Mississippi,Choctaw,2020-04-12,11.02
-28019,Mississippi,Choctaw,2020-04-13,11.02
-28019,Mississippi,Choctaw,2020-04-14,11.02
+28019,Mississippi,Choctaw,2020-04-08,0.0
+28019,Mississippi,Choctaw,2020-04-09,0.0
+28019,Mississippi,Choctaw,2020-04-10,0.0
+28019,Mississippi,Choctaw,2020-04-11,0.0
+28019,Mississippi,Choctaw,2020-04-12,0.0
+28019,Mississippi,Choctaw,2020-04-13,0.0
+28019,Mississippi,Choctaw,2020-04-14,0.0
 28021,Mississippi,Claiborne,2020-03-29,2.0
 28021,Mississippi,Claiborne,2020-03-30,2.0
 28021,Mississippi,Claiborne,2020-03-31,2.0
@@ -28029,14 +28029,14 @@ fips,state,county,date,ML
 28037,Mississippi,Franklin,2020-03-27,0.0
 28037,Mississippi,Franklin,2020-03-28,0.0
 28037,Mississippi,Franklin,2020-03-29,0.0
-28037,Mississippi,Franklin,2020-03-30,11.94
-28037,Mississippi,Franklin,2020-03-31,11.94
-28037,Mississippi,Franklin,2020-04-01,11.94
-28037,Mississippi,Franklin,2020-04-02,11.94
-28037,Mississippi,Franklin,2020-04-03,11.94
-28037,Mississippi,Franklin,2020-04-04,11.94
-28037,Mississippi,Franklin,2020-04-05,11.94
-28037,Mississippi,Franklin,2020-04-06,11.94
+28037,Mississippi,Franklin,2020-03-30,0.0
+28037,Mississippi,Franklin,2020-03-31,0.0
+28037,Mississippi,Franklin,2020-04-01,0.0
+28037,Mississippi,Franklin,2020-04-02,0.0
+28037,Mississippi,Franklin,2020-04-03,0.0
+28037,Mississippi,Franklin,2020-04-04,0.0
+28037,Mississippi,Franklin,2020-04-05,0.0
+28037,Mississippi,Franklin,2020-04-06,0.0
 28037,Mississippi,Franklin,2020-04-07,1.0
 28037,Mississippi,Franklin,2020-04-08,1.0
 28037,Mississippi,Franklin,2020-04-09,1.0
@@ -28062,10 +28062,10 @@ fips,state,county,date,ML
 28039,Mississippi,George,2020-04-04,0.0
 28039,Mississippi,George,2020-04-05,0.0
 28039,Mississippi,George,2020-04-06,0.0
-28039,Mississippi,George,2020-04-07,9.370000000000001
-28039,Mississippi,George,2020-04-08,9.370000000000001
-28039,Mississippi,George,2020-04-09,9.370000000000001
-28039,Mississippi,George,2020-04-10,9.370000000000001
+28039,Mississippi,George,2020-04-07,0.0
+28039,Mississippi,George,2020-04-08,0.0
+28039,Mississippi,George,2020-04-09,0.0
+28039,Mississippi,George,2020-04-10,0.0
 28039,Mississippi,George,2020-04-11,1.0
 28039,Mississippi,George,2020-04-12,1.0
 28039,Mississippi,George,2020-04-13,1.0
@@ -28470,10 +28470,10 @@ fips,state,county,date,ML
 28077,Mississippi,Lawrence,2020-04-01,0.0
 28077,Mississippi,Lawrence,2020-04-02,0.0
 28077,Mississippi,Lawrence,2020-04-03,0.0
-28077,Mississippi,Lawrence,2020-04-04,11.950000000000001
-28077,Mississippi,Lawrence,2020-04-05,11.950000000000001
-28077,Mississippi,Lawrence,2020-04-06,11.950000000000001
-28077,Mississippi,Lawrence,2020-04-07,11.950000000000001
+28077,Mississippi,Lawrence,2020-04-04,0.0
+28077,Mississippi,Lawrence,2020-04-05,0.0
+28077,Mississippi,Lawrence,2020-04-06,0.0
+28077,Mississippi,Lawrence,2020-04-07,0.0
 28077,Mississippi,Lawrence,2020-04-08,1.0
 28077,Mississippi,Lawrence,2020-04-09,0.0
 28077,Mississippi,Lawrence,2020-04-10,0.0
@@ -28967,8 +28967,8 @@ fips,state,county,date,ML
 28115,Mississippi,Pontotoc,2020-04-10,0.0
 28115,Mississippi,Pontotoc,2020-04-11,0.0
 28115,Mississippi,Pontotoc,2020-04-12,0.0
-28115,Mississippi,Pontotoc,2020-04-13,11.41
-28115,Mississippi,Pontotoc,2020-04-14,11.41
+28115,Mississippi,Pontotoc,2020-04-13,0.0
+28115,Mississippi,Pontotoc,2020-04-14,0.0
 28117,Mississippi,Prentiss,2020-03-25,2.0
 28117,Mississippi,Prentiss,2020-03-26,2.0
 28117,Mississippi,Prentiss,2020-03-27,2.0
@@ -28999,7 +28999,7 @@ fips,state,county,date,ML
 28119,Mississippi,Quitman,2020-04-01,1.52
 28119,Mississippi,Quitman,2020-04-02,0.0
 28119,Mississippi,Quitman,2020-04-03,0.0
-28119,Mississippi,Quitman,2020-04-04,10.09
+28119,Mississippi,Quitman,2020-04-04,0.0
 28119,Mississippi,Quitman,2020-04-05,1.0
 28119,Mississippi,Quitman,2020-04-06,1.0
 28119,Mississippi,Quitman,2020-04-07,1.0
@@ -29104,9 +29104,9 @@ fips,state,county,date,ML
 28127,Mississippi,Simpson,2020-04-09,0.0
 28127,Mississippi,Simpson,2020-04-10,0.0
 28127,Mississippi,Simpson,2020-04-11,0.0
-28127,Mississippi,Simpson,2020-04-12,11.53
-28127,Mississippi,Simpson,2020-04-13,11.53
-28127,Mississippi,Simpson,2020-04-14,11.53
+28127,Mississippi,Simpson,2020-04-12,0.0
+28127,Mississippi,Simpson,2020-04-13,0.0
+28127,Mississippi,Simpson,2020-04-14,0.0
 28129,Mississippi,Smith,2020-03-20,2.0
 28129,Mississippi,Smith,2020-03-21,2.0
 28129,Mississippi,Smith,2020-03-22,2.0
@@ -29302,9 +29302,9 @@ fips,state,county,date,ML
 28145,Mississippi,Union,2020-04-09,0.0
 28145,Mississippi,Union,2020-04-10,0.0
 28145,Mississippi,Union,2020-04-11,0.0
-28145,Mississippi,Union,2020-04-12,11.32
-28145,Mississippi,Union,2020-04-13,11.32
-28145,Mississippi,Union,2020-04-14,11.32
+28145,Mississippi,Union,2020-04-12,0.0
+28145,Mississippi,Union,2020-04-13,0.0
+28145,Mississippi,Union,2020-04-14,0.0
 28147,Mississippi,Walthall,2020-03-19,2.0
 28147,Mississippi,Walthall,2020-03-20,2.0
 28147,Mississippi,Walthall,2020-03-21,2.0
@@ -29534,7 +29534,7 @@ fips,state,county,date,ML
 29001,Missouri,Adair,2020-04-11,0.0
 29001,Missouri,Adair,2020-04-12,0.0
 29001,Missouri,Adair,2020-04-13,0.0
-29001,Missouri,Adair,2020-04-14,10.92
+29001,Missouri,Adair,2020-04-14,0.0
 29003,Missouri,Andrew,2020-04-11,2.0
 29003,Missouri,Andrew,2020-04-12,2.0
 29003,Missouri,Andrew,2020-04-13,2.0
@@ -29738,9 +29738,9 @@ fips,state,county,date,ML
 29027,Missouri,Callaway,2020-04-09,0.0
 29027,Missouri,Callaway,2020-04-10,0.0
 29027,Missouri,Callaway,2020-04-11,0.0
-29027,Missouri,Callaway,2020-04-12,11.73
-29027,Missouri,Callaway,2020-04-13,11.73
-29027,Missouri,Callaway,2020-04-14,11.73
+29027,Missouri,Callaway,2020-04-12,0.0
+29027,Missouri,Callaway,2020-04-13,0.0
+29027,Missouri,Callaway,2020-04-14,0.0
 29029,Missouri,Camden,2020-03-23,2.0
 29029,Missouri,Camden,2020-03-24,2.0
 29029,Missouri,Camden,2020-03-25,2.0
@@ -29798,14 +29798,14 @@ fips,state,county,date,ML
 29035,Missouri,Carter,2020-04-04,0.0
 29035,Missouri,Carter,2020-04-05,0.0
 29035,Missouri,Carter,2020-04-06,0.0
-29035,Missouri,Carter,2020-04-07,9.33
-29035,Missouri,Carter,2020-04-08,9.33
-29035,Missouri,Carter,2020-04-09,9.33
-29035,Missouri,Carter,2020-04-10,9.33
-29035,Missouri,Carter,2020-04-11,9.33
-29035,Missouri,Carter,2020-04-12,9.33
-29035,Missouri,Carter,2020-04-13,9.33
-29035,Missouri,Carter,2020-04-14,9.33
+29035,Missouri,Carter,2020-04-07,0.0
+29035,Missouri,Carter,2020-04-08,0.0
+29035,Missouri,Carter,2020-04-09,0.0
+29035,Missouri,Carter,2020-04-10,0.0
+29035,Missouri,Carter,2020-04-11,0.0
+29035,Missouri,Carter,2020-04-12,0.0
+29035,Missouri,Carter,2020-04-13,0.0
+29035,Missouri,Carter,2020-04-14,0.0
 29037,Missouri,Cass,2020-03-16,2.0
 29037,Missouri,Cass,2020-03-17,1.8800000000000001
 29037,Missouri,Cass,2020-03-18,1.8
@@ -29851,7 +29851,7 @@ fips,state,county,date,ML
 29039,Missouri,Cedar,2020-04-11,0.0
 29039,Missouri,Cedar,2020-04-12,0.0
 29039,Missouri,Cedar,2020-04-13,0.0
-29039,Missouri,Cedar,2020-04-14,10.75
+29039,Missouri,Cedar,2020-04-14,0.0
 29041,Missouri,Chariton,2020-03-27,2.0
 29041,Missouri,Chariton,2020-03-28,2.0
 29041,Missouri,Chariton,2020-03-29,1.8800000000000001
@@ -29864,13 +29864,13 @@ fips,state,county,date,ML
 29041,Missouri,Chariton,2020-04-05,0.0
 29041,Missouri,Chariton,2020-04-06,0.0
 29041,Missouri,Chariton,2020-04-07,0.0
-29041,Missouri,Chariton,2020-04-08,11.950000000000001
-29041,Missouri,Chariton,2020-04-09,11.950000000000001
-29041,Missouri,Chariton,2020-04-10,11.950000000000001
-29041,Missouri,Chariton,2020-04-11,11.950000000000001
-29041,Missouri,Chariton,2020-04-12,11.950000000000001
-29041,Missouri,Chariton,2020-04-13,11.950000000000001
-29041,Missouri,Chariton,2020-04-14,11.950000000000001
+29041,Missouri,Chariton,2020-04-08,0.0
+29041,Missouri,Chariton,2020-04-09,0.0
+29041,Missouri,Chariton,2020-04-10,0.0
+29041,Missouri,Chariton,2020-04-11,0.0
+29041,Missouri,Chariton,2020-04-12,0.0
+29041,Missouri,Chariton,2020-04-13,0.0
+29041,Missouri,Chariton,2020-04-14,0.0
 29043,Missouri,Christian,2020-03-20,2.0
 29043,Missouri,Christian,2020-03-21,2.0
 29043,Missouri,Christian,2020-03-22,2.0
@@ -29896,7 +29896,7 @@ fips,state,county,date,ML
 29043,Missouri,Christian,2020-04-11,0.0
 29043,Missouri,Christian,2020-04-12,0.0
 29043,Missouri,Christian,2020-04-13,0.0
-29043,Missouri,Christian,2020-04-14,11.96
+29043,Missouri,Christian,2020-04-14,0.0
 29045,Missouri,Clark,2020-04-03,2.0
 29045,Missouri,Clark,2020-04-04,2.0
 29045,Missouri,Clark,2020-04-05,2.0
@@ -30020,7 +30020,7 @@ fips,state,county,date,ML
 29055,Missouri,Crawford,2020-04-11,0.0
 29055,Missouri,Crawford,2020-04-12,0.0
 29055,Missouri,Crawford,2020-04-13,0.0
-29055,Missouri,Crawford,2020-04-14,10.75
+29055,Missouri,Crawford,2020-04-14,0.0
 29059,Missouri,Dallas,2020-04-07,2.0
 29059,Missouri,Dallas,2020-04-08,2.0
 29059,Missouri,Dallas,2020-04-09,2.0
@@ -30419,13 +30419,13 @@ fips,state,county,date,ML
 29121,Missouri,Macon,2020-04-05,1.52
 29121,Missouri,Macon,2020-04-06,0.0
 29121,Missouri,Macon,2020-04-07,0.0
-29121,Missouri,Macon,2020-04-08,10.09
-29121,Missouri,Macon,2020-04-09,10.09
-29121,Missouri,Macon,2020-04-10,10.09
-29121,Missouri,Macon,2020-04-11,10.09
-29121,Missouri,Macon,2020-04-12,10.09
-29121,Missouri,Macon,2020-04-13,10.09
-29121,Missouri,Macon,2020-04-14,10.09
+29121,Missouri,Macon,2020-04-08,0.0
+29121,Missouri,Macon,2020-04-09,0.0
+29121,Missouri,Macon,2020-04-10,0.0
+29121,Missouri,Macon,2020-04-11,0.0
+29121,Missouri,Macon,2020-04-12,0.0
+29121,Missouri,Macon,2020-04-13,0.0
+29121,Missouri,Macon,2020-04-14,0.0
 29123,Missouri,Madison,2020-04-06,2.0
 29123,Missouri,Madison,2020-04-07,2.0
 29123,Missouri,Madison,2020-04-08,2.0
@@ -30485,8 +30485,8 @@ fips,state,county,date,ML
 29139,Missouri,Montgomery,2020-03-31,1.52
 29139,Missouri,Montgomery,2020-04-01,0.0
 29139,Missouri,Montgomery,2020-04-02,0.0
-29139,Missouri,Montgomery,2020-04-03,10.09
-29139,Missouri,Montgomery,2020-04-04,10.09
+29139,Missouri,Montgomery,2020-04-03,0.0
+29139,Missouri,Montgomery,2020-04-04,0.0
 29139,Missouri,Montgomery,2020-04-05,1.0
 29139,Missouri,Montgomery,2020-04-06,0.0
 29139,Missouri,Montgomery,2020-04-07,0.0
@@ -30495,8 +30495,8 @@ fips,state,county,date,ML
 29139,Missouri,Montgomery,2020-04-10,0.0
 29139,Missouri,Montgomery,2020-04-11,0.0
 29139,Missouri,Montgomery,2020-04-12,0.0
-29139,Missouri,Montgomery,2020-04-13,10.09
-29139,Missouri,Montgomery,2020-04-14,10.09
+29139,Missouri,Montgomery,2020-04-13,0.0
+29139,Missouri,Montgomery,2020-04-14,0.0
 29141,Missouri,Morgan,2020-03-30,2.0
 29141,Missouri,Morgan,2020-03-31,2.0
 29141,Missouri,Morgan,2020-04-01,2.0
@@ -30537,16 +30537,16 @@ fips,state,county,date,ML
 29145,Missouri,Newton,2020-04-02,0.0
 29145,Missouri,Newton,2020-04-03,0.0
 29145,Missouri,Newton,2020-04-04,0.0
-29145,Missouri,Newton,2020-04-05,11.950000000000001
-29145,Missouri,Newton,2020-04-06,11.950000000000001
-29145,Missouri,Newton,2020-04-07,11.950000000000001
-29145,Missouri,Newton,2020-04-08,11.950000000000001
-29145,Missouri,Newton,2020-04-09,11.950000000000001
-29145,Missouri,Newton,2020-04-10,11.950000000000001
-29145,Missouri,Newton,2020-04-11,11.950000000000001
-29145,Missouri,Newton,2020-04-12,11.950000000000001
-29145,Missouri,Newton,2020-04-13,11.950000000000001
-29145,Missouri,Newton,2020-04-14,11.950000000000001
+29145,Missouri,Newton,2020-04-05,0.0
+29145,Missouri,Newton,2020-04-06,0.0
+29145,Missouri,Newton,2020-04-07,0.0
+29145,Missouri,Newton,2020-04-08,0.0
+29145,Missouri,Newton,2020-04-09,0.0
+29145,Missouri,Newton,2020-04-10,0.0
+29145,Missouri,Newton,2020-04-11,0.0
+29145,Missouri,Newton,2020-04-12,0.0
+29145,Missouri,Newton,2020-04-13,0.0
+29145,Missouri,Newton,2020-04-14,0.0
 29147,Missouri,Nodaway,2020-04-04,2.0
 29147,Missouri,Nodaway,2020-04-05,2.0
 29147,Missouri,Nodaway,2020-04-06,2.0
@@ -30724,8 +30724,8 @@ fips,state,county,date,ML
 29169,Missouri,Pulaski,2020-04-10,0.0
 29169,Missouri,Pulaski,2020-04-11,0.0
 29169,Missouri,Pulaski,2020-04-12,0.0
-29169,Missouri,Pulaski,2020-04-13,11.41
-29169,Missouri,Pulaski,2020-04-14,11.41
+29169,Missouri,Pulaski,2020-04-13,0.0
+29169,Missouri,Pulaski,2020-04-14,0.0
 29173,Missouri,Ralls,2020-03-25,2.0
 29173,Missouri,Ralls,2020-03-26,2.0
 29173,Missouri,Ralls,2020-03-27,2.0
@@ -30767,7 +30767,7 @@ fips,state,county,date,ML
 29175,Missouri,Randolph,2020-04-11,0.0
 29175,Missouri,Randolph,2020-04-12,0.0
 29175,Missouri,Randolph,2020-04-13,0.0
-29175,Missouri,Randolph,2020-04-14,11.41
+29175,Missouri,Randolph,2020-04-14,0.0
 29177,Missouri,Ray,2020-03-27,2.0
 29177,Missouri,Ray,2020-03-28,2.0
 29177,Missouri,Ray,2020-03-29,2.0
@@ -30867,9 +30867,9 @@ fips,state,county,date,ML
 29186,Missouri,Ste. Genevieve,2020-04-09,0.0
 29186,Missouri,Ste. Genevieve,2020-04-10,0.0
 29186,Missouri,Ste. Genevieve,2020-04-11,0.0
-29186,Missouri,Ste. Genevieve,2020-04-12,11.17
-29186,Missouri,Ste. Genevieve,2020-04-13,11.17
-29186,Missouri,Ste. Genevieve,2020-04-14,11.17
+29186,Missouri,Ste. Genevieve,2020-04-12,0.0
+29186,Missouri,Ste. Genevieve,2020-04-13,0.0
+29186,Missouri,Ste. Genevieve,2020-04-14,0.0
 29187,Missouri,St. Francois,2020-03-23,2.0
 29187,Missouri,St. Francois,2020-03-24,2.0
 29187,Missouri,St. Francois,2020-03-25,1.8800000000000001
@@ -31016,7 +31016,7 @@ fips,state,county,date,ML
 29207,Missouri,Stoddard,2020-04-09,0.0
 29207,Missouri,Stoddard,2020-04-10,0.0
 29207,Missouri,Stoddard,2020-04-11,0.0
-29207,Missouri,Stoddard,2020-04-12,11.41
+29207,Missouri,Stoddard,2020-04-12,0.0
 29207,Missouri,Stoddard,2020-04-13,1.0
 29207,Missouri,Stoddard,2020-04-14,1.0
 29209,Missouri,Stone,2020-03-30,2.0
@@ -31057,7 +31057,7 @@ fips,state,county,date,ML
 29213,Missouri,Taney,2020-04-11,0.0
 29213,Missouri,Taney,2020-04-12,0.0
 29213,Missouri,Taney,2020-04-13,0.0
-29213,Missouri,Taney,2020-04-14,11.85
+29213,Missouri,Taney,2020-04-14,0.0
 29215,Missouri,Texas,2020-03-27,2.0
 29215,Missouri,Texas,2020-03-28,2.0
 29215,Missouri,Texas,2020-03-29,2.0
@@ -31133,9 +31133,9 @@ fips,state,county,date,ML
 29229,Missouri,Wright,2020-04-08,0.0
 29229,Missouri,Wright,2020-04-09,0.0
 29229,Missouri,Wright,2020-04-10,0.0
-29229,Missouri,Wright,2020-04-11,11.02
-29229,Missouri,Wright,2020-04-12,11.02
-29229,Missouri,Wright,2020-04-13,11.02
+29229,Missouri,Wright,2020-04-11,0.0
+29229,Missouri,Wright,2020-04-12,0.0
+29229,Missouri,Wright,2020-04-13,0.0
 29229,Missouri,Wright,2020-04-14,1.0
 29510,Missouri,St. Louis city,2020-03-18,2.0
 29510,Missouri,St. Louis city,2020-03-19,1.74
@@ -31243,10 +31243,10 @@ fips,state,county,date,ML
 30013,Montana,Cascade,2020-04-08,0.0
 30013,Montana,Cascade,2020-04-09,0.0
 30013,Montana,Cascade,2020-04-10,0.0
-30013,Montana,Cascade,2020-04-11,11.870000000000001
-30013,Montana,Cascade,2020-04-12,11.870000000000001
-30013,Montana,Cascade,2020-04-13,11.870000000000001
-30013,Montana,Cascade,2020-04-14,11.870000000000001
+30013,Montana,Cascade,2020-04-11,0.0
+30013,Montana,Cascade,2020-04-12,0.0
+30013,Montana,Cascade,2020-04-13,0.0
+30013,Montana,Cascade,2020-04-14,0.0
 30023,Montana,Deer Lodge,2020-03-29,2.0
 30023,Montana,Deer Lodge,2020-03-30,1.8800000000000001
 30023,Montana,Deer Lodge,2020-03-31,1.52
@@ -31256,14 +31256,14 @@ fips,state,county,date,ML
 30023,Montana,Deer Lodge,2020-04-04,1.52
 30023,Montana,Deer Lodge,2020-04-05,0.0
 30023,Montana,Deer Lodge,2020-04-06,0.0
-30023,Montana,Deer Lodge,2020-04-07,10.09
-30023,Montana,Deer Lodge,2020-04-08,10.09
-30023,Montana,Deer Lodge,2020-04-09,10.09
-30023,Montana,Deer Lodge,2020-04-10,10.09
-30023,Montana,Deer Lodge,2020-04-11,10.09
-30023,Montana,Deer Lodge,2020-04-12,10.09
-30023,Montana,Deer Lodge,2020-04-13,10.09
-30023,Montana,Deer Lodge,2020-04-14,10.09
+30023,Montana,Deer Lodge,2020-04-07,0.0
+30023,Montana,Deer Lodge,2020-04-08,0.0
+30023,Montana,Deer Lodge,2020-04-09,0.0
+30023,Montana,Deer Lodge,2020-04-10,0.0
+30023,Montana,Deer Lodge,2020-04-11,0.0
+30023,Montana,Deer Lodge,2020-04-12,0.0
+30023,Montana,Deer Lodge,2020-04-13,0.0
+30023,Montana,Deer Lodge,2020-04-14,0.0
 30029,Montana,Flathead,2020-03-19,2.0
 30029,Montana,Flathead,2020-03-20,2.0
 30029,Montana,Flathead,2020-03-21,1.8800000000000001
@@ -31393,15 +31393,15 @@ fips,state,county,date,ML
 30047,Montana,Lake,2020-04-03,0.0
 30047,Montana,Lake,2020-04-04,0.0
 30047,Montana,Lake,2020-04-05,0.0
-30047,Montana,Lake,2020-04-06,11.94
-30047,Montana,Lake,2020-04-07,11.94
-30047,Montana,Lake,2020-04-08,11.94
-30047,Montana,Lake,2020-04-09,11.94
-30047,Montana,Lake,2020-04-10,11.94
-30047,Montana,Lake,2020-04-11,11.94
-30047,Montana,Lake,2020-04-12,11.94
-30047,Montana,Lake,2020-04-13,11.94
-30047,Montana,Lake,2020-04-14,11.94
+30047,Montana,Lake,2020-04-06,0.0
+30047,Montana,Lake,2020-04-07,0.0
+30047,Montana,Lake,2020-04-08,0.0
+30047,Montana,Lake,2020-04-09,0.0
+30047,Montana,Lake,2020-04-10,0.0
+30047,Montana,Lake,2020-04-11,0.0
+30047,Montana,Lake,2020-04-12,0.0
+30047,Montana,Lake,2020-04-13,0.0
+30047,Montana,Lake,2020-04-14,0.0
 30049,Montana,Lewis and Clark,2020-03-13,2.0
 30049,Montana,Lewis and Clark,2020-03-14,2.0
 30049,Montana,Lewis and Clark,2020-03-15,2.0
@@ -31429,12 +31429,12 @@ fips,state,county,date,ML
 30049,Montana,Lewis and Clark,2020-04-06,0.0
 30049,Montana,Lewis and Clark,2020-04-07,0.0
 30049,Montana,Lewis and Clark,2020-04-08,0.0
-30049,Montana,Lewis and Clark,2020-04-09,11.870000000000001
-30049,Montana,Lewis and Clark,2020-04-10,11.870000000000001
-30049,Montana,Lewis and Clark,2020-04-11,11.870000000000001
-30049,Montana,Lewis and Clark,2020-04-12,11.870000000000001
-30049,Montana,Lewis and Clark,2020-04-13,11.870000000000001
-30049,Montana,Lewis and Clark,2020-04-14,11.870000000000001
+30049,Montana,Lewis and Clark,2020-04-09,0.0
+30049,Montana,Lewis and Clark,2020-04-10,0.0
+30049,Montana,Lewis and Clark,2020-04-11,0.0
+30049,Montana,Lewis and Clark,2020-04-12,0.0
+30049,Montana,Lewis and Clark,2020-04-13,0.0
+30049,Montana,Lewis and Clark,2020-04-14,0.0
 30051,Montana,Liberty,2020-03-31,2.0
 30051,Montana,Liberty,2020-04-01,2.0
 30051,Montana,Liberty,2020-04-02,2.0
@@ -31463,13 +31463,13 @@ fips,state,county,date,ML
 30053,Montana,Lincoln,2020-04-05,0.0
 30053,Montana,Lincoln,2020-04-06,0.0
 30053,Montana,Lincoln,2020-04-07,0.0
-30053,Montana,Lincoln,2020-04-08,11.99
-30053,Montana,Lincoln,2020-04-09,11.99
-30053,Montana,Lincoln,2020-04-10,11.99
-30053,Montana,Lincoln,2020-04-11,11.99
-30053,Montana,Lincoln,2020-04-12,11.99
-30053,Montana,Lincoln,2020-04-13,11.99
-30053,Montana,Lincoln,2020-04-14,11.99
+30053,Montana,Lincoln,2020-04-08,0.0
+30053,Montana,Lincoln,2020-04-09,0.0
+30053,Montana,Lincoln,2020-04-10,0.0
+30053,Montana,Lincoln,2020-04-11,0.0
+30053,Montana,Lincoln,2020-04-12,0.0
+30053,Montana,Lincoln,2020-04-13,0.0
+30053,Montana,Lincoln,2020-04-14,0.0
 30057,Montana,Madison,2020-03-19,2.0
 30057,Montana,Madison,2020-03-20,2.0
 30057,Montana,Madison,2020-03-21,2.0
@@ -31496,7 +31496,7 @@ fips,state,county,date,ML
 30057,Montana,Madison,2020-04-11,0.0
 30057,Montana,Madison,2020-04-12,0.0
 30057,Montana,Madison,2020-04-13,0.0
-30057,Montana,Madison,2020-04-14,11.200000000000001
+30057,Montana,Madison,2020-04-14,0.0
 30059,Montana,Meagher,2020-03-26,2.0
 30059,Montana,Meagher,2020-03-27,2.0
 30059,Montana,Meagher,2020-03-28,2.0
@@ -31578,11 +31578,11 @@ fips,state,county,date,ML
 30067,Montana,Park,2020-04-07,0.0
 30067,Montana,Park,2020-04-08,0.0
 30067,Montana,Park,2020-04-09,0.0
-30067,Montana,Park,2020-04-10,11.99
-30067,Montana,Park,2020-04-11,11.99
-30067,Montana,Park,2020-04-12,11.99
-30067,Montana,Park,2020-04-13,11.99
-30067,Montana,Park,2020-04-14,11.99
+30067,Montana,Park,2020-04-10,0.0
+30067,Montana,Park,2020-04-11,0.0
+30067,Montana,Park,2020-04-12,0.0
+30067,Montana,Park,2020-04-13,0.0
+30067,Montana,Park,2020-04-14,0.0
 30081,Montana,Ravalli,2020-03-21,2.0
 30081,Montana,Ravalli,2020-03-22,2.0
 30081,Montana,Ravalli,2020-03-23,2.0
@@ -31668,13 +31668,13 @@ fips,state,county,date,ML
 30093,Montana,Silver Bow,2020-04-05,0.0
 30093,Montana,Silver Bow,2020-04-06,0.0
 30093,Montana,Silver Bow,2020-04-07,0.0
-30093,Montana,Silver Bow,2020-04-08,11.870000000000001
-30093,Montana,Silver Bow,2020-04-09,11.870000000000001
-30093,Montana,Silver Bow,2020-04-10,11.870000000000001
-30093,Montana,Silver Bow,2020-04-11,11.870000000000001
-30093,Montana,Silver Bow,2020-04-12,11.870000000000001
-30093,Montana,Silver Bow,2020-04-13,11.870000000000001
-30093,Montana,Silver Bow,2020-04-14,11.870000000000001
+30093,Montana,Silver Bow,2020-04-08,0.0
+30093,Montana,Silver Bow,2020-04-09,0.0
+30093,Montana,Silver Bow,2020-04-10,0.0
+30093,Montana,Silver Bow,2020-04-11,0.0
+30093,Montana,Silver Bow,2020-04-12,0.0
+30093,Montana,Silver Bow,2020-04-13,0.0
+30093,Montana,Silver Bow,2020-04-14,0.0
 30095,Montana,Stillwater,2020-04-09,2.0
 30095,Montana,Stillwater,2020-04-10,2.0
 30095,Montana,Stillwater,2020-04-11,2.0
@@ -32202,9 +32202,9 @@ fips,state,county,date,ML
 31111,Nebraska,Lincoln,2020-03-24,1.52
 31111,Nebraska,Lincoln,2020-03-25,0.0
 31111,Nebraska,Lincoln,2020-03-26,0.0
-31111,Nebraska,Lincoln,2020-03-27,10.09
-31111,Nebraska,Lincoln,2020-03-28,10.09
-31111,Nebraska,Lincoln,2020-03-29,10.09
+31111,Nebraska,Lincoln,2020-03-27,0.0
+31111,Nebraska,Lincoln,2020-03-28,0.0
+31111,Nebraska,Lincoln,2020-03-29,0.0
 31111,Nebraska,Lincoln,2020-03-30,1.0
 31111,Nebraska,Lincoln,2020-03-31,2.62
 31111,Nebraska,Lincoln,2020-04-01,1.8900000000000001
@@ -32220,7 +32220,7 @@ fips,state,county,date,ML
 31111,Nebraska,Lincoln,2020-04-11,0.0
 31111,Nebraska,Lincoln,2020-04-12,0.0
 31111,Nebraska,Lincoln,2020-04-13,0.0
-31111,Nebraska,Lincoln,2020-04-14,11.96
+31111,Nebraska,Lincoln,2020-04-14,0.0
 31113,Nebraska,Logan,2020-04-05,2.0
 31113,Nebraska,Logan,2020-04-06,2.0
 31119,Nebraska,Madison,2020-03-23,2.0
@@ -32241,11 +32241,11 @@ fips,state,county,date,ML
 31119,Nebraska,Madison,2020-04-07,0.0
 31119,Nebraska,Madison,2020-04-08,0.0
 31119,Nebraska,Madison,2020-04-09,0.0
-31119,Nebraska,Madison,2020-04-10,11.32
-31119,Nebraska,Madison,2020-04-11,11.32
-31119,Nebraska,Madison,2020-04-12,11.32
-31119,Nebraska,Madison,2020-04-13,11.32
-31119,Nebraska,Madison,2020-04-14,11.32
+31119,Nebraska,Madison,2020-04-10,0.0
+31119,Nebraska,Madison,2020-04-11,0.0
+31119,Nebraska,Madison,2020-04-12,0.0
+31119,Nebraska,Madison,2020-04-13,0.0
+31119,Nebraska,Madison,2020-04-14,0.0
 31121,Nebraska,Merrick,2020-04-03,2.0
 31121,Nebraska,Merrick,2020-04-04,2.0
 31121,Nebraska,Merrick,2020-04-05,2.0
@@ -32327,9 +32327,9 @@ fips,state,county,date,ML
 31141,Nebraska,Platte,2020-04-09,0.0
 31141,Nebraska,Platte,2020-04-10,0.0
 31141,Nebraska,Platte,2020-04-11,0.0
-31141,Nebraska,Platte,2020-04-12,11.200000000000001
-31141,Nebraska,Platte,2020-04-13,11.200000000000001
-31141,Nebraska,Platte,2020-04-14,11.200000000000001
+31141,Nebraska,Platte,2020-04-12,0.0
+31141,Nebraska,Platte,2020-04-13,0.0
+31141,Nebraska,Platte,2020-04-14,0.0
 31143,Nebraska,Polk,2020-04-09,2.0
 31143,Nebraska,Polk,2020-04-10,2.0
 31143,Nebraska,Polk,2020-04-11,2.0
@@ -32442,10 +32442,10 @@ fips,state,county,date,ML
 31177,Nebraska,Washington,2020-04-07,0.0
 31177,Nebraska,Washington,2020-04-08,0.0
 31177,Nebraska,Washington,2020-04-09,0.0
-31177,Nebraska,Washington,2020-04-10,11.23
-31177,Nebraska,Washington,2020-04-11,11.23
-31177,Nebraska,Washington,2020-04-12,11.23
-31177,Nebraska,Washington,2020-04-13,11.23
+31177,Nebraska,Washington,2020-04-10,0.0
+31177,Nebraska,Washington,2020-04-11,0.0
+31177,Nebraska,Washington,2020-04-12,0.0
+31177,Nebraska,Washington,2020-04-13,0.0
 31177,Nebraska,Washington,2020-04-14,1.0
 31179,Nebraska,Wayne,2020-04-11,2.0
 31179,Nebraska,Wayne,2020-04-12,2.0
@@ -32527,11 +32527,11 @@ fips,state,county,date,ML
 32005,Nevada,Douglas,2020-04-01,0.0
 32005,Nevada,Douglas,2020-04-02,0.0
 32005,Nevada,Douglas,2020-04-03,0.0
-32005,Nevada,Douglas,2020-04-04,11.17
-32005,Nevada,Douglas,2020-04-05,11.17
-32005,Nevada,Douglas,2020-04-06,11.17
-32005,Nevada,Douglas,2020-04-07,11.17
-32005,Nevada,Douglas,2020-04-08,11.17
+32005,Nevada,Douglas,2020-04-04,0.0
+32005,Nevada,Douglas,2020-04-05,0.0
+32005,Nevada,Douglas,2020-04-06,0.0
+32005,Nevada,Douglas,2020-04-07,0.0
+32005,Nevada,Douglas,2020-04-08,0.0
 32005,Nevada,Douglas,2020-04-09,1.0
 32005,Nevada,Douglas,2020-04-10,0.0
 32005,Nevada,Douglas,2020-04-11,0.0
@@ -33843,15 +33843,15 @@ fips,state,county,date,ML
 35015,New Mexico,Eddy,2020-04-03,0.0
 35015,New Mexico,Eddy,2020-04-04,0.0
 35015,New Mexico,Eddy,2020-04-05,0.0
-35015,New Mexico,Eddy,2020-04-06,11.17
-35015,New Mexico,Eddy,2020-04-07,11.17
-35015,New Mexico,Eddy,2020-04-08,11.17
-35015,New Mexico,Eddy,2020-04-09,11.17
-35015,New Mexico,Eddy,2020-04-10,11.17
-35015,New Mexico,Eddy,2020-04-11,11.17
-35015,New Mexico,Eddy,2020-04-12,11.17
-35015,New Mexico,Eddy,2020-04-13,11.17
-35015,New Mexico,Eddy,2020-04-14,11.17
+35015,New Mexico,Eddy,2020-04-06,0.0
+35015,New Mexico,Eddy,2020-04-07,0.0
+35015,New Mexico,Eddy,2020-04-08,0.0
+35015,New Mexico,Eddy,2020-04-09,0.0
+35015,New Mexico,Eddy,2020-04-10,0.0
+35015,New Mexico,Eddy,2020-04-11,0.0
+35015,New Mexico,Eddy,2020-04-12,0.0
+35015,New Mexico,Eddy,2020-04-13,0.0
+35015,New Mexico,Eddy,2020-04-14,0.0
 35017,New Mexico,Grant,2020-04-01,2.0
 35017,New Mexico,Grant,2020-04-02,2.0
 35017,New Mexico,Grant,2020-04-03,2.0
@@ -33979,10 +33979,10 @@ fips,state,county,date,ML
 35039,New Mexico,Rio Arriba,2020-04-07,0.0
 35039,New Mexico,Rio Arriba,2020-04-08,0.0
 35039,New Mexico,Rio Arriba,2020-04-09,0.0
-35039,New Mexico,Rio Arriba,2020-04-10,9.370000000000001
-35039,New Mexico,Rio Arriba,2020-04-11,9.370000000000001
-35039,New Mexico,Rio Arriba,2020-04-12,9.370000000000001
-35039,New Mexico,Rio Arriba,2020-04-13,9.370000000000001
+35039,New Mexico,Rio Arriba,2020-04-10,0.0
+35039,New Mexico,Rio Arriba,2020-04-11,0.0
+35039,New Mexico,Rio Arriba,2020-04-12,0.0
+35039,New Mexico,Rio Arriba,2020-04-13,0.0
 35039,New Mexico,Rio Arriba,2020-04-14,1.0
 35041,New Mexico,Roosevelt,2020-03-27,2.0
 35041,New Mexico,Roosevelt,2020-03-28,2.0
@@ -34180,11 +34180,11 @@ fips,state,county,date,ML
 35055,New Mexico,Taos,2020-04-07,0.0
 35055,New Mexico,Taos,2020-04-08,0.0
 35055,New Mexico,Taos,2020-04-09,0.0
-35055,New Mexico,Taos,2020-04-10,11.870000000000001
-35055,New Mexico,Taos,2020-04-11,11.870000000000001
-35055,New Mexico,Taos,2020-04-12,11.870000000000001
-35055,New Mexico,Taos,2020-04-13,11.870000000000001
-35055,New Mexico,Taos,2020-04-14,11.870000000000001
+35055,New Mexico,Taos,2020-04-10,0.0
+35055,New Mexico,Taos,2020-04-11,0.0
+35055,New Mexico,Taos,2020-04-12,0.0
+35055,New Mexico,Taos,2020-04-13,0.0
+35055,New Mexico,Taos,2020-04-14,0.0
 35057,New Mexico,Torrance,2020-03-30,2.0
 35057,New Mexico,Torrance,2020-03-31,2.0
 35057,New Mexico,Torrance,2020-04-01,2.0
@@ -34650,11 +34650,11 @@ fips,state,county,date,ML
 36033,New York,Franklin,2020-04-07,0.0
 36033,New York,Franklin,2020-04-08,0.0
 36033,New York,Franklin,2020-04-09,0.0
-36033,New York,Franklin,2020-04-10,11.02
-36033,New York,Franklin,2020-04-11,11.02
-36033,New York,Franklin,2020-04-12,11.02
-36033,New York,Franklin,2020-04-13,11.02
-36033,New York,Franklin,2020-04-14,11.02
+36033,New York,Franklin,2020-04-10,0.0
+36033,New York,Franklin,2020-04-11,0.0
+36033,New York,Franklin,2020-04-12,0.0
+36033,New York,Franklin,2020-04-13,0.0
+36033,New York,Franklin,2020-04-14,0.0
 36035,New York,Fulton,2020-03-20,2.0
 36035,New York,Fulton,2020-03-21,2.0
 36035,New York,Fulton,2020-03-22,2.0
@@ -34844,7 +34844,7 @@ fips,state,county,date,ML
 36049,New York,Lewis,2020-04-11,0.0
 36049,New York,Lewis,2020-04-12,0.0
 36049,New York,Lewis,2020-04-13,0.0
-36049,New York,Lewis,2020-04-14,11.950000000000001
+36049,New York,Lewis,2020-04-14,0.0
 36051,New York,Livingston,2020-03-18,2.0
 36051,New York,Livingston,2020-03-19,2.0
 36051,New York,Livingston,2020-03-20,2.0
@@ -36137,7 +36137,7 @@ fips,state,county,date,ML
 37027,North Carolina,Caldwell,2020-03-31,1.52
 37027,North Carolina,Caldwell,2020-04-01,0.0
 37027,North Carolina,Caldwell,2020-04-02,0.0
-37027,North Carolina,Caldwell,2020-04-03,10.09
+37027,North Carolina,Caldwell,2020-04-03,0.0
 37027,North Carolina,Caldwell,2020-04-04,1.0
 37027,North Carolina,Caldwell,2020-04-05,1.0
 37027,North Carolina,Caldwell,2020-04-06,1.0
@@ -36274,12 +36274,12 @@ fips,state,county,date,ML
 37039,North Carolina,Cherokee,2020-04-05,0.0
 37039,North Carolina,Cherokee,2020-04-06,0.0
 37039,North Carolina,Cherokee,2020-04-07,0.0
-37039,North Carolina,Cherokee,2020-04-08,11.53
-37039,North Carolina,Cherokee,2020-04-09,11.53
-37039,North Carolina,Cherokee,2020-04-10,11.53
-37039,North Carolina,Cherokee,2020-04-11,11.53
-37039,North Carolina,Cherokee,2020-04-12,11.53
-37039,North Carolina,Cherokee,2020-04-13,11.53
+37039,North Carolina,Cherokee,2020-04-08,0.0
+37039,North Carolina,Cherokee,2020-04-09,0.0
+37039,North Carolina,Cherokee,2020-04-10,0.0
+37039,North Carolina,Cherokee,2020-04-11,0.0
+37039,North Carolina,Cherokee,2020-04-12,0.0
+37039,North Carolina,Cherokee,2020-04-13,0.0
 37039,North Carolina,Cherokee,2020-04-14,1.0
 37041,North Carolina,Chowan,2020-04-03,2.0
 37041,North Carolina,Chowan,2020-04-04,2.0
@@ -36303,11 +36303,11 @@ fips,state,county,date,ML
 37043,North Carolina,Clay,2020-04-07,0.0
 37043,North Carolina,Clay,2020-04-08,0.0
 37043,North Carolina,Clay,2020-04-09,0.0
-37043,North Carolina,Clay,2020-04-10,11.94
-37043,North Carolina,Clay,2020-04-11,11.94
-37043,North Carolina,Clay,2020-04-12,11.94
-37043,North Carolina,Clay,2020-04-13,11.94
-37043,North Carolina,Clay,2020-04-14,11.94
+37043,North Carolina,Clay,2020-04-10,0.0
+37043,North Carolina,Clay,2020-04-11,0.0
+37043,North Carolina,Clay,2020-04-12,0.0
+37043,North Carolina,Clay,2020-04-13,0.0
+37043,North Carolina,Clay,2020-04-14,0.0
 37045,North Carolina,Cleveland,2020-03-25,2.0
 37045,North Carolina,Cleveland,2020-03-26,1.8800000000000001
 37045,North Carolina,Cleveland,2020-03-27,1.8
@@ -36781,9 +36781,9 @@ fips,state,county,date,ML
 37087,North Carolina,Haywood,2020-04-09,1.52
 37087,North Carolina,Haywood,2020-04-10,0.0
 37087,North Carolina,Haywood,2020-04-11,0.0
-37087,North Carolina,Haywood,2020-04-12,10.09
-37087,North Carolina,Haywood,2020-04-13,10.09
-37087,North Carolina,Haywood,2020-04-14,10.09
+37087,North Carolina,Haywood,2020-04-12,0.0
+37087,North Carolina,Haywood,2020-04-13,0.0
+37087,North Carolina,Haywood,2020-04-14,0.0
 37089,North Carolina,Henderson,2020-03-22,2.0
 37089,North Carolina,Henderson,2020-03-23,2.0
 37089,North Carolina,Henderson,2020-03-24,1.8800000000000001
@@ -37419,7 +37419,7 @@ fips,state,county,date,ML
 37149,North Carolina,Polk,2020-04-11,0.0
 37149,North Carolina,Polk,2020-04-12,0.0
 37149,North Carolina,Polk,2020-04-13,0.0
-37149,North Carolina,Polk,2020-04-14,11.41
+37149,North Carolina,Polk,2020-04-14,0.0
 37151,North Carolina,Randolph,2020-03-24,2.0
 37151,North Carolina,Randolph,2020-03-25,1.8800000000000001
 37151,North Carolina,Randolph,2020-03-26,2.17
@@ -37667,13 +37667,13 @@ fips,state,county,date,ML
 37175,North Carolina,Transylvania,2020-04-05,0.0
 37175,North Carolina,Transylvania,2020-04-06,0.0
 37175,North Carolina,Transylvania,2020-04-07,0.0
-37175,North Carolina,Transylvania,2020-04-08,10.75
-37175,North Carolina,Transylvania,2020-04-09,10.75
-37175,North Carolina,Transylvania,2020-04-10,10.75
-37175,North Carolina,Transylvania,2020-04-11,10.75
-37175,North Carolina,Transylvania,2020-04-12,10.75
-37175,North Carolina,Transylvania,2020-04-13,10.75
-37175,North Carolina,Transylvania,2020-04-14,10.75
+37175,North Carolina,Transylvania,2020-04-08,0.0
+37175,North Carolina,Transylvania,2020-04-09,0.0
+37175,North Carolina,Transylvania,2020-04-10,0.0
+37175,North Carolina,Transylvania,2020-04-11,0.0
+37175,North Carolina,Transylvania,2020-04-12,0.0
+37175,North Carolina,Transylvania,2020-04-13,0.0
+37175,North Carolina,Transylvania,2020-04-14,0.0
 37177,North Carolina,Tyrrell,2020-04-14,2.0
 37179,North Carolina,Union,2020-03-22,2.0
 37179,North Carolina,Union,2020-03-23,2.17
@@ -37774,8 +37774,8 @@ fips,state,county,date,ML
 37185,North Carolina,Warren,2020-04-10,1.52
 37185,North Carolina,Warren,2020-04-11,0.0
 37185,North Carolina,Warren,2020-04-12,0.0
-37185,North Carolina,Warren,2020-04-13,10.09
-37185,North Carolina,Warren,2020-04-14,10.09
+37185,North Carolina,Warren,2020-04-13,0.0
+37185,North Carolina,Warren,2020-04-14,0.0
 37187,North Carolina,Washington,2020-03-29,2.0
 37187,North Carolina,Washington,2020-03-30,2.0
 37187,North Carolina,Washington,2020-03-31,2.0
@@ -37813,17 +37813,17 @@ fips,state,county,date,ML
 37189,North Carolina,Watauga,2020-04-01,0.0
 37189,North Carolina,Watauga,2020-04-02,0.0
 37189,North Carolina,Watauga,2020-04-03,0.0
-37189,North Carolina,Watauga,2020-04-04,9.370000000000001
-37189,North Carolina,Watauga,2020-04-05,9.370000000000001
-37189,North Carolina,Watauga,2020-04-06,9.370000000000001
-37189,North Carolina,Watauga,2020-04-07,9.370000000000001
-37189,North Carolina,Watauga,2020-04-08,9.370000000000001
-37189,North Carolina,Watauga,2020-04-09,9.370000000000001
-37189,North Carolina,Watauga,2020-04-10,9.370000000000001
-37189,North Carolina,Watauga,2020-04-11,9.370000000000001
-37189,North Carolina,Watauga,2020-04-12,9.370000000000001
-37189,North Carolina,Watauga,2020-04-13,9.370000000000001
-37189,North Carolina,Watauga,2020-04-14,9.370000000000001
+37189,North Carolina,Watauga,2020-04-04,0.0
+37189,North Carolina,Watauga,2020-04-05,0.0
+37189,North Carolina,Watauga,2020-04-06,0.0
+37189,North Carolina,Watauga,2020-04-07,0.0
+37189,North Carolina,Watauga,2020-04-08,0.0
+37189,North Carolina,Watauga,2020-04-09,0.0
+37189,North Carolina,Watauga,2020-04-10,0.0
+37189,North Carolina,Watauga,2020-04-11,0.0
+37189,North Carolina,Watauga,2020-04-12,0.0
+37189,North Carolina,Watauga,2020-04-13,0.0
+37189,North Carolina,Watauga,2020-04-14,0.0
 37191,North Carolina,Wayne,2020-03-13,2.0
 37191,North Carolina,Wayne,2020-03-14,2.0
 37191,North Carolina,Wayne,2020-03-15,2.0
@@ -37867,11 +37867,11 @@ fips,state,county,date,ML
 37193,North Carolina,Wilkes,2020-04-07,0.0
 37193,North Carolina,Wilkes,2020-04-08,0.0
 37193,North Carolina,Wilkes,2020-04-09,0.0
-37193,North Carolina,Wilkes,2020-04-10,11.94
-37193,North Carolina,Wilkes,2020-04-11,11.94
-37193,North Carolina,Wilkes,2020-04-12,11.94
-37193,North Carolina,Wilkes,2020-04-13,11.94
-37193,North Carolina,Wilkes,2020-04-14,11.94
+37193,North Carolina,Wilkes,2020-04-10,0.0
+37193,North Carolina,Wilkes,2020-04-11,0.0
+37193,North Carolina,Wilkes,2020-04-12,0.0
+37193,North Carolina,Wilkes,2020-04-13,0.0
+37193,North Carolina,Wilkes,2020-04-14,0.0
 37195,North Carolina,Wilson,2020-03-15,2.0
 37195,North Carolina,Wilson,2020-03-16,2.0
 37195,North Carolina,Wilson,2020-03-17,2.0
@@ -38116,7 +38116,7 @@ fips,state,county,date,ML
 38035,North Dakota,Grand Forks,2020-04-11,0.0
 38035,North Dakota,Grand Forks,2020-04-12,0.0
 38035,North Dakota,Grand Forks,2020-04-13,0.0
-38035,North Dakota,Grand Forks,2020-04-14,11.02
+38035,North Dakota,Grand Forks,2020-04-14,0.0
 38037,North Dakota,Grant,2020-03-31,2.0
 38037,North Dakota,Grant,2020-04-01,2.0
 38037,North Dakota,Grant,2020-04-02,2.0
@@ -38463,7 +38463,7 @@ fips,state,county,date,ML
 38105,North Dakota,Williams,2020-04-07,0.0
 38105,North Dakota,Williams,2020-04-08,0.0
 38105,North Dakota,Williams,2020-04-09,0.0
-38105,North Dakota,Williams,2020-04-10,11.94
+38105,North Dakota,Williams,2020-04-10,0.0
 38105,North Dakota,Williams,2020-04-11,1.0
 38105,North Dakota,Williams,2020-04-12,0.0
 38105,North Dakota,Williams,2020-04-13,0.0
@@ -38561,16 +38561,16 @@ fips,state,county,date,ML
 39009,Ohio,Athens,2020-04-02,0.0
 39009,Ohio,Athens,2020-04-03,0.0
 39009,Ohio,Athens,2020-04-04,0.0
-39009,Ohio,Athens,2020-04-05,11.94
-39009,Ohio,Athens,2020-04-06,11.94
-39009,Ohio,Athens,2020-04-07,11.94
-39009,Ohio,Athens,2020-04-08,11.94
-39009,Ohio,Athens,2020-04-09,11.94
-39009,Ohio,Athens,2020-04-10,11.94
-39009,Ohio,Athens,2020-04-11,11.94
-39009,Ohio,Athens,2020-04-12,11.94
-39009,Ohio,Athens,2020-04-13,11.94
-39009,Ohio,Athens,2020-04-14,11.94
+39009,Ohio,Athens,2020-04-05,0.0
+39009,Ohio,Athens,2020-04-06,0.0
+39009,Ohio,Athens,2020-04-07,0.0
+39009,Ohio,Athens,2020-04-08,0.0
+39009,Ohio,Athens,2020-04-09,0.0
+39009,Ohio,Athens,2020-04-10,0.0
+39009,Ohio,Athens,2020-04-11,0.0
+39009,Ohio,Athens,2020-04-12,0.0
+39009,Ohio,Athens,2020-04-13,0.0
+39009,Ohio,Athens,2020-04-14,0.0
 39011,Ohio,Auglaize,2020-03-28,2.0
 39011,Ohio,Auglaize,2020-03-29,2.0
 39011,Ohio,Auglaize,2020-03-30,2.0
@@ -38679,9 +38679,9 @@ fips,state,county,date,ML
 39019,Ohio,Carroll,2020-03-29,0.0
 39019,Ohio,Carroll,2020-03-30,0.0
 39019,Ohio,Carroll,2020-03-31,0.0
-39019,Ohio,Carroll,2020-04-01,11.94
-39019,Ohio,Carroll,2020-04-02,11.94
-39019,Ohio,Carroll,2020-04-03,11.94
+39019,Ohio,Carroll,2020-04-01,0.0
+39019,Ohio,Carroll,2020-04-02,0.0
+39019,Ohio,Carroll,2020-04-03,0.0
 39019,Ohio,Carroll,2020-04-04,1.0
 39019,Ohio,Carroll,2020-04-05,1.0
 39019,Ohio,Carroll,2020-04-06,1.0
@@ -38950,7 +38950,7 @@ fips,state,county,date,ML
 39039,Ohio,Defiance,2020-04-02,0.0
 39039,Ohio,Defiance,2020-04-03,0.0
 39039,Ohio,Defiance,2020-04-04,0.0
-39039,Ohio,Defiance,2020-04-05,11.200000000000001
+39039,Ohio,Defiance,2020-04-05,0.0
 39039,Ohio,Defiance,2020-04-06,1.0
 39039,Ohio,Defiance,2020-04-07,1.0
 39039,Ohio,Defiance,2020-04-08,1.0
@@ -39104,9 +39104,9 @@ fips,state,county,date,ML
 39051,Ohio,Fulton,2020-04-09,0.0
 39051,Ohio,Fulton,2020-04-10,0.0
 39051,Ohio,Fulton,2020-04-11,0.0
-39051,Ohio,Fulton,2020-04-12,9.370000000000001
-39051,Ohio,Fulton,2020-04-13,9.370000000000001
-39051,Ohio,Fulton,2020-04-14,9.370000000000001
+39051,Ohio,Fulton,2020-04-12,0.0
+39051,Ohio,Fulton,2020-04-13,0.0
+39051,Ohio,Fulton,2020-04-14,0.0
 39053,Ohio,Gallia,2020-03-22,2.0
 39053,Ohio,Gallia,2020-03-23,2.0
 39053,Ohio,Gallia,2020-03-24,2.0
@@ -39127,8 +39127,8 @@ fips,state,county,date,ML
 39053,Ohio,Gallia,2020-04-08,0.0
 39053,Ohio,Gallia,2020-04-09,0.0
 39053,Ohio,Gallia,2020-04-10,0.0
-39053,Ohio,Gallia,2020-04-11,11.32
-39053,Ohio,Gallia,2020-04-12,11.32
+39053,Ohio,Gallia,2020-04-11,0.0
+39053,Ohio,Gallia,2020-04-12,0.0
 39053,Ohio,Gallia,2020-04-13,1.0
 39053,Ohio,Gallia,2020-04-14,0.0
 39055,Ohio,Geauga,2020-03-16,2.0
@@ -39290,7 +39290,7 @@ fips,state,county,date,ML
 39071,Ohio,Highland,2020-04-11,0.0
 39071,Ohio,Highland,2020-04-12,0.0
 39071,Ohio,Highland,2020-04-13,0.0
-39071,Ohio,Highland,2020-04-14,11.41
+39071,Ohio,Highland,2020-04-14,0.0
 39073,Ohio,Hocking,2020-04-11,2.0
 39073,Ohio,Hocking,2020-04-12,2.0
 39073,Ohio,Hocking,2020-04-13,2.0
@@ -39985,7 +39985,7 @@ fips,state,county,date,ML
 39143,Ohio,Sandusky,2020-04-05,0.0
 39143,Ohio,Sandusky,2020-04-06,0.0
 39143,Ohio,Sandusky,2020-04-07,0.0
-39143,Ohio,Sandusky,2020-04-08,11.67
+39143,Ohio,Sandusky,2020-04-08,0.0
 39143,Ohio,Sandusky,2020-04-09,1.0
 39143,Ohio,Sandusky,2020-04-10,1.0
 39143,Ohio,Sandusky,2020-04-11,1.0
@@ -40199,7 +40199,7 @@ fips,state,county,date,ML
 39159,Ohio,Union,2020-04-11,0.0
 39159,Ohio,Union,2020-04-12,0.0
 39159,Ohio,Union,2020-04-13,0.0
-39159,Ohio,Union,2020-04-14,11.85
+39159,Ohio,Union,2020-04-14,0.0
 39161,Ohio,Van Wert,2020-03-28,2.0
 39161,Ohio,Van Wert,2020-03-29,2.0
 39161,Ohio,Van Wert,2020-03-30,2.0
@@ -40598,9 +40598,9 @@ fips,state,county,date,ML
 40033,Oklahoma,Cotton,2020-04-09,0.0
 40033,Oklahoma,Cotton,2020-04-10,0.0
 40033,Oklahoma,Cotton,2020-04-11,0.0
-40033,Oklahoma,Cotton,2020-04-12,11.94
-40033,Oklahoma,Cotton,2020-04-13,11.94
-40033,Oklahoma,Cotton,2020-04-14,11.94
+40033,Oklahoma,Cotton,2020-04-12,0.0
+40033,Oklahoma,Cotton,2020-04-13,0.0
+40033,Oklahoma,Cotton,2020-04-14,0.0
 40035,Oklahoma,Craig,2020-03-26,2.0
 40035,Oklahoma,Craig,2020-03-27,2.0
 40035,Oklahoma,Craig,2020-03-28,2.0
@@ -40710,11 +40710,11 @@ fips,state,county,date,ML
 40047,Oklahoma,Garfield,2020-04-07,0.0
 40047,Oklahoma,Garfield,2020-04-08,0.0
 40047,Oklahoma,Garfield,2020-04-09,0.0
-40047,Oklahoma,Garfield,2020-04-10,11.94
-40047,Oklahoma,Garfield,2020-04-11,11.94
-40047,Oklahoma,Garfield,2020-04-12,11.94
-40047,Oklahoma,Garfield,2020-04-13,11.94
-40047,Oklahoma,Garfield,2020-04-14,11.94
+40047,Oklahoma,Garfield,2020-04-10,0.0
+40047,Oklahoma,Garfield,2020-04-11,0.0
+40047,Oklahoma,Garfield,2020-04-12,0.0
+40047,Oklahoma,Garfield,2020-04-13,0.0
+40047,Oklahoma,Garfield,2020-04-14,0.0
 40049,Oklahoma,Garvin,2020-03-20,2.0
 40049,Oklahoma,Garvin,2020-03-21,2.0
 40049,Oklahoma,Garvin,2020-03-22,2.0
@@ -40825,7 +40825,7 @@ fips,state,county,date,ML
 40065,Oklahoma,Jackson,2020-04-11,0.0
 40065,Oklahoma,Jackson,2020-04-12,0.0
 40065,Oklahoma,Jackson,2020-04-13,0.0
-40065,Oklahoma,Jackson,2020-04-14,11.85
+40065,Oklahoma,Jackson,2020-04-14,0.0
 40067,Oklahoma,Jefferson,2020-04-06,2.0
 40067,Oklahoma,Jefferson,2020-04-07,2.0
 40067,Oklahoma,Jefferson,2020-04-08,2.0
@@ -40909,9 +40909,9 @@ fips,state,county,date,ML
 40077,Oklahoma,Latimer,2020-04-09,0.0
 40077,Oklahoma,Latimer,2020-04-10,0.0
 40077,Oklahoma,Latimer,2020-04-11,0.0
-40077,Oklahoma,Latimer,2020-04-12,9.370000000000001
-40077,Oklahoma,Latimer,2020-04-13,9.370000000000001
-40077,Oklahoma,Latimer,2020-04-14,9.370000000000001
+40077,Oklahoma,Latimer,2020-04-12,0.0
+40077,Oklahoma,Latimer,2020-04-13,0.0
+40077,Oklahoma,Latimer,2020-04-14,0.0
 40079,Oklahoma,Le Flore,2020-03-28,2.0
 40079,Oklahoma,Le Flore,2020-03-29,2.0
 40079,Oklahoma,Le Flore,2020-03-30,2.0
@@ -41149,7 +41149,7 @@ fips,state,county,date,ML
 40105,Oklahoma,Nowata,2020-04-11,0.0
 40105,Oklahoma,Nowata,2020-04-12,0.0
 40105,Oklahoma,Nowata,2020-04-13,0.0
-40105,Oklahoma,Nowata,2020-04-14,11.02
+40105,Oklahoma,Nowata,2020-04-14,0.0
 40107,Oklahoma,Okfuskee,2020-04-10,2.0
 40107,Oklahoma,Okfuskee,2020-04-11,2.0
 40107,Oklahoma,Okfuskee,2020-04-12,2.0
@@ -41350,7 +41350,7 @@ fips,state,county,date,ML
 40123,Oklahoma,Pontotoc,2020-04-11,0.0
 40123,Oklahoma,Pontotoc,2020-04-12,0.0
 40123,Oklahoma,Pontotoc,2020-04-13,0.0
-40123,Oklahoma,Pontotoc,2020-04-14,11.870000000000001
+40123,Oklahoma,Pontotoc,2020-04-14,0.0
 40125,Oklahoma,Pottawatomie,2020-03-25,2.0
 40125,Oklahoma,Pottawatomie,2020-03-26,2.0
 40125,Oklahoma,Pottawatomie,2020-03-27,2.0
@@ -41776,8 +41776,8 @@ fips,state,county,date,ML
 41019,Oregon,Douglas,2020-04-07,0.0
 41019,Oregon,Douglas,2020-04-08,0.0
 41019,Oregon,Douglas,2020-04-09,0.0
-41019,Oregon,Douglas,2020-04-10,11.870000000000001
-41019,Oregon,Douglas,2020-04-11,11.870000000000001
+41019,Oregon,Douglas,2020-04-10,0.0
+41019,Oregon,Douglas,2020-04-11,0.0
 41019,Oregon,Douglas,2020-04-12,1.0
 41019,Oregon,Douglas,2020-04-13,2.62
 41019,Oregon,Douglas,2020-04-14,1.8900000000000001
@@ -41979,11 +41979,11 @@ fips,state,county,date,ML
 41041,Oregon,Lincoln,2020-04-07,0.0
 41041,Oregon,Lincoln,2020-04-08,0.0
 41041,Oregon,Lincoln,2020-04-09,0.0
-41041,Oregon,Lincoln,2020-04-10,11.67
-41041,Oregon,Lincoln,2020-04-11,11.67
-41041,Oregon,Lincoln,2020-04-12,11.67
-41041,Oregon,Lincoln,2020-04-13,11.67
-41041,Oregon,Lincoln,2020-04-14,11.67
+41041,Oregon,Lincoln,2020-04-10,0.0
+41041,Oregon,Lincoln,2020-04-11,0.0
+41041,Oregon,Lincoln,2020-04-12,0.0
+41041,Oregon,Lincoln,2020-04-13,0.0
+41041,Oregon,Lincoln,2020-04-14,0.0
 41043,Oregon,Linn,2020-03-11,2.0
 41043,Oregon,Linn,2020-03-12,1.49
 41043,Oregon,Linn,2020-03-13,1.44
@@ -42282,8 +42282,8 @@ fips,state,county,date,ML
 41065,Oregon,Wasco,2020-04-06,0.0
 41065,Oregon,Wasco,2020-04-07,0.0
 41065,Oregon,Wasco,2020-04-08,0.0
-41065,Oregon,Wasco,2020-04-09,11.99
-41065,Oregon,Wasco,2020-04-10,11.99
+41065,Oregon,Wasco,2020-04-09,0.0
+41065,Oregon,Wasco,2020-04-10,0.0
 41065,Oregon,Wasco,2020-04-11,1.0
 41065,Oregon,Wasco,2020-04-12,1.0
 41065,Oregon,Wasco,2020-04-13,1.0
@@ -42533,8 +42533,8 @@ fips,state,county,date,ML
 42013,Pennsylvania,Blair,2020-04-05,0.0
 42013,Pennsylvania,Blair,2020-04-06,0.0
 42013,Pennsylvania,Blair,2020-04-07,0.0
-42013,Pennsylvania,Blair,2020-04-08,11.99
-42013,Pennsylvania,Blair,2020-04-09,11.99
+42013,Pennsylvania,Blair,2020-04-08,0.0
+42013,Pennsylvania,Blair,2020-04-09,0.0
 42013,Pennsylvania,Blair,2020-04-10,1.0
 42013,Pennsylvania,Blair,2020-04-11,1.0
 42013,Pennsylvania,Blair,2020-04-12,1.0
@@ -42782,8 +42782,8 @@ fips,state,county,date,ML
 42033,Pennsylvania,Clearfield,2020-04-10,0.0
 42033,Pennsylvania,Clearfield,2020-04-11,0.0
 42033,Pennsylvania,Clearfield,2020-04-12,0.0
-42033,Pennsylvania,Clearfield,2020-04-13,11.85
-42033,Pennsylvania,Clearfield,2020-04-14,11.85
+42033,Pennsylvania,Clearfield,2020-04-13,0.0
+42033,Pennsylvania,Clearfield,2020-04-14,0.0
 42035,Pennsylvania,Clinton,2020-04-03,2.0
 42035,Pennsylvania,Clinton,2020-04-04,2.0
 42035,Pennsylvania,Clinton,2020-04-05,2.0
@@ -43786,13 +43786,13 @@ fips,state,county,date,ML
 42121,Pennsylvania,Venango,2020-04-05,0.0
 42121,Pennsylvania,Venango,2020-04-06,0.0
 42121,Pennsylvania,Venango,2020-04-07,0.0
-42121,Pennsylvania,Venango,2020-04-08,11.94
-42121,Pennsylvania,Venango,2020-04-09,11.94
-42121,Pennsylvania,Venango,2020-04-10,11.94
-42121,Pennsylvania,Venango,2020-04-11,11.94
-42121,Pennsylvania,Venango,2020-04-12,11.94
-42121,Pennsylvania,Venango,2020-04-13,11.94
-42121,Pennsylvania,Venango,2020-04-14,11.94
+42121,Pennsylvania,Venango,2020-04-08,0.0
+42121,Pennsylvania,Venango,2020-04-09,0.0
+42121,Pennsylvania,Venango,2020-04-10,0.0
+42121,Pennsylvania,Venango,2020-04-11,0.0
+42121,Pennsylvania,Venango,2020-04-12,0.0
+42121,Pennsylvania,Venango,2020-04-13,0.0
+42121,Pennsylvania,Venango,2020-04-14,0.0
 42123,Pennsylvania,Warren,2020-03-25,2.0
 42123,Pennsylvania,Warren,2020-03-26,2.0
 42123,Pennsylvania,Warren,2020-03-27,2.0
@@ -44073,13 +44073,13 @@ fips,state,county,date,ML
 45001,South Carolina,Abbeville,2020-03-31,0.0
 45001,South Carolina,Abbeville,2020-04-01,0.0
 45001,South Carolina,Abbeville,2020-04-02,0.0
-45001,South Carolina,Abbeville,2020-04-03,11.200000000000001
-45001,South Carolina,Abbeville,2020-04-04,11.200000000000001
-45001,South Carolina,Abbeville,2020-04-05,11.200000000000001
-45001,South Carolina,Abbeville,2020-04-06,11.200000000000001
-45001,South Carolina,Abbeville,2020-04-07,11.200000000000001
-45001,South Carolina,Abbeville,2020-04-08,11.200000000000001
-45001,South Carolina,Abbeville,2020-04-09,11.200000000000001
+45001,South Carolina,Abbeville,2020-04-03,0.0
+45001,South Carolina,Abbeville,2020-04-04,0.0
+45001,South Carolina,Abbeville,2020-04-05,0.0
+45001,South Carolina,Abbeville,2020-04-06,0.0
+45001,South Carolina,Abbeville,2020-04-07,0.0
+45001,South Carolina,Abbeville,2020-04-08,0.0
+45001,South Carolina,Abbeville,2020-04-09,0.0
 45001,South Carolina,Abbeville,2020-04-10,1.0
 45001,South Carolina,Abbeville,2020-04-11,1.0
 45001,South Carolina,Abbeville,2020-04-12,0.0
@@ -44166,11 +44166,11 @@ fips,state,county,date,ML
 45009,South Carolina,Bamberg,2020-04-07,0.0
 45009,South Carolina,Bamberg,2020-04-08,0.0
 45009,South Carolina,Bamberg,2020-04-09,0.0
-45009,South Carolina,Bamberg,2020-04-10,11.94
-45009,South Carolina,Bamberg,2020-04-11,11.94
-45009,South Carolina,Bamberg,2020-04-12,11.94
-45009,South Carolina,Bamberg,2020-04-13,11.94
-45009,South Carolina,Bamberg,2020-04-14,11.94
+45009,South Carolina,Bamberg,2020-04-10,0.0
+45009,South Carolina,Bamberg,2020-04-11,0.0
+45009,South Carolina,Bamberg,2020-04-12,0.0
+45009,South Carolina,Bamberg,2020-04-13,0.0
+45009,South Carolina,Bamberg,2020-04-14,0.0
 45011,South Carolina,Barnwell,2020-03-30,2.0
 45011,South Carolina,Barnwell,2020-03-31,2.0
 45011,South Carolina,Barnwell,2020-04-01,2.0
@@ -45280,13 +45280,13 @@ fips,state,county,date,ML
 46005,South Dakota,Beadle,2020-04-05,0.0
 46005,South Dakota,Beadle,2020-04-06,0.0
 46005,South Dakota,Beadle,2020-04-07,0.0
-46005,South Dakota,Beadle,2020-04-08,11.96
-46005,South Dakota,Beadle,2020-04-09,11.96
-46005,South Dakota,Beadle,2020-04-10,11.96
-46005,South Dakota,Beadle,2020-04-11,11.96
-46005,South Dakota,Beadle,2020-04-12,11.96
-46005,South Dakota,Beadle,2020-04-13,11.96
-46005,South Dakota,Beadle,2020-04-14,11.96
+46005,South Dakota,Beadle,2020-04-08,0.0
+46005,South Dakota,Beadle,2020-04-09,0.0
+46005,South Dakota,Beadle,2020-04-10,0.0
+46005,South Dakota,Beadle,2020-04-11,0.0
+46005,South Dakota,Beadle,2020-04-12,0.0
+46005,South Dakota,Beadle,2020-04-13,0.0
+46005,South Dakota,Beadle,2020-04-14,0.0
 46009,South Dakota,Bon Homme,2020-03-11,2.0
 46009,South Dakota,Bon Homme,2020-03-12,2.0
 46009,South Dakota,Bon Homme,2020-03-13,2.0
@@ -45658,10 +45658,10 @@ fips,state,county,date,ML
 46081,South Dakota,Lawrence,2020-04-08,0.0
 46081,South Dakota,Lawrence,2020-04-09,0.0
 46081,South Dakota,Lawrence,2020-04-10,0.0
-46081,South Dakota,Lawrence,2020-04-11,11.02
-46081,South Dakota,Lawrence,2020-04-12,11.02
-46081,South Dakota,Lawrence,2020-04-13,11.02
-46081,South Dakota,Lawrence,2020-04-14,11.02
+46081,South Dakota,Lawrence,2020-04-11,0.0
+46081,South Dakota,Lawrence,2020-04-12,0.0
+46081,South Dakota,Lawrence,2020-04-13,0.0
+46081,South Dakota,Lawrence,2020-04-14,0.0
 46083,South Dakota,Lincoln,2020-03-25,2.0
 46083,South Dakota,Lincoln,2020-03-26,1.8800000000000001
 46083,South Dakota,Lincoln,2020-03-27,1.8
@@ -45790,10 +45790,10 @@ fips,state,county,date,ML
 46099,South Dakota,Minnehaha,2020-03-16,1.52
 46099,South Dakota,Minnehaha,2020-03-17,0.0
 46099,South Dakota,Minnehaha,2020-03-18,0.0
-46099,South Dakota,Minnehaha,2020-03-19,10.09
-46099,South Dakota,Minnehaha,2020-03-20,10.09
-46099,South Dakota,Minnehaha,2020-03-21,10.09
-46099,South Dakota,Minnehaha,2020-03-22,10.09
+46099,South Dakota,Minnehaha,2020-03-19,0.0
+46099,South Dakota,Minnehaha,2020-03-20,0.0
+46099,South Dakota,Minnehaha,2020-03-21,0.0
+46099,South Dakota,Minnehaha,2020-03-22,0.0
 46099,South Dakota,Minnehaha,2020-03-23,1.0
 46099,South Dakota,Minnehaha,2020-03-24,2.62
 46099,South Dakota,Minnehaha,2020-03-25,2.62
@@ -45839,14 +45839,14 @@ fips,state,county,date,ML
 46103,South Dakota,Pennington,2020-04-04,0.0
 46103,South Dakota,Pennington,2020-04-05,0.0
 46103,South Dakota,Pennington,2020-04-06,0.0
-46103,South Dakota,Pennington,2020-04-07,11.950000000000001
-46103,South Dakota,Pennington,2020-04-08,11.950000000000001
-46103,South Dakota,Pennington,2020-04-09,11.950000000000001
-46103,South Dakota,Pennington,2020-04-10,11.950000000000001
-46103,South Dakota,Pennington,2020-04-11,11.950000000000001
-46103,South Dakota,Pennington,2020-04-12,11.950000000000001
-46103,South Dakota,Pennington,2020-04-13,11.950000000000001
-46103,South Dakota,Pennington,2020-04-14,11.950000000000001
+46103,South Dakota,Pennington,2020-04-07,0.0
+46103,South Dakota,Pennington,2020-04-08,0.0
+46103,South Dakota,Pennington,2020-04-09,0.0
+46103,South Dakota,Pennington,2020-04-10,0.0
+46103,South Dakota,Pennington,2020-04-11,0.0
+46103,South Dakota,Pennington,2020-04-12,0.0
+46103,South Dakota,Pennington,2020-04-13,0.0
+46103,South Dakota,Pennington,2020-04-14,0.0
 46109,South Dakota,Roberts,2020-03-29,2.0
 46109,South Dakota,Roberts,2020-03-30,2.0
 46109,South Dakota,Roberts,2020-03-31,2.0
@@ -45860,10 +45860,10 @@ fips,state,county,date,ML
 46109,South Dakota,Roberts,2020-04-08,0.0
 46109,South Dakota,Roberts,2020-04-09,0.0
 46109,South Dakota,Roberts,2020-04-10,0.0
-46109,South Dakota,Roberts,2020-04-11,10.09
-46109,South Dakota,Roberts,2020-04-12,10.09
-46109,South Dakota,Roberts,2020-04-13,10.09
-46109,South Dakota,Roberts,2020-04-14,10.09
+46109,South Dakota,Roberts,2020-04-11,0.0
+46109,South Dakota,Roberts,2020-04-12,0.0
+46109,South Dakota,Roberts,2020-04-13,0.0
+46109,South Dakota,Roberts,2020-04-14,0.0
 46111,South Dakota,Sanborn,2020-04-11,2.0
 46111,South Dakota,Sanborn,2020-04-12,2.0
 46111,South Dakota,Sanborn,2020-04-13,2.0
@@ -45878,9 +45878,9 @@ fips,state,county,date,ML
 46115,South Dakota,Spink,2020-04-09,0.0
 46115,South Dakota,Spink,2020-04-10,0.0
 46115,South Dakota,Spink,2020-04-11,0.0
-46115,South Dakota,Spink,2020-04-12,11.94
-46115,South Dakota,Spink,2020-04-13,11.94
-46115,South Dakota,Spink,2020-04-14,11.94
+46115,South Dakota,Spink,2020-04-12,0.0
+46115,South Dakota,Spink,2020-04-13,0.0
+46115,South Dakota,Spink,2020-04-14,0.0
 46119,South Dakota,Sully,2020-04-12,2.0
 46119,South Dakota,Sully,2020-04-13,2.0
 46119,South Dakota,Sully,2020-04-14,2.0
@@ -45917,9 +45917,9 @@ fips,state,county,date,ML
 46125,South Dakota,Turner,2020-04-09,0.0
 46125,South Dakota,Turner,2020-04-10,0.0
 46125,South Dakota,Turner,2020-04-11,0.0
-46125,South Dakota,Turner,2020-04-12,10.09
-46125,South Dakota,Turner,2020-04-13,10.09
-46125,South Dakota,Turner,2020-04-14,10.09
+46125,South Dakota,Turner,2020-04-12,0.0
+46125,South Dakota,Turner,2020-04-13,0.0
+46125,South Dakota,Turner,2020-04-14,0.0
 46127,South Dakota,Union,2020-03-27,2.0
 46127,South Dakota,Union,2020-03-28,2.0
 46127,South Dakota,Union,2020-03-29,2.0
@@ -45980,9 +45980,9 @@ fips,state,county,date,ML
 47001,Tennessee,Anderson,2020-04-06,0.0
 47001,Tennessee,Anderson,2020-04-07,0.0
 47001,Tennessee,Anderson,2020-04-08,0.0
-47001,Tennessee,Anderson,2020-04-09,11.870000000000001
-47001,Tennessee,Anderson,2020-04-10,11.870000000000001
-47001,Tennessee,Anderson,2020-04-11,11.870000000000001
+47001,Tennessee,Anderson,2020-04-09,0.0
+47001,Tennessee,Anderson,2020-04-10,0.0
+47001,Tennessee,Anderson,2020-04-11,0.0
 47001,Tennessee,Anderson,2020-04-12,1.0
 47001,Tennessee,Anderson,2020-04-13,1.0
 47001,Tennessee,Anderson,2020-04-14,1.0
@@ -46017,16 +46017,16 @@ fips,state,county,date,ML
 47005,Tennessee,Benton,2020-04-02,0.0
 47005,Tennessee,Benton,2020-04-03,0.0
 47005,Tennessee,Benton,2020-04-04,0.0
-47005,Tennessee,Benton,2020-04-05,11.94
-47005,Tennessee,Benton,2020-04-06,11.94
-47005,Tennessee,Benton,2020-04-07,11.94
-47005,Tennessee,Benton,2020-04-08,11.94
-47005,Tennessee,Benton,2020-04-09,11.94
-47005,Tennessee,Benton,2020-04-10,11.94
-47005,Tennessee,Benton,2020-04-11,11.94
-47005,Tennessee,Benton,2020-04-12,11.94
-47005,Tennessee,Benton,2020-04-13,11.94
-47005,Tennessee,Benton,2020-04-14,11.94
+47005,Tennessee,Benton,2020-04-05,0.0
+47005,Tennessee,Benton,2020-04-06,0.0
+47005,Tennessee,Benton,2020-04-07,0.0
+47005,Tennessee,Benton,2020-04-08,0.0
+47005,Tennessee,Benton,2020-04-09,0.0
+47005,Tennessee,Benton,2020-04-10,0.0
+47005,Tennessee,Benton,2020-04-11,0.0
+47005,Tennessee,Benton,2020-04-12,0.0
+47005,Tennessee,Benton,2020-04-13,0.0
+47005,Tennessee,Benton,2020-04-14,0.0
 47007,Tennessee,Bledsoe,2020-03-28,2.0
 47007,Tennessee,Bledsoe,2020-03-29,2.0
 47007,Tennessee,Bledsoe,2020-03-30,2.0
@@ -46137,7 +46137,7 @@ fips,state,county,date,ML
 47015,Tennessee,Cannon,2020-03-31,1.55
 47015,Tennessee,Cannon,2020-04-01,1.55
 47015,Tennessee,Cannon,2020-04-02,0.0
-47015,Tennessee,Cannon,2020-04-03,9.33
+47015,Tennessee,Cannon,2020-04-03,0.0
 47015,Tennessee,Cannon,2020-04-04,1.0
 47015,Tennessee,Cannon,2020-04-05,1.0
 47015,Tennessee,Cannon,2020-04-06,1.0
@@ -46148,7 +46148,7 @@ fips,state,county,date,ML
 47015,Tennessee,Cannon,2020-04-11,0.0
 47015,Tennessee,Cannon,2020-04-12,0.0
 47015,Tennessee,Cannon,2020-04-13,0.0
-47015,Tennessee,Cannon,2020-04-14,11.53
+47015,Tennessee,Cannon,2020-04-14,0.0
 47017,Tennessee,Carroll,2020-03-21,2.0
 47017,Tennessee,Carroll,2020-03-22,1.8800000000000001
 47017,Tennessee,Carroll,2020-03-23,1.52
@@ -46158,12 +46158,12 @@ fips,state,county,date,ML
 47017,Tennessee,Carroll,2020-03-27,1.52
 47017,Tennessee,Carroll,2020-03-28,0.0
 47017,Tennessee,Carroll,2020-03-29,0.0
-47017,Tennessee,Carroll,2020-03-30,10.09
-47017,Tennessee,Carroll,2020-03-31,10.09
-47017,Tennessee,Carroll,2020-04-01,10.09
-47017,Tennessee,Carroll,2020-04-02,10.09
-47017,Tennessee,Carroll,2020-04-03,10.09
-47017,Tennessee,Carroll,2020-04-04,10.09
+47017,Tennessee,Carroll,2020-03-30,0.0
+47017,Tennessee,Carroll,2020-03-31,0.0
+47017,Tennessee,Carroll,2020-04-01,0.0
+47017,Tennessee,Carroll,2020-04-02,0.0
+47017,Tennessee,Carroll,2020-04-03,0.0
+47017,Tennessee,Carroll,2020-04-04,0.0
 47017,Tennessee,Carroll,2020-04-05,1.0
 47017,Tennessee,Carroll,2020-04-06,1.0
 47017,Tennessee,Carroll,2020-04-07,1.0
@@ -46242,8 +46242,8 @@ fips,state,county,date,ML
 47023,Tennessee,Chester,2020-04-10,0.0
 47023,Tennessee,Chester,2020-04-11,0.0
 47023,Tennessee,Chester,2020-04-12,0.0
-47023,Tennessee,Chester,2020-04-13,11.53
-47023,Tennessee,Chester,2020-04-14,11.53
+47023,Tennessee,Chester,2020-04-13,0.0
+47023,Tennessee,Chester,2020-04-14,0.0
 47025,Tennessee,Claiborne,2020-03-24,2.0
 47025,Tennessee,Claiborne,2020-03-25,2.0
 47025,Tennessee,Claiborne,2020-03-26,2.0
@@ -46407,14 +46407,14 @@ fips,state,county,date,ML
 47041,Tennessee,DeKalb,2020-04-01,0.0
 47041,Tennessee,DeKalb,2020-04-02,0.0
 47041,Tennessee,DeKalb,2020-04-03,0.0
-47041,Tennessee,DeKalb,2020-04-04,11.950000000000001
-47041,Tennessee,DeKalb,2020-04-05,11.950000000000001
-47041,Tennessee,DeKalb,2020-04-06,11.950000000000001
-47041,Tennessee,DeKalb,2020-04-07,11.950000000000001
-47041,Tennessee,DeKalb,2020-04-08,11.950000000000001
-47041,Tennessee,DeKalb,2020-04-09,11.950000000000001
-47041,Tennessee,DeKalb,2020-04-10,11.950000000000001
-47041,Tennessee,DeKalb,2020-04-11,11.950000000000001
+47041,Tennessee,DeKalb,2020-04-04,0.0
+47041,Tennessee,DeKalb,2020-04-05,0.0
+47041,Tennessee,DeKalb,2020-04-06,0.0
+47041,Tennessee,DeKalb,2020-04-07,0.0
+47041,Tennessee,DeKalb,2020-04-08,0.0
+47041,Tennessee,DeKalb,2020-04-09,0.0
+47041,Tennessee,DeKalb,2020-04-10,0.0
+47041,Tennessee,DeKalb,2020-04-11,0.0
 47041,Tennessee,DeKalb,2020-04-12,1.0
 47041,Tennessee,DeKalb,2020-04-13,1.0
 47041,Tennessee,DeKalb,2020-04-14,0.0
@@ -46569,13 +46569,13 @@ fips,state,county,date,ML
 47055,Tennessee,Giles,2020-04-05,1.52
 47055,Tennessee,Giles,2020-04-06,0.0
 47055,Tennessee,Giles,2020-04-07,0.0
-47055,Tennessee,Giles,2020-04-08,10.09
-47055,Tennessee,Giles,2020-04-09,10.09
-47055,Tennessee,Giles,2020-04-10,10.09
-47055,Tennessee,Giles,2020-04-11,10.09
-47055,Tennessee,Giles,2020-04-12,10.09
-47055,Tennessee,Giles,2020-04-13,10.09
-47055,Tennessee,Giles,2020-04-14,10.09
+47055,Tennessee,Giles,2020-04-08,0.0
+47055,Tennessee,Giles,2020-04-09,0.0
+47055,Tennessee,Giles,2020-04-10,0.0
+47055,Tennessee,Giles,2020-04-11,0.0
+47055,Tennessee,Giles,2020-04-12,0.0
+47055,Tennessee,Giles,2020-04-13,0.0
+47055,Tennessee,Giles,2020-04-14,0.0
 47057,Tennessee,Grainger,2020-04-01,2.0
 47057,Tennessee,Grainger,2020-04-02,2.0
 47057,Tennessee,Grainger,2020-04-03,2.0
@@ -46712,9 +46712,9 @@ fips,state,county,date,ML
 47069,Tennessee,Hardeman,2020-04-09,0.0
 47069,Tennessee,Hardeman,2020-04-10,0.0
 47069,Tennessee,Hardeman,2020-04-11,0.0
-47069,Tennessee,Hardeman,2020-04-12,11.950000000000001
-47069,Tennessee,Hardeman,2020-04-13,11.950000000000001
-47069,Tennessee,Hardeman,2020-04-14,11.950000000000001
+47069,Tennessee,Hardeman,2020-04-12,0.0
+47069,Tennessee,Hardeman,2020-04-13,0.0
+47069,Tennessee,Hardeman,2020-04-14,0.0
 47071,Tennessee,Hardin,2020-03-24,2.0
 47071,Tennessee,Hardin,2020-03-25,2.0
 47071,Tennessee,Hardin,2020-03-26,2.0
@@ -46800,7 +46800,7 @@ fips,state,county,date,ML
 47079,Tennessee,Henry,2020-04-10,0.0
 47079,Tennessee,Henry,2020-04-11,0.0
 47079,Tennessee,Henry,2020-04-12,0.0
-47079,Tennessee,Henry,2020-04-13,11.950000000000001
+47079,Tennessee,Henry,2020-04-13,0.0
 47079,Tennessee,Henry,2020-04-14,1.0
 47081,Tennessee,Hickman,2020-04-01,2.0
 47081,Tennessee,Hickman,2020-04-02,2.0
@@ -46888,10 +46888,10 @@ fips,state,county,date,ML
 47089,Tennessee,Jefferson,2020-03-30,0.0
 47089,Tennessee,Jefferson,2020-03-31,0.0
 47089,Tennessee,Jefferson,2020-04-01,0.0
-47089,Tennessee,Jefferson,2020-04-02,11.32
-47089,Tennessee,Jefferson,2020-04-03,11.32
-47089,Tennessee,Jefferson,2020-04-04,11.32
-47089,Tennessee,Jefferson,2020-04-05,11.32
+47089,Tennessee,Jefferson,2020-04-02,0.0
+47089,Tennessee,Jefferson,2020-04-03,0.0
+47089,Tennessee,Jefferson,2020-04-04,0.0
+47089,Tennessee,Jefferson,2020-04-05,0.0
 47089,Tennessee,Jefferson,2020-04-06,1.0
 47089,Tennessee,Jefferson,2020-04-07,1.0
 47089,Tennessee,Jefferson,2020-04-08,1.0
@@ -47290,7 +47290,7 @@ fips,state,county,date,ML
 47129,Tennessee,Morgan,2020-04-11,0.0
 47129,Tennessee,Morgan,2020-04-12,0.0
 47129,Tennessee,Morgan,2020-04-13,0.0
-47129,Tennessee,Morgan,2020-04-14,11.53
+47129,Tennessee,Morgan,2020-04-14,0.0
 47131,Tennessee,Obion,2020-03-29,2.0
 47131,Tennessee,Obion,2020-03-30,2.0
 47131,Tennessee,Obion,2020-03-31,2.0
@@ -47364,9 +47364,9 @@ fips,state,county,date,ML
 47139,Tennessee,Polk,2020-04-09,0.0
 47139,Tennessee,Polk,2020-04-10,0.0
 47139,Tennessee,Polk,2020-04-11,0.0
-47139,Tennessee,Polk,2020-04-12,11.94
-47139,Tennessee,Polk,2020-04-13,11.94
-47139,Tennessee,Polk,2020-04-14,11.94
+47139,Tennessee,Polk,2020-04-12,0.0
+47139,Tennessee,Polk,2020-04-13,0.0
+47139,Tennessee,Polk,2020-04-14,0.0
 47141,Tennessee,Putnam,2020-03-21,2.0
 47141,Tennessee,Putnam,2020-03-22,1.8800000000000001
 47141,Tennessee,Putnam,2020-03-23,1.8
@@ -47416,9 +47416,9 @@ fips,state,county,date,ML
 47145,Tennessee,Roane,2020-04-09,0.0
 47145,Tennessee,Roane,2020-04-10,0.0
 47145,Tennessee,Roane,2020-04-11,0.0
-47145,Tennessee,Roane,2020-04-12,9.370000000000001
-47145,Tennessee,Roane,2020-04-13,9.370000000000001
-47145,Tennessee,Roane,2020-04-14,9.370000000000001
+47145,Tennessee,Roane,2020-04-12,0.0
+47145,Tennessee,Roane,2020-04-13,0.0
+47145,Tennessee,Roane,2020-04-14,0.0
 47147,Tennessee,Robertson,2020-03-18,2.0
 47147,Tennessee,Robertson,2020-03-19,2.0
 47147,Tennessee,Robertson,2020-03-20,2.0
@@ -48132,17 +48132,17 @@ fips,state,county,date,ML
 48029,Texas,Bexar,2020-03-03,0.0
 48029,Texas,Bexar,2020-03-04,0.0
 48029,Texas,Bexar,2020-03-05,0.0
-48029,Texas,Bexar,2020-03-06,11.870000000000001
-48029,Texas,Bexar,2020-03-07,11.870000000000001
-48029,Texas,Bexar,2020-03-08,11.870000000000001
-48029,Texas,Bexar,2020-03-09,11.870000000000001
-48029,Texas,Bexar,2020-03-10,11.870000000000001
-48029,Texas,Bexar,2020-03-11,11.870000000000001
-48029,Texas,Bexar,2020-03-12,11.870000000000001
-48029,Texas,Bexar,2020-03-13,11.870000000000001
-48029,Texas,Bexar,2020-03-14,11.870000000000001
-48029,Texas,Bexar,2020-03-15,11.870000000000001
-48029,Texas,Bexar,2020-03-16,11.870000000000001
+48029,Texas,Bexar,2020-03-06,0.0
+48029,Texas,Bexar,2020-03-07,0.0
+48029,Texas,Bexar,2020-03-08,0.0
+48029,Texas,Bexar,2020-03-09,0.0
+48029,Texas,Bexar,2020-03-10,0.0
+48029,Texas,Bexar,2020-03-11,0.0
+48029,Texas,Bexar,2020-03-12,0.0
+48029,Texas,Bexar,2020-03-13,0.0
+48029,Texas,Bexar,2020-03-14,0.0
+48029,Texas,Bexar,2020-03-15,0.0
+48029,Texas,Bexar,2020-03-16,0.0
 48029,Texas,Bexar,2020-03-17,3.77
 48029,Texas,Bexar,2020-03-18,4.39
 48029,Texas,Bexar,2020-03-19,3.24
@@ -48343,12 +48343,12 @@ fips,state,county,date,ML
 48053,Texas,Burnet,2020-04-06,0.0
 48053,Texas,Burnet,2020-04-07,0.0
 48053,Texas,Burnet,2020-04-08,0.0
-48053,Texas,Burnet,2020-04-09,10.75
-48053,Texas,Burnet,2020-04-10,10.75
-48053,Texas,Burnet,2020-04-11,10.75
-48053,Texas,Burnet,2020-04-12,10.75
-48053,Texas,Burnet,2020-04-13,10.75
-48053,Texas,Burnet,2020-04-14,10.75
+48053,Texas,Burnet,2020-04-09,0.0
+48053,Texas,Burnet,2020-04-10,0.0
+48053,Texas,Burnet,2020-04-11,0.0
+48053,Texas,Burnet,2020-04-12,0.0
+48053,Texas,Burnet,2020-04-13,0.0
+48053,Texas,Burnet,2020-04-14,0.0
 48055,Texas,Caldwell,2020-03-28,2.0
 48055,Texas,Caldwell,2020-03-29,2.0
 48055,Texas,Caldwell,2020-03-30,2.0
@@ -48478,15 +48478,15 @@ fips,state,county,date,ML
 48069,Texas,Castro,2020-04-03,0.0
 48069,Texas,Castro,2020-04-04,0.0
 48069,Texas,Castro,2020-04-05,0.0
-48069,Texas,Castro,2020-04-06,11.41
-48069,Texas,Castro,2020-04-07,11.41
-48069,Texas,Castro,2020-04-08,11.41
-48069,Texas,Castro,2020-04-09,11.41
-48069,Texas,Castro,2020-04-10,11.41
-48069,Texas,Castro,2020-04-11,11.41
-48069,Texas,Castro,2020-04-12,11.41
-48069,Texas,Castro,2020-04-13,11.41
-48069,Texas,Castro,2020-04-14,11.41
+48069,Texas,Castro,2020-04-06,0.0
+48069,Texas,Castro,2020-04-07,0.0
+48069,Texas,Castro,2020-04-08,0.0
+48069,Texas,Castro,2020-04-09,0.0
+48069,Texas,Castro,2020-04-10,0.0
+48069,Texas,Castro,2020-04-11,0.0
+48069,Texas,Castro,2020-04-12,0.0
+48069,Texas,Castro,2020-04-13,0.0
+48069,Texas,Castro,2020-04-14,0.0
 48071,Texas,Chambers,2020-03-24,2.0
 48071,Texas,Chambers,2020-03-25,2.0
 48071,Texas,Chambers,2020-03-26,2.0
@@ -48523,11 +48523,11 @@ fips,state,county,date,ML
 48073,Texas,Cherokee,2020-04-07,0.0
 48073,Texas,Cherokee,2020-04-08,0.0
 48073,Texas,Cherokee,2020-04-09,0.0
-48073,Texas,Cherokee,2020-04-10,11.950000000000001
-48073,Texas,Cherokee,2020-04-11,11.950000000000001
-48073,Texas,Cherokee,2020-04-12,11.950000000000001
-48073,Texas,Cherokee,2020-04-13,11.950000000000001
-48073,Texas,Cherokee,2020-04-14,11.950000000000001
+48073,Texas,Cherokee,2020-04-10,0.0
+48073,Texas,Cherokee,2020-04-11,0.0
+48073,Texas,Cherokee,2020-04-12,0.0
+48073,Texas,Cherokee,2020-04-13,0.0
+48073,Texas,Cherokee,2020-04-14,0.0
 48077,Texas,Clay,2020-04-01,2.0
 48077,Texas,Clay,2020-04-02,2.0
 48077,Texas,Clay,2020-04-03,2.0
@@ -48756,11 +48756,11 @@ fips,state,county,date,ML
 48115,Texas,Dawson,2020-04-05,0.0
 48115,Texas,Dawson,2020-04-06,0.0
 48115,Texas,Dawson,2020-04-07,0.0
-48115,Texas,Dawson,2020-04-08,11.94
-48115,Texas,Dawson,2020-04-09,11.94
-48115,Texas,Dawson,2020-04-10,11.94
-48115,Texas,Dawson,2020-04-11,11.94
-48115,Texas,Dawson,2020-04-12,11.94
+48115,Texas,Dawson,2020-04-08,0.0
+48115,Texas,Dawson,2020-04-09,0.0
+48115,Texas,Dawson,2020-04-10,0.0
+48115,Texas,Dawson,2020-04-11,0.0
+48115,Texas,Dawson,2020-04-12,0.0
 48115,Texas,Dawson,2020-04-13,1.0
 48115,Texas,Dawson,2020-04-14,1.0
 48117,Texas,Deaf Smith,2020-03-21,2.0
@@ -48850,9 +48850,9 @@ fips,state,county,date,ML
 48123,Texas,DeWitt,2020-04-09,0.0
 48123,Texas,DeWitt,2020-04-10,0.0
 48123,Texas,DeWitt,2020-04-11,0.0
-48123,Texas,DeWitt,2020-04-12,11.32
-48123,Texas,DeWitt,2020-04-13,11.32
-48123,Texas,DeWitt,2020-04-14,11.32
+48123,Texas,DeWitt,2020-04-12,0.0
+48123,Texas,DeWitt,2020-04-13,0.0
+48123,Texas,DeWitt,2020-04-14,0.0
 48125,Texas,Dickens,2020-04-08,2.0
 48125,Texas,Dickens,2020-04-09,2.0
 48125,Texas,Dickens,2020-04-10,2.0
@@ -49838,7 +49838,7 @@ fips,state,county,date,ML
 48259,Texas,Kendall,2020-04-09,0.0
 48259,Texas,Kendall,2020-04-10,0.0
 48259,Texas,Kendall,2020-04-11,0.0
-48259,Texas,Kendall,2020-04-12,11.85
+48259,Texas,Kendall,2020-04-12,0.0
 48259,Texas,Kendall,2020-04-13,1.0
 48259,Texas,Kendall,2020-04-14,1.0
 48265,Texas,Kerr,2020-04-01,2.0
@@ -50040,10 +50040,10 @@ fips,state,county,date,ML
 48297,Texas,Live Oak,2020-04-08,0.0
 48297,Texas,Live Oak,2020-04-09,0.0
 48297,Texas,Live Oak,2020-04-10,0.0
-48297,Texas,Live Oak,2020-04-11,11.94
-48297,Texas,Live Oak,2020-04-12,11.94
-48297,Texas,Live Oak,2020-04-13,11.94
-48297,Texas,Live Oak,2020-04-14,11.94
+48297,Texas,Live Oak,2020-04-11,0.0
+48297,Texas,Live Oak,2020-04-12,0.0
+48297,Texas,Live Oak,2020-04-13,0.0
+48297,Texas,Live Oak,2020-04-14,0.0
 48299,Texas,Llano,2020-03-25,2.0
 48299,Texas,Llano,2020-03-26,2.0
 48299,Texas,Llano,2020-03-27,2.0
@@ -50571,10 +50571,10 @@ fips,state,county,date,ML
 48367,Texas,Parker,2020-04-02,0.0
 48367,Texas,Parker,2020-04-03,0.0
 48367,Texas,Parker,2020-04-04,0.0
-48367,Texas,Parker,2020-04-05,11.950000000000001
-48367,Texas,Parker,2020-04-06,11.950000000000001
-48367,Texas,Parker,2020-04-07,11.950000000000001
-48367,Texas,Parker,2020-04-08,11.950000000000001
+48367,Texas,Parker,2020-04-05,0.0
+48367,Texas,Parker,2020-04-06,0.0
+48367,Texas,Parker,2020-04-07,0.0
+48367,Texas,Parker,2020-04-08,0.0
 48367,Texas,Parker,2020-04-09,1.0
 48367,Texas,Parker,2020-04-10,2.62
 48367,Texas,Parker,2020-04-11,1.8900000000000001
@@ -50605,7 +50605,7 @@ fips,state,county,date,ML
 48373,Texas,Polk,2020-04-10,0.0
 48373,Texas,Polk,2020-04-11,0.0
 48373,Texas,Polk,2020-04-12,0.0
-48373,Texas,Polk,2020-04-13,11.02
+48373,Texas,Polk,2020-04-13,0.0
 48373,Texas,Polk,2020-04-14,1.0
 48375,Texas,Potter,2020-03-21,2.0
 48375,Texas,Potter,2020-03-22,2.0
@@ -50857,9 +50857,9 @@ fips,state,county,date,ML
 48427,Texas,Starr,2020-04-09,0.0
 48427,Texas,Starr,2020-04-10,0.0
 48427,Texas,Starr,2020-04-11,0.0
-48427,Texas,Starr,2020-04-12,11.950000000000001
-48427,Texas,Starr,2020-04-13,11.950000000000001
-48427,Texas,Starr,2020-04-14,11.950000000000001
+48427,Texas,Starr,2020-04-12,0.0
+48427,Texas,Starr,2020-04-13,0.0
+48427,Texas,Starr,2020-04-14,0.0
 48429,Texas,Stephens,2020-04-10,2.0
 48429,Texas,Stephens,2020-04-11,2.0
 48429,Texas,Stephens,2020-04-12,2.0
@@ -51310,9 +51310,9 @@ fips,state,county,date,ML
 48489,Texas,Willacy,2020-04-09,0.0
 48489,Texas,Willacy,2020-04-10,0.0
 48489,Texas,Willacy,2020-04-11,0.0
-48489,Texas,Willacy,2020-04-12,11.950000000000001
-48489,Texas,Willacy,2020-04-13,11.950000000000001
-48489,Texas,Willacy,2020-04-14,11.950000000000001
+48489,Texas,Willacy,2020-04-12,0.0
+48489,Texas,Willacy,2020-04-13,0.0
+48489,Texas,Willacy,2020-04-14,0.0
 48491,Texas,Williamson,2020-03-18,2.0
 48491,Texas,Williamson,2020-03-19,1.8
 48491,Texas,Williamson,2020-03-20,1.69
@@ -51377,12 +51377,12 @@ fips,state,county,date,ML
 48497,Texas,Wise,2020-04-06,0.0
 48497,Texas,Wise,2020-04-07,0.0
 48497,Texas,Wise,2020-04-08,0.0
-48497,Texas,Wise,2020-04-09,11.94
-48497,Texas,Wise,2020-04-10,11.94
-48497,Texas,Wise,2020-04-11,11.94
-48497,Texas,Wise,2020-04-12,11.94
-48497,Texas,Wise,2020-04-13,11.94
-48497,Texas,Wise,2020-04-14,11.94
+48497,Texas,Wise,2020-04-09,0.0
+48497,Texas,Wise,2020-04-10,0.0
+48497,Texas,Wise,2020-04-11,0.0
+48497,Texas,Wise,2020-04-12,0.0
+48497,Texas,Wise,2020-04-13,0.0
+48497,Texas,Wise,2020-04-14,0.0
 48499,Texas,Wood,2020-04-01,2.0
 48499,Texas,Wood,2020-04-02,2.0
 48499,Texas,Wood,2020-04-03,2.0
@@ -51615,7 +51615,7 @@ fips,state,county,date,ML
 49021,Utah,Iron,2020-04-11,0.0
 49021,Utah,Iron,2020-04-12,0.0
 49021,Utah,Iron,2020-04-13,0.0
-49021,Utah,Iron,2020-04-14,11.41
+49021,Utah,Iron,2020-04-14,0.0
 49023,Utah,Juab,2020-04-03,2.0
 49023,Utah,Juab,2020-04-04,2.0
 49023,Utah,Juab,2020-04-05,2.0
@@ -51732,9 +51732,9 @@ fips,state,county,date,ML
 49037,Utah,San Juan,2020-04-05,0.0
 49037,Utah,San Juan,2020-04-06,0.0
 49037,Utah,San Juan,2020-04-07,0.0
-49037,Utah,San Juan,2020-04-08,11.950000000000001
-49037,Utah,San Juan,2020-04-09,11.950000000000001
-49037,Utah,San Juan,2020-04-10,11.950000000000001
+49037,Utah,San Juan,2020-04-08,0.0
+49037,Utah,San Juan,2020-04-09,0.0
+49037,Utah,San Juan,2020-04-10,0.0
 49037,Utah,San Juan,2020-04-11,1.0
 49037,Utah,San Juan,2020-04-12,1.0
 49037,Utah,San Juan,2020-04-13,1.0
@@ -52186,12 +52186,12 @@ fips,state,county,date,ML
 50019,Vermont,Orleans,2020-04-06,0.0
 50019,Vermont,Orleans,2020-04-07,0.0
 50019,Vermont,Orleans,2020-04-08,0.0
-50019,Vermont,Orleans,2020-04-09,11.02
-50019,Vermont,Orleans,2020-04-10,11.02
-50019,Vermont,Orleans,2020-04-11,11.02
-50019,Vermont,Orleans,2020-04-12,11.02
-50019,Vermont,Orleans,2020-04-13,11.02
-50019,Vermont,Orleans,2020-04-14,11.02
+50019,Vermont,Orleans,2020-04-09,0.0
+50019,Vermont,Orleans,2020-04-10,0.0
+50019,Vermont,Orleans,2020-04-11,0.0
+50019,Vermont,Orleans,2020-04-12,0.0
+50019,Vermont,Orleans,2020-04-13,0.0
+50019,Vermont,Orleans,2020-04-14,0.0
 50021,Vermont,Rutland,2020-03-20,2.0
 50021,Vermont,Rutland,2020-03-21,1.8800000000000001
 50021,Vermont,Rutland,2020-03-22,1.8
@@ -52962,7 +52962,7 @@ fips,state,county,date,ML
 51079,Virginia,Greene,2020-04-11,0.0
 51079,Virginia,Greene,2020-04-12,0.0
 51079,Virginia,Greene,2020-04-13,0.0
-51079,Virginia,Greene,2020-04-14,11.32
+51079,Virginia,Greene,2020-04-14,0.0
 51081,Virginia,Greensville,2020-03-29,2.0
 51081,Virginia,Greensville,2020-03-30,1.8800000000000001
 51081,Virginia,Greensville,2020-03-31,1.8
@@ -52973,7 +52973,7 @@ fips,state,county,date,ML
 51081,Virginia,Greensville,2020-04-05,0.0
 51081,Virginia,Greensville,2020-04-06,0.0
 51081,Virginia,Greensville,2020-04-07,0.0
-51081,Virginia,Greensville,2020-04-08,11.94
+51081,Virginia,Greensville,2020-04-08,0.0
 51081,Virginia,Greensville,2020-04-09,1.0
 51081,Virginia,Greensville,2020-04-10,1.0
 51081,Virginia,Greensville,2020-04-11,1.0
@@ -53310,11 +53310,11 @@ fips,state,county,date,ML
 51113,Virginia,Madison,2020-03-31,1.52
 51113,Virginia,Madison,2020-04-01,0.0
 51113,Virginia,Madison,2020-04-02,0.0
-51113,Virginia,Madison,2020-04-03,10.09
-51113,Virginia,Madison,2020-04-04,10.09
-51113,Virginia,Madison,2020-04-05,10.09
-51113,Virginia,Madison,2020-04-06,10.09
-51113,Virginia,Madison,2020-04-07,10.09
+51113,Virginia,Madison,2020-04-03,0.0
+51113,Virginia,Madison,2020-04-04,0.0
+51113,Virginia,Madison,2020-04-05,0.0
+51113,Virginia,Madison,2020-04-06,0.0
+51113,Virginia,Madison,2020-04-07,0.0
 51113,Virginia,Madison,2020-04-08,0.0
 51113,Virginia,Madison,2020-04-09,0.0
 51113,Virginia,Madison,2020-04-10,0.0
@@ -53557,13 +53557,13 @@ fips,state,county,date,ML
 51145,Virginia,Powhatan,2020-04-05,0.0
 51145,Virginia,Powhatan,2020-04-06,0.0
 51145,Virginia,Powhatan,2020-04-07,0.0
-51145,Virginia,Powhatan,2020-04-08,11.950000000000001
-51145,Virginia,Powhatan,2020-04-09,11.950000000000001
-51145,Virginia,Powhatan,2020-04-10,11.950000000000001
-51145,Virginia,Powhatan,2020-04-11,11.950000000000001
-51145,Virginia,Powhatan,2020-04-12,11.950000000000001
-51145,Virginia,Powhatan,2020-04-13,11.950000000000001
-51145,Virginia,Powhatan,2020-04-14,11.950000000000001
+51145,Virginia,Powhatan,2020-04-08,0.0
+51145,Virginia,Powhatan,2020-04-09,0.0
+51145,Virginia,Powhatan,2020-04-10,0.0
+51145,Virginia,Powhatan,2020-04-11,0.0
+51145,Virginia,Powhatan,2020-04-12,0.0
+51145,Virginia,Powhatan,2020-04-13,0.0
+51145,Virginia,Powhatan,2020-04-14,0.0
 51147,Virginia,Prince Edward,2020-03-12,2.0
 51147,Virginia,Prince Edward,2020-03-13,2.0
 51147,Virginia,Prince Edward,2020-03-14,2.0
@@ -53821,8 +53821,8 @@ fips,state,county,date,ML
 51175,Virginia,Southampton,2020-04-10,0.0
 51175,Virginia,Southampton,2020-04-11,0.0
 51175,Virginia,Southampton,2020-04-12,0.0
-51175,Virginia,Southampton,2020-04-13,11.85
-51175,Virginia,Southampton,2020-04-14,11.85
+51175,Virginia,Southampton,2020-04-13,0.0
+51175,Virginia,Southampton,2020-04-14,0.0
 51177,Virginia,Spotsylvania,2020-03-14,2.0
 51177,Virginia,Spotsylvania,2020-03-15,2.0
 51177,Virginia,Spotsylvania,2020-03-16,2.0
@@ -54106,7 +54106,7 @@ fips,state,county,date,ML
 51530,Virginia,Buena Vista city,2020-04-11,0.0
 51530,Virginia,Buena Vista city,2020-04-12,0.0
 51530,Virginia,Buena Vista city,2020-04-13,0.0
-51530,Virginia,Buena Vista city,2020-04-14,11.950000000000001
+51530,Virginia,Buena Vista city,2020-04-14,0.0
 51540,Virginia,Charlottesville city,2020-03-17,2.0
 51540,Virginia,Charlottesville city,2020-03-18,2.0
 51540,Virginia,Charlottesville city,2020-03-19,2.0
@@ -54240,8 +54240,8 @@ fips,state,county,date,ML
 51620,Virginia,Franklin city,2020-04-10,0.0
 51620,Virginia,Franklin city,2020-04-11,0.0
 51620,Virginia,Franklin city,2020-04-12,0.0
-51620,Virginia,Franklin city,2020-04-13,11.17
-51620,Virginia,Franklin city,2020-04-14,11.17
+51620,Virginia,Franklin city,2020-04-13,0.0
+51620,Virginia,Franklin city,2020-04-14,0.0
 51630,Virginia,Fredericksburg city,2020-03-25,2.0
 51630,Virginia,Fredericksburg city,2020-03-26,2.0
 51630,Virginia,Fredericksburg city,2020-03-27,2.0
@@ -54785,7 +54785,7 @@ fips,state,county,date,ML
 53003,Washington,Asotin,2020-04-11,0.0
 53003,Washington,Asotin,2020-04-12,0.0
 53003,Washington,Asotin,2020-04-13,0.0
-53003,Washington,Asotin,2020-04-14,11.950000000000001
+53003,Washington,Asotin,2020-04-14,0.0
 53005,Washington,Benton,2020-03-18,2.0
 53005,Washington,Benton,2020-03-19,1.8
 53005,Washington,Benton,2020-03-20,1.69
@@ -54868,7 +54868,7 @@ fips,state,county,date,ML
 53009,Washington,Clallam,2020-03-28,0.0
 53009,Washington,Clallam,2020-03-29,0.0
 53009,Washington,Clallam,2020-03-30,0.0
-53009,Washington,Clallam,2020-03-31,11.17
+53009,Washington,Clallam,2020-03-31,0.0
 53009,Washington,Clallam,2020-04-01,1.0
 53009,Washington,Clallam,2020-04-02,0.0
 53009,Washington,Clallam,2020-04-03,0.0
@@ -55310,7 +55310,7 @@ fips,state,county,date,ML
 53037,Washington,Kittitas,2020-03-31,0.0
 53037,Washington,Kittitas,2020-04-01,0.0
 53037,Washington,Kittitas,2020-04-02,0.0
-53037,Washington,Kittitas,2020-04-03,11.53
+53037,Washington,Kittitas,2020-04-03,0.0
 53037,Washington,Kittitas,2020-04-04,1.0
 53037,Washington,Kittitas,2020-04-05,1.0
 53037,Washington,Kittitas,2020-04-06,1.0
@@ -55341,16 +55341,16 @@ fips,state,county,date,ML
 53039,Washington,Klickitat,2020-03-30,0.0
 53039,Washington,Klickitat,2020-03-31,0.0
 53039,Washington,Klickitat,2020-04-01,0.0
-53039,Washington,Klickitat,2020-04-02,11.41
-53039,Washington,Klickitat,2020-04-03,11.41
-53039,Washington,Klickitat,2020-04-04,11.41
-53039,Washington,Klickitat,2020-04-05,11.41
-53039,Washington,Klickitat,2020-04-06,11.41
-53039,Washington,Klickitat,2020-04-07,11.41
-53039,Washington,Klickitat,2020-04-08,11.41
-53039,Washington,Klickitat,2020-04-09,11.41
-53039,Washington,Klickitat,2020-04-10,11.41
-53039,Washington,Klickitat,2020-04-11,11.41
+53039,Washington,Klickitat,2020-04-02,0.0
+53039,Washington,Klickitat,2020-04-03,0.0
+53039,Washington,Klickitat,2020-04-04,0.0
+53039,Washington,Klickitat,2020-04-05,0.0
+53039,Washington,Klickitat,2020-04-06,0.0
+53039,Washington,Klickitat,2020-04-07,0.0
+53039,Washington,Klickitat,2020-04-08,0.0
+53039,Washington,Klickitat,2020-04-09,0.0
+53039,Washington,Klickitat,2020-04-10,0.0
+53039,Washington,Klickitat,2020-04-11,0.0
 53039,Washington,Klickitat,2020-04-12,1.0
 53039,Washington,Klickitat,2020-04-13,1.0
 53039,Washington,Klickitat,2020-04-14,0.0
@@ -55914,9 +55914,9 @@ fips,state,county,date,ML
 53075,Washington,Whitman,2020-04-09,0.0
 53075,Washington,Whitman,2020-04-10,0.0
 53075,Washington,Whitman,2020-04-11,0.0
-53075,Washington,Whitman,2020-04-12,11.41
-53075,Washington,Whitman,2020-04-13,11.41
-53075,Washington,Whitman,2020-04-14,11.41
+53075,Washington,Whitman,2020-04-12,0.0
+53075,Washington,Whitman,2020-04-13,0.0
+53075,Washington,Whitman,2020-04-14,0.0
 53077,Washington,Yakima,2020-03-12,2.0
 53077,Washington,Yakima,2020-03-13,1.8800000000000001
 53077,Washington,Yakima,2020-03-14,1.8
@@ -56046,16 +56046,16 @@ fips,state,county,date,ML
 54025,West Virginia,Greenbrier,2020-04-02,1.52
 54025,West Virginia,Greenbrier,2020-04-03,0.0
 54025,West Virginia,Greenbrier,2020-04-04,0.0
-54025,West Virginia,Greenbrier,2020-04-05,10.09
-54025,West Virginia,Greenbrier,2020-04-06,10.09
-54025,West Virginia,Greenbrier,2020-04-07,10.09
-54025,West Virginia,Greenbrier,2020-04-08,10.09
-54025,West Virginia,Greenbrier,2020-04-09,10.09
-54025,West Virginia,Greenbrier,2020-04-10,10.09
-54025,West Virginia,Greenbrier,2020-04-11,10.09
-54025,West Virginia,Greenbrier,2020-04-12,10.09
-54025,West Virginia,Greenbrier,2020-04-13,10.09
-54025,West Virginia,Greenbrier,2020-04-14,10.09
+54025,West Virginia,Greenbrier,2020-04-05,0.0
+54025,West Virginia,Greenbrier,2020-04-06,0.0
+54025,West Virginia,Greenbrier,2020-04-07,0.0
+54025,West Virginia,Greenbrier,2020-04-08,0.0
+54025,West Virginia,Greenbrier,2020-04-09,0.0
+54025,West Virginia,Greenbrier,2020-04-10,0.0
+54025,West Virginia,Greenbrier,2020-04-11,0.0
+54025,West Virginia,Greenbrier,2020-04-12,0.0
+54025,West Virginia,Greenbrier,2020-04-13,0.0
+54025,West Virginia,Greenbrier,2020-04-14,0.0
 54027,West Virginia,Hampshire,2020-04-08,2.0
 54027,West Virginia,Hampshire,2020-04-09,2.0
 54027,West Virginia,Hampshire,2020-04-10,2.0
@@ -56076,12 +56076,12 @@ fips,state,county,date,ML
 54029,West Virginia,Hancock,2020-04-06,0.0
 54029,West Virginia,Hancock,2020-04-07,0.0
 54029,West Virginia,Hancock,2020-04-08,0.0
-54029,West Virginia,Hancock,2020-04-09,11.99
-54029,West Virginia,Hancock,2020-04-10,11.99
-54029,West Virginia,Hancock,2020-04-11,11.99
-54029,West Virginia,Hancock,2020-04-12,11.99
-54029,West Virginia,Hancock,2020-04-13,11.99
-54029,West Virginia,Hancock,2020-04-14,11.99
+54029,West Virginia,Hancock,2020-04-09,0.0
+54029,West Virginia,Hancock,2020-04-10,0.0
+54029,West Virginia,Hancock,2020-04-11,0.0
+54029,West Virginia,Hancock,2020-04-12,0.0
+54029,West Virginia,Hancock,2020-04-13,0.0
+54029,West Virginia,Hancock,2020-04-14,0.0
 54031,West Virginia,Hardy,2020-03-31,2.0
 54031,West Virginia,Hardy,2020-04-01,2.0
 54031,West Virginia,Hardy,2020-04-02,2.0
@@ -56294,9 +56294,9 @@ fips,state,county,date,ML
 54053,West Virginia,Mason,2020-04-01,1.52
 54053,West Virginia,Mason,2020-04-02,0.0
 54053,West Virginia,Mason,2020-04-03,0.0
-54053,West Virginia,Mason,2020-04-04,10.09
-54053,West Virginia,Mason,2020-04-05,10.09
-54053,West Virginia,Mason,2020-04-06,10.09
+54053,West Virginia,Mason,2020-04-04,0.0
+54053,West Virginia,Mason,2020-04-05,0.0
+54053,West Virginia,Mason,2020-04-06,0.0
 54053,West Virginia,Mason,2020-04-07,1.0
 54053,West Virginia,Mason,2020-04-08,1.0
 54053,West Virginia,Mason,2020-04-09,1.0
@@ -56395,7 +56395,7 @@ fips,state,county,date,ML
 54065,West Virginia,Morgan,2020-04-11,0.0
 54065,West Virginia,Morgan,2020-04-12,0.0
 54065,West Virginia,Morgan,2020-04-13,0.0
-54065,West Virginia,Morgan,2020-04-14,9.370000000000001
+54065,West Virginia,Morgan,2020-04-14,0.0
 54067,West Virginia,Nicholas,2020-04-07,2.0
 54067,West Virginia,Nicholas,2020-04-08,2.0
 54067,West Virginia,Nicholas,2020-04-09,2.0
@@ -56474,11 +56474,11 @@ fips,state,county,date,ML
 54077,West Virginia,Preston,2020-04-07,0.0
 54077,West Virginia,Preston,2020-04-08,0.0
 54077,West Virginia,Preston,2020-04-09,0.0
-54077,West Virginia,Preston,2020-04-10,9.370000000000001
-54077,West Virginia,Preston,2020-04-11,9.370000000000001
-54077,West Virginia,Preston,2020-04-12,9.370000000000001
-54077,West Virginia,Preston,2020-04-13,9.370000000000001
-54077,West Virginia,Preston,2020-04-14,9.370000000000001
+54077,West Virginia,Preston,2020-04-10,0.0
+54077,West Virginia,Preston,2020-04-11,0.0
+54077,West Virginia,Preston,2020-04-12,0.0
+54077,West Virginia,Preston,2020-04-13,0.0
+54077,West Virginia,Preston,2020-04-14,0.0
 54079,West Virginia,Putnam,2020-03-21,2.0
 54079,West Virginia,Putnam,2020-03-22,2.0
 54079,West Virginia,Putnam,2020-03-23,2.0
@@ -56514,17 +56514,17 @@ fips,state,county,date,ML
 54081,West Virginia,Raleigh,2020-04-01,0.0
 54081,West Virginia,Raleigh,2020-04-02,0.0
 54081,West Virginia,Raleigh,2020-04-03,0.0
-54081,West Virginia,Raleigh,2020-04-04,11.94
-54081,West Virginia,Raleigh,2020-04-05,11.94
-54081,West Virginia,Raleigh,2020-04-06,11.94
-54081,West Virginia,Raleigh,2020-04-07,11.94
-54081,West Virginia,Raleigh,2020-04-08,11.94
-54081,West Virginia,Raleigh,2020-04-09,11.94
-54081,West Virginia,Raleigh,2020-04-10,11.94
-54081,West Virginia,Raleigh,2020-04-11,11.94
-54081,West Virginia,Raleigh,2020-04-12,11.94
-54081,West Virginia,Raleigh,2020-04-13,11.94
-54081,West Virginia,Raleigh,2020-04-14,11.94
+54081,West Virginia,Raleigh,2020-04-04,0.0
+54081,West Virginia,Raleigh,2020-04-05,0.0
+54081,West Virginia,Raleigh,2020-04-06,0.0
+54081,West Virginia,Raleigh,2020-04-07,0.0
+54081,West Virginia,Raleigh,2020-04-08,0.0
+54081,West Virginia,Raleigh,2020-04-09,0.0
+54081,West Virginia,Raleigh,2020-04-10,0.0
+54081,West Virginia,Raleigh,2020-04-11,0.0
+54081,West Virginia,Raleigh,2020-04-12,0.0
+54081,West Virginia,Raleigh,2020-04-13,0.0
+54081,West Virginia,Raleigh,2020-04-14,0.0
 54083,West Virginia,Randolph,2020-03-30,2.0
 54083,West Virginia,Randolph,2020-03-31,2.0
 54083,West Virginia,Randolph,2020-04-01,2.0
@@ -56874,10 +56874,10 @@ fips,state,county,date,ML
 55019,Wisconsin,Clark,2020-04-08,0.0
 55019,Wisconsin,Clark,2020-04-09,0.0
 55019,Wisconsin,Clark,2020-04-10,0.0
-55019,Wisconsin,Clark,2020-04-11,11.700000000000001
-55019,Wisconsin,Clark,2020-04-12,11.700000000000001
-55019,Wisconsin,Clark,2020-04-13,11.700000000000001
-55019,Wisconsin,Clark,2020-04-14,11.700000000000001
+55019,Wisconsin,Clark,2020-04-11,0.0
+55019,Wisconsin,Clark,2020-04-12,0.0
+55019,Wisconsin,Clark,2020-04-13,0.0
+55019,Wisconsin,Clark,2020-04-14,0.0
 55021,Wisconsin,Columbia,2020-03-19,2.0
 55021,Wisconsin,Columbia,2020-03-20,2.0
 55021,Wisconsin,Columbia,2020-03-21,2.0
@@ -57043,17 +57043,17 @@ fips,state,county,date,ML
 55031,Wisconsin,Douglas,2020-04-01,0.0
 55031,Wisconsin,Douglas,2020-04-02,0.0
 55031,Wisconsin,Douglas,2020-04-03,0.0
-55031,Wisconsin,Douglas,2020-04-04,11.870000000000001
-55031,Wisconsin,Douglas,2020-04-05,11.870000000000001
-55031,Wisconsin,Douglas,2020-04-06,11.870000000000001
-55031,Wisconsin,Douglas,2020-04-07,11.870000000000001
-55031,Wisconsin,Douglas,2020-04-08,11.870000000000001
-55031,Wisconsin,Douglas,2020-04-09,11.870000000000001
-55031,Wisconsin,Douglas,2020-04-10,11.870000000000001
-55031,Wisconsin,Douglas,2020-04-11,11.870000000000001
-55031,Wisconsin,Douglas,2020-04-12,11.870000000000001
-55031,Wisconsin,Douglas,2020-04-13,11.870000000000001
-55031,Wisconsin,Douglas,2020-04-14,11.870000000000001
+55031,Wisconsin,Douglas,2020-04-04,0.0
+55031,Wisconsin,Douglas,2020-04-05,0.0
+55031,Wisconsin,Douglas,2020-04-06,0.0
+55031,Wisconsin,Douglas,2020-04-07,0.0
+55031,Wisconsin,Douglas,2020-04-08,0.0
+55031,Wisconsin,Douglas,2020-04-09,0.0
+55031,Wisconsin,Douglas,2020-04-10,0.0
+55031,Wisconsin,Douglas,2020-04-11,0.0
+55031,Wisconsin,Douglas,2020-04-12,0.0
+55031,Wisconsin,Douglas,2020-04-13,0.0
+55031,Wisconsin,Douglas,2020-04-14,0.0
 55033,Wisconsin,Dunn,2020-03-20,2.0
 55033,Wisconsin,Dunn,2020-03-21,2.0
 55033,Wisconsin,Dunn,2020-03-22,2.0
@@ -57195,10 +57195,10 @@ fips,state,county,date,ML
 55045,Wisconsin,Green,2020-04-08,0.0
 55045,Wisconsin,Green,2020-04-09,0.0
 55045,Wisconsin,Green,2020-04-10,0.0
-55045,Wisconsin,Green,2020-04-11,11.86
-55045,Wisconsin,Green,2020-04-12,11.86
-55045,Wisconsin,Green,2020-04-13,11.86
-55045,Wisconsin,Green,2020-04-14,11.86
+55045,Wisconsin,Green,2020-04-11,0.0
+55045,Wisconsin,Green,2020-04-12,0.0
+55045,Wisconsin,Green,2020-04-13,0.0
+55045,Wisconsin,Green,2020-04-14,0.0
 55047,Wisconsin,Green Lake,2020-04-13,2.0
 55047,Wisconsin,Green Lake,2020-04-14,2.0
 55049,Wisconsin,Iowa,2020-03-25,2.0
@@ -57388,7 +57388,7 @@ fips,state,county,date,ML
 55071,Wisconsin,Manitowoc,2020-04-11,0.0
 55071,Wisconsin,Manitowoc,2020-04-12,0.0
 55071,Wisconsin,Manitowoc,2020-04-13,0.0
-55071,Wisconsin,Manitowoc,2020-04-14,11.94
+55071,Wisconsin,Manitowoc,2020-04-14,0.0
 55073,Wisconsin,Marathon,2020-03-20,2.0
 55073,Wisconsin,Marathon,2020-03-21,2.0
 55073,Wisconsin,Marathon,2020-03-22,2.0
@@ -57414,7 +57414,7 @@ fips,state,county,date,ML
 55073,Wisconsin,Marathon,2020-04-11,0.0
 55073,Wisconsin,Marathon,2020-04-12,0.0
 55073,Wisconsin,Marathon,2020-04-13,0.0
-55073,Wisconsin,Marathon,2020-04-14,11.46
+55073,Wisconsin,Marathon,2020-04-14,0.0
 55075,Wisconsin,Marinette,2020-03-27,2.0
 55075,Wisconsin,Marinette,2020-03-28,2.0
 55075,Wisconsin,Marinette,2020-03-29,2.0
@@ -57543,14 +57543,14 @@ fips,state,county,date,ML
 55085,Wisconsin,Oneida,2020-04-04,0.0
 55085,Wisconsin,Oneida,2020-04-05,0.0
 55085,Wisconsin,Oneida,2020-04-06,0.0
-55085,Wisconsin,Oneida,2020-04-07,11.94
-55085,Wisconsin,Oneida,2020-04-08,11.94
-55085,Wisconsin,Oneida,2020-04-09,11.94
-55085,Wisconsin,Oneida,2020-04-10,11.94
-55085,Wisconsin,Oneida,2020-04-11,11.94
-55085,Wisconsin,Oneida,2020-04-12,11.94
-55085,Wisconsin,Oneida,2020-04-13,11.94
-55085,Wisconsin,Oneida,2020-04-14,11.94
+55085,Wisconsin,Oneida,2020-04-07,0.0
+55085,Wisconsin,Oneida,2020-04-08,0.0
+55085,Wisconsin,Oneida,2020-04-09,0.0
+55085,Wisconsin,Oneida,2020-04-10,0.0
+55085,Wisconsin,Oneida,2020-04-11,0.0
+55085,Wisconsin,Oneida,2020-04-12,0.0
+55085,Wisconsin,Oneida,2020-04-13,0.0
+55085,Wisconsin,Oneida,2020-04-14,0.0
 55087,Wisconsin,Outagamie,2020-03-16,2.0
 55087,Wisconsin,Outagamie,2020-03-17,2.0
 55087,Wisconsin,Outagamie,2020-03-18,2.0
@@ -57638,13 +57638,13 @@ fips,state,county,date,ML
 55093,Wisconsin,Pierce,2020-04-05,0.0
 55093,Wisconsin,Pierce,2020-04-06,0.0
 55093,Wisconsin,Pierce,2020-04-07,0.0
-55093,Wisconsin,Pierce,2020-04-08,11.53
-55093,Wisconsin,Pierce,2020-04-09,11.53
-55093,Wisconsin,Pierce,2020-04-10,11.53
-55093,Wisconsin,Pierce,2020-04-11,11.53
-55093,Wisconsin,Pierce,2020-04-12,11.53
-55093,Wisconsin,Pierce,2020-04-13,11.53
-55093,Wisconsin,Pierce,2020-04-14,11.53
+55093,Wisconsin,Pierce,2020-04-08,0.0
+55093,Wisconsin,Pierce,2020-04-09,0.0
+55093,Wisconsin,Pierce,2020-04-10,0.0
+55093,Wisconsin,Pierce,2020-04-11,0.0
+55093,Wisconsin,Pierce,2020-04-12,0.0
+55093,Wisconsin,Pierce,2020-04-13,0.0
+55093,Wisconsin,Pierce,2020-04-14,0.0
 55095,Wisconsin,Polk,2020-04-10,2.0
 55095,Wisconsin,Polk,2020-04-11,1.8800000000000001
 55095,Wisconsin,Polk,2020-04-12,1.8
@@ -57762,8 +57762,8 @@ fips,state,county,date,ML
 55107,Wisconsin,Rusk,2020-04-10,0.0
 55107,Wisconsin,Rusk,2020-04-11,0.0
 55107,Wisconsin,Rusk,2020-04-12,0.0
-55107,Wisconsin,Rusk,2020-04-13,11.94
-55107,Wisconsin,Rusk,2020-04-14,11.94
+55107,Wisconsin,Rusk,2020-04-13,0.0
+55107,Wisconsin,Rusk,2020-04-14,0.0
 55109,Wisconsin,St. Croix,2020-03-20,2.0
 55109,Wisconsin,St. Croix,2020-03-21,2.0
 55109,Wisconsin,St. Croix,2020-03-22,2.0
@@ -57785,8 +57785,8 @@ fips,state,county,date,ML
 55109,Wisconsin,St. Croix,2020-04-07,0.0
 55109,Wisconsin,St. Croix,2020-04-08,0.0
 55109,Wisconsin,St. Croix,2020-04-09,0.0
-55109,Wisconsin,St. Croix,2020-04-10,9.370000000000001
-55109,Wisconsin,St. Croix,2020-04-11,9.370000000000001
+55109,Wisconsin,St. Croix,2020-04-10,0.0
+55109,Wisconsin,St. Croix,2020-04-11,0.0
 55109,Wisconsin,St. Croix,2020-04-12,1.0
 55109,Wisconsin,St. Croix,2020-04-13,1.0
 55109,Wisconsin,St. Croix,2020-04-14,1.0
@@ -57849,8 +57849,8 @@ fips,state,county,date,ML
 55117,Wisconsin,Sheboygan,2020-03-25,0.0
 55117,Wisconsin,Sheboygan,2020-03-26,0.0
 55117,Wisconsin,Sheboygan,2020-03-27,0.0
-55117,Wisconsin,Sheboygan,2020-03-28,11.200000000000001
-55117,Wisconsin,Sheboygan,2020-03-29,11.200000000000001
+55117,Wisconsin,Sheboygan,2020-03-28,0.0
+55117,Wisconsin,Sheboygan,2020-03-29,0.0
 55117,Wisconsin,Sheboygan,2020-03-30,1.0
 55117,Wisconsin,Sheboygan,2020-03-31,2.62
 55117,Wisconsin,Sheboygan,2020-04-01,1.8900000000000001
@@ -58032,7 +58032,7 @@ fips,state,county,date,ML
 55139,Wisconsin,Winnebago,2020-03-24,0.0
 55139,Wisconsin,Winnebago,2020-03-25,0.0
 55139,Wisconsin,Winnebago,2020-03-26,0.0
-55139,Wisconsin,Winnebago,2020-03-27,11.99
+55139,Wisconsin,Winnebago,2020-03-27,0.0
 55139,Wisconsin,Winnebago,2020-03-28,1.0
 55139,Wisconsin,Winnebago,2020-03-29,1.0
 55139,Wisconsin,Winnebago,2020-03-30,1.0
@@ -58096,12 +58096,12 @@ fips,state,county,date,ML
 56001,Wyoming,Albany,2020-04-06,0.0
 56001,Wyoming,Albany,2020-04-07,0.0
 56001,Wyoming,Albany,2020-04-08,0.0
-56001,Wyoming,Albany,2020-04-09,10.75
-56001,Wyoming,Albany,2020-04-10,10.75
-56001,Wyoming,Albany,2020-04-11,10.75
-56001,Wyoming,Albany,2020-04-12,10.75
-56001,Wyoming,Albany,2020-04-13,10.75
-56001,Wyoming,Albany,2020-04-14,10.75
+56001,Wyoming,Albany,2020-04-09,0.0
+56001,Wyoming,Albany,2020-04-10,0.0
+56001,Wyoming,Albany,2020-04-11,0.0
+56001,Wyoming,Albany,2020-04-12,0.0
+56001,Wyoming,Albany,2020-04-13,0.0
+56001,Wyoming,Albany,2020-04-14,0.0
 56003,Wyoming,Big Horn,2020-04-12,2.0
 56003,Wyoming,Big Horn,2020-04-13,2.0
 56003,Wyoming,Big Horn,2020-04-14,2.0
@@ -58141,21 +58141,21 @@ fips,state,county,date,ML
 56007,Wyoming,Carbon,2020-03-28,0.0
 56007,Wyoming,Carbon,2020-03-29,0.0
 56007,Wyoming,Carbon,2020-03-30,0.0
-56007,Wyoming,Carbon,2020-03-31,11.94
-56007,Wyoming,Carbon,2020-04-01,11.94
-56007,Wyoming,Carbon,2020-04-02,11.94
-56007,Wyoming,Carbon,2020-04-03,11.94
-56007,Wyoming,Carbon,2020-04-04,11.94
-56007,Wyoming,Carbon,2020-04-05,11.94
-56007,Wyoming,Carbon,2020-04-06,11.94
-56007,Wyoming,Carbon,2020-04-07,11.94
-56007,Wyoming,Carbon,2020-04-08,11.94
-56007,Wyoming,Carbon,2020-04-09,11.94
-56007,Wyoming,Carbon,2020-04-10,11.94
-56007,Wyoming,Carbon,2020-04-11,11.94
-56007,Wyoming,Carbon,2020-04-12,11.94
-56007,Wyoming,Carbon,2020-04-13,11.94
-56007,Wyoming,Carbon,2020-04-14,11.94
+56007,Wyoming,Carbon,2020-03-31,0.0
+56007,Wyoming,Carbon,2020-04-01,0.0
+56007,Wyoming,Carbon,2020-04-02,0.0
+56007,Wyoming,Carbon,2020-04-03,0.0
+56007,Wyoming,Carbon,2020-04-04,0.0
+56007,Wyoming,Carbon,2020-04-05,0.0
+56007,Wyoming,Carbon,2020-04-06,0.0
+56007,Wyoming,Carbon,2020-04-07,0.0
+56007,Wyoming,Carbon,2020-04-08,0.0
+56007,Wyoming,Carbon,2020-04-09,0.0
+56007,Wyoming,Carbon,2020-04-10,0.0
+56007,Wyoming,Carbon,2020-04-11,0.0
+56007,Wyoming,Carbon,2020-04-12,0.0
+56007,Wyoming,Carbon,2020-04-13,0.0
+56007,Wyoming,Carbon,2020-04-14,0.0
 56009,Wyoming,Converse,2020-03-28,2.0
 56009,Wyoming,Converse,2020-03-29,2.0
 56009,Wyoming,Converse,2020-03-30,2.0
@@ -58270,8 +58270,8 @@ fips,state,county,date,ML
 56019,Wyoming,Johnson,2020-04-06,0.0
 56019,Wyoming,Johnson,2020-04-07,0.0
 56019,Wyoming,Johnson,2020-04-08,0.0
-56019,Wyoming,Johnson,2020-04-09,11.57
-56019,Wyoming,Johnson,2020-04-10,11.57
+56019,Wyoming,Johnson,2020-04-09,0.0
+56019,Wyoming,Johnson,2020-04-10,0.0
 56019,Wyoming,Johnson,2020-04-11,1.0
 56019,Wyoming,Johnson,2020-04-12,1.0
 56019,Wyoming,Johnson,2020-04-13,0.0
@@ -58316,7 +58316,7 @@ fips,state,county,date,ML
 56023,Wyoming,Lincoln,2020-04-11,0.0
 56023,Wyoming,Lincoln,2020-04-12,0.0
 56023,Wyoming,Lincoln,2020-04-13,0.0
-56023,Wyoming,Lincoln,2020-04-14,11.950000000000001
+56023,Wyoming,Lincoln,2020-04-14,0.0
 56025,Wyoming,Natrona,2020-03-20,2.0
 56025,Wyoming,Natrona,2020-03-21,2.0
 56025,Wyoming,Natrona,2020-03-22,2.0
@@ -58392,9 +58392,9 @@ fips,state,county,date,ML
 56033,Wyoming,Sheridan,2020-03-22,0.0
 56033,Wyoming,Sheridan,2020-03-23,0.0
 56033,Wyoming,Sheridan,2020-03-24,0.0
-56033,Wyoming,Sheridan,2020-03-25,10.09
-56033,Wyoming,Sheridan,2020-03-26,10.09
-56033,Wyoming,Sheridan,2020-03-27,10.09
+56033,Wyoming,Sheridan,2020-03-25,0.0
+56033,Wyoming,Sheridan,2020-03-26,0.0
+56033,Wyoming,Sheridan,2020-03-27,0.0
 56033,Wyoming,Sheridan,2020-03-28,1.0
 56033,Wyoming,Sheridan,2020-03-29,1.0
 56033,Wyoming,Sheridan,2020-03-30,1.0
@@ -58408,11 +58408,11 @@ fips,state,county,date,ML
 56033,Wyoming,Sheridan,2020-04-07,0.0
 56033,Wyoming,Sheridan,2020-04-08,0.0
 56033,Wyoming,Sheridan,2020-04-09,0.0
-56033,Wyoming,Sheridan,2020-04-10,11.86
-56033,Wyoming,Sheridan,2020-04-11,11.86
-56033,Wyoming,Sheridan,2020-04-12,11.86
-56033,Wyoming,Sheridan,2020-04-13,11.86
-56033,Wyoming,Sheridan,2020-04-14,11.86
+56033,Wyoming,Sheridan,2020-04-10,0.0
+56033,Wyoming,Sheridan,2020-04-11,0.0
+56033,Wyoming,Sheridan,2020-04-12,0.0
+56033,Wyoming,Sheridan,2020-04-13,0.0
+56033,Wyoming,Sheridan,2020-04-14,0.0
 56035,Wyoming,Sublette,2020-03-28,2.0
 56035,Wyoming,Sublette,2020-03-29,2.0
 56035,Wyoming,Sublette,2020-03-30,2.0
@@ -58511,5 +58511,5 @@ fips,state,county,date,ML
 56043,Wyoming,Washakie,2020-04-10,0.0
 56043,Wyoming,Washakie,2020-04-11,0.0
 56043,Wyoming,Washakie,2020-04-12,0.0
-56043,Wyoming,Washakie,2020-04-13,9.370000000000001
-56043,Wyoming,Washakie,2020-04-14,9.370000000000001
+56043,Wyoming,Washakie,2020-04-13,0.0
+56043,Wyoming,Washakie,2020-04-14,0.0
